@@ -5270,43 +5270,43 @@ $GhostLakilester_24 $Vector3D_8021CE18_24 00000000 00000000 00000000 00000000 00
 }
 
 #new:ConstDouble $ConstDouble_80228400_24 {
-47.000000d
+47,000000d
 }
 
 #new:ConstDouble $ConstDouble_80228408_24 {
-1.120000d
+1,120000d
 }
 
 #new:ConstDouble $ConstDouble_80228410_24 {
-0.530000d
+0,530000d
 }
 
 #new:ConstDouble $ConstDouble_80228418_24 {
-47.000000d
+47,000000d
 }
 
 #new:ConstDouble $ConstDouble_80228420_24 {
-0.800000d
+0,800000d
 }
 
 #new:ConstDouble $ConstDouble_80228428_24 {
-0.530000d
+0,530000d
 }
 
 #new:ConstDouble $ConstDouble_80228430_24 {
-0.800000d
+0,800000d
 }
 
 #new:ConstDouble $ConstDouble_80228438_24 {
-16.500000d
+16,500000d
 }
 
 #new:ConstDouble $ConstDouble_80228440_24 {
-33.000000d
+33,000000d
 }
 
 #new:ConstDouble $ConstDouble_80228448_24 {
-4.800000d
+4,800000d
 }
 
 #new:JumpTable $JumpTable_80228450_24 {

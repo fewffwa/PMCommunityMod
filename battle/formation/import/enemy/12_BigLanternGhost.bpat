@@ -993,11 +993,11 @@
 }
 
 #new:ConstDouble $ConstDouble_8022EB70_12 {
-0.714286d
+0,714286d
 }
 
 #new:ConstDouble $ConstDouble_8022EB78_12 {
-90.000000d
+90,000000d
 }
 
 #new:JumpTable $JumpTable_8022EB80_12 {

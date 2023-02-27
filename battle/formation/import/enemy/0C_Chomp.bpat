@@ -1196,6 +1196,6 @@
 }
 
 #new:ConstDouble $ConstDouble_802204E0_0C {
-0.200000d
+0,200000d
 }
 

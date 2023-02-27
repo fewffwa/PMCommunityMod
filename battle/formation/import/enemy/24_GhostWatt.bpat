@@ -732,6 +732,6 @@
 }
 
 #new:ConstDouble $ConstDouble_80228448_24 {
-4.800000d
+4,800000d
 }
 

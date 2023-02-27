@@ -3050,38 +3050,38 @@
 }
 
 #new:ConstDouble $ConstDouble_802347C0_23 {
-0.400000d
+0,400000d
 }
 
 #new:ConstDouble $ConstDouble_802347C8_23 {
-90.000000d
+90,000000d
 }
 
 #new:ConstDouble $ConstDouble_802347D0_23 {
-3.600000d
+3,600000d
 }
 
 #new:ConstDouble $ConstDouble_802347D8_23 {
-2.400000d
+2,400000d
 }
 
 #new:ConstDouble $ConstDouble_802347E0_23 {
-1.800000d
+1,800000d
 }
 
 #new:ConstDouble $ConstDouble_802347E8_23 {
-1.440000d
+1,440000d
 }
 
 #new:ConstDouble $ConstDouble_802347F0_23 {
-0.600000d
+0,600000d
 }
 
 #new:ConstDouble $ConstDouble_802347F8_23 {
-0.960000d
+0,960000d
 }
 
 #new:ConstDouble $ConstDouble_80234800_23 {
-0.300000d
+0,300000d
 }
 

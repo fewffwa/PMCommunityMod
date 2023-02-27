@@ -2926,30 +2926,30 @@
 }
 
 #new:ConstDouble $ConstDouble_80234780_23 {
-0.400000d
+0,400000d
 }
 
 #new:ConstDouble $ConstDouble_80234788_23 {
-2.400000d
+2,400000d
 }
 
 #new:ConstDouble $ConstDouble_80234790_23 {
-1.600000d
+1,600000d
 }
 
 #new:ConstDouble $ConstDouble_80234798_23 {
-1.200000d
+1,200000d
 }
 
 #new:ConstDouble $ConstDouble_802347A0_23 {
-0.960000d
+0,960000d
 }
 
 #new:ConstDouble $ConstDouble_802347A8_23 {
-0.400000d
+0,400000d
 }
 
 #new:ConstDouble $ConstDouble_802347B0_23 {
-0.640000d
+0,640000d
 }
 

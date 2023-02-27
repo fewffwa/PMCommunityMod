@@ -1,0 +1,116 @@
+#define .NpcID:ChuckQuizmo_06       06
+#define .NpcID:Toad_07              07
+#define .NpcID:Toad_08              08
+#define .NpcID:Toad_09              09
+#define .NpcID:Toad_10              0A
+#define .NpcID:ThreeSisters_11      0B
+#define .NpcID:ThreeSisters_12      0C
+#define .NpcID:ThreeSisters_13      0D
+#define .NpcID:ThreeSisters_14      0E
+#define .NpcID:Toad_15              0F
+#define .NpcID:Toad_16              10
+#define .NpcID:Toad_17              11
+#define .NpcID:ThreeSisters_18      12
+#define .NpcID:ToadKid_19           13
+#define .NpcID:ToadKid_20           14
+#define .NpcID:ShyGuy_21            15
+#define .NpcID:ShyGuy_22            16
+#define .NpcID:ShyGuy_23            17
+#define .NpcID:Toad_24              18
+#define .NpcID:Luigi_25             19
+#define .NpcID:Goompapa_26          1A
+#define .NpcID:Goomama_27           1B
+#define .NpcID:Gooma_28             1C
+#define .NpcID:HarryT_29            1D
+#define .NpcID:VannaT_30            1E
+
+@ $Script_80253508 {
+    Call  DisablePlayerInput    ( .True )
+    Thread
+    Call  UseSettingsFrom   ( .Cam:Default  -100`  30`  -370` )
+    Call  SetPanTarget      ( .Cam:Default  -100`  30`  -370` )
+    Call  SetCamDistance    ( .Cam:Default *Fixed[300.0] )
+    Call  SetCamSpeed       ( .Cam:Default *Fixed[90.0] )
+    Call  PanToTarget       ( .Cam:Default 00000000 00000001 )
+    Wait  70`
+    Call  SetPanTarget  ( .Cam:Default  -60`  0`  -320` )
+    Call  SetCamDistance    ( .Cam:Default *Fixed[600.0] )
+    Call  SetCamSpeed   ( .Cam:Default *Fixed[2.0] )
+    Call  PanToTarget   ( .Cam:Default 00000000 00000001 )
+    Call  WaitForCam    ( .Cam:Default *Fixed[1.0] )
+    Call  UseSettingsFrom   ( .Cam:Default  400`  0`  0` )
+    Call  SetPanTarget  ( .Cam:Default  400`  0`  0` )
+    Call  SetCamDistance    ( .Cam:Default *Fixed[450.0] )
+    Call  SetCamSpeed   ( .Cam:Default *Fixed[0.5] )
+    Call  PanToTarget   ( .Cam:Default 00000000 00000001 )
+    Call  WaitForCam    ( .Cam:Default *Fixed[1.0] )
+    EndThread
+ If *LuigiHasWallet == 0
+    Thread
+        ExecWait  $Script_80253220
+        Wait  10`
+        Call  802D1270 ( FFFFFFC4 FFFFFEC0 *Fixed[4.0] )
+        Wait  63`
+        Call  802D1270 ( 00000050 FFFFFFC4 *Fixed[4.0] )
+        Call  802D1270  ( 000000B4 00000000 *Fixed[4.0] )
+        Call  802D1270  ( 00000500` 00000000 *Fixed[4.0] )
+    EndThread    
+    Thread
+        Wait  70`
+        ExecWait  $Script_80253374
+        Wait  10`
+        Call  SetNpcFlagBits    ( 00000000 00000200 .True )
+        Call  SetNpcAnimation   ( 00000000 0082000A )
+        Call  SetNpcSpeed   ( 00000000 *Fixed[4.0] )
+        Call  NpcMoveTo     ( 00000000  80`  -60`  0` )
+        Call  NpcMoveTo     ( 00000000  180`  0`  0` )
+        Call  NpcMoveTo     ( 00000000  400`  0`  0` )
+        Call  SetNpcAnimation   ( 00000000 00820000 )
+    EndThread
+    Wait 300`
+        Call FadeOutMusic ( 0 30` )
+    Thread
+         Call SpeakToPlayer ( 00000000 00820014 00820000 0 $String_Wallet )
+         Call  SetNpcAnimation   ( 00000000 00820000 )
+        Set *LuigiHasWallet 1
+        Call  GotoMap       ( "kmr_20" 00000001 ) 
+    EndThread
+
+    Else
+        Thread
+            ExecWait  $Script_80253220
+            Wait  10`
+            Call  802D1270  ( FFFFFFC4 FFFFFEC0 *Fixed[4.0] )
+            Wait  63`
+            Call  802D1270  ( 00000050 FFFFFFC4 *Fixed[4.0] )
+            Call  802D1270  ( 000000B4 00000000 *Fixed[4.0] )
+            Call  802D1270  ( 0000028A 00000000 *Fixed[4.0] )
+        EndThread    
+        Thread
+            Wait  70`
+            ExecWait  $Script_80253374
+            Wait  10`
+            Call  SetNpcFlagBits    ( 00000000 00000200 .True )
+            Call  SetNpcAnimation   ( 00000000 0082000A )
+            Call  SetNpcSpeed   ( 00000000 *Fixed[4.0] )
+            Call  NpcMoveTo     ( 00000000  80`  -60`  0` )
+            Call  NpcMoveTo     ( 00000000  180`  0`  0` )
+            Call  NpcMoveTo     ( 00000000  650`  0`  0` )
+        EndThread
+        Wait 330`
+        Call  GotoMap       ( $ASCII_80255B60 00000004 ) % mac_01   
+    EndIf
+    Return
+    End
+}
+#new:String $String_Wallet
+{
+[Style Right]
+...[BR]
+[Wait][Next]
+Uh...[pause 20] Mario? [BR]
+[BR]
+[wait][next]
+We gotta go back.[pause 20] I forgot
+[br]my wallet.[Wait][End]
+}

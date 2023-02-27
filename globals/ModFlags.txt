@@ -1,0 +1,1 @@
+000 = Flag_wallet_00 = LuigiHasWallet

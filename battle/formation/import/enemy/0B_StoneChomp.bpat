@@ -1024,6 +1024,6 @@
 }
 
 #new:ConstDouble $ConstDouble_80224920_0B {
-0.200000d
+0,200000d
 }
 

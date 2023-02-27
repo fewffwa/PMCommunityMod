@@ -5457,43 +5457,43 @@ $LeeLakilester_03 $Vector3D_8021E940_03 00000000 00000000 00000000 00000000 0000
 }
 
 #new:ConstDouble $ConstDouble_80232AF0_03 {
-47.000000d
+47,000000d
 }
 
 #new:ConstDouble $ConstDouble_80232AF8_03 {
-1.120000d
+1,120000d
 }
 
 #new:ConstDouble $ConstDouble_80232B00_03 {
-0.530000d
+0,530000d
 }
 
 #new:ConstDouble $ConstDouble_80232B08_03 {
-47.000000d
+47,000000d
 }
 
 #new:ConstDouble $ConstDouble_80232B10_03 {
-0.800000d
+0,800000d
 }
 
 #new:ConstDouble $ConstDouble_80232B18_03 {
-0.530000d
+0,530000d
 }
 
 #new:ConstDouble $ConstDouble_80232B20_03 {
-0.800000d
+0,800000d
 }
 
 #new:ConstDouble $ConstDouble_80232B28_03 {
-16.500000d
+16,500000d
 }
 
 #new:ConstDouble $ConstDouble_80232B30_03 {
-33.000000d
+33,000000d
 }
 
 #new:ConstDouble $ConstDouble_80232B38_03 {
-4.800000d
+4,800000d
 }
 
 #new:JumpTable $JumpTable_80232B40_03 {

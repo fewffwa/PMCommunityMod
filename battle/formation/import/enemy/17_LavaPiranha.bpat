@@ -931,84 +931,84 @@
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A120_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @ModelID    00000058 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A14C_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   1,367840 0,000000 -0,049440
+@Position   0.000000 0.000000 0.000000
+@Rotation   1.367840 0.000000 -0.049440
 @Next       $AnimatedModelNode_8021A120_17 
 @ModelID    00000057 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A178_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A14C_17 
 @ModelID    00000056 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A1A4_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A178_17 
 @ModelID    00000055 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A1D0_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A1A4_17 
 @ModelID    00000054 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A1FC_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A1D0_17 
 @ModelID    00000053 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A228_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A1FC_17 
 @ModelID    00000052 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A254_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A228_17 
 @ModelID    00000051 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A280_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A254_17 
 @ModelID    00000050 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A2AC_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A280_17 
 @ModelID    0000004F 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A2D8_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Next       $AnimatedModelNode_8021A2AC_17 
 @ModelID    0000004E 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021A304_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Child      $AnimatedModelNode_8021A2D8_17 
 }
 
@@ -1859,70 +1859,70 @@ $AnimatedModelNode_8021A1A4_17 $AnimatedModelNode_8021A178_17 $AnimatedModelNode
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C308_17 {
-@Position   102,000000 99,000000 -10,000000
-@Rotation   0,000000 0,000000 22,885220
+@Position   102.000000 99.000000 -10.000000
+@Rotation   0.000000 0.000000 22.885220
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C334_17 {
-@Position   137,000000 94,000000 -10,000000
-@Rotation   0,000000 0,000000 60,481583
+@Position   137.000000 94.000000 -10.000000
+@Rotation   0.000000 0.000000 60.481583
 @Next       $AnimatedModelNode_8021C308_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C360_17 {
-@Position   127,000000 56,000000 -10,000000
-@Rotation   0,000000 0,000000 -29,751884
+@Position   127.000000 56.000000 -10.000000
+@Rotation   0.000000 0.000000 -29.751884
 @Next       $AnimatedModelNode_8021C334_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C38C_17 {
-@Position   106,000000 23,000000 -10,000000
-@Rotation   0,000000 0,000000 -19,995728
+@Position   106.000000 23.000000 -10.000000
+@Rotation   0.000000 0.000000 -19.995728
 @Next       $AnimatedModelNode_8021C360_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C3B8_17 {
-@Position   122,000000 -13,000000 -10,000000
-@Rotation   0,000000 0,000000 29,999084
+@Position   122.000000 -13.000000 -10.000000
+@Rotation   0.000000 0.000000 29.999084
 @Next       $AnimatedModelNode_8021C38C_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C3E4_17 {
-@Position   120,000000 108,000000 -11,000000
-@Rotation   0,000000 0,000000 115,607162
+@Position   120.000000 108.000000 -11.000000
+@Rotation   0.000000 0.000000 115.607162
 @Next       $AnimatedModelNode_8021C3B8_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C410_17 {
-@Position   140,000000 73,000000 -11,000000
-@Rotation   0,000000 0,000000 15,359355
+@Position   140.000000 73.000000 -11.000000
+@Rotation   0.000000 0.000000 15.359355
 @Next       $AnimatedModelNode_8021C3E4_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C43C_17 {
-@Position   112,000000 42,000000 -11,000000
-@Rotation   0,000000 0,000000 -44,875027
+@Position   112.000000 42.000000 -11.000000
+@Rotation   0.000000 0.000000 -44.875027
 @Next       $AnimatedModelNode_8021C410_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C468_17 {
-@Position   110,000000 3,000000 -11,000000
-@Rotation   0,000000 0,000000 4,998932
+@Position   110.000000 3.000000 -11.000000
+@Rotation   0.000000 0.000000 4.998932
 @Next       $AnimatedModelNode_8021C43C_17 
 @DisplayList   $AnimatedModelNode_8021C308_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C494_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Child      $AnimatedModelNode_8021C468_17 
 }
 
@@ -1932,56 +1932,56 @@ $AnimatedModelNode_8021C334_17 $AnimatedModelNode_8021C308_17 00000000
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C4F0_17 {
-@Position   62,000000 53,000000 -20,000000
-@Rotation   0,000000 0,000000 71,523178
+@Position   62.000000 53.000000 -20.000000
+@Rotation   0.000000 0.000000 71.523178
 @DisplayList   $AnimatedModelNode_8021C4F0_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C51C_17 {
-@Position   97,000000 51,000000 -20,000000
-@Rotation   0,000000 0,000000 71,781364
+@Position   97.000000 51.000000 -20.000000
+@Rotation   0.000000 0.000000 71.781364
 @Next       $AnimatedModelNode_8021C4F0_17 
 @DisplayList   $AnimatedModelNode_8021C4F0_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C548_17 {
-@Position   75,000000 19,000000 -20,000000
-@Rotation   0,000000 0,000000 -55,625477
+@Position   75.000000 19.000000 -20.000000
+@Rotation   0.000000 0.000000 -55.625477
 @Next       $AnimatedModelNode_8021C51C_17 
 @DisplayList   $AnimatedModelNode_8021C4F0_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C574_17 {
-@Position   69,000000 -19,000000 -20,000000
-@Rotation   0,000000 0,000000 0,670186
+@Position   69.000000 -19.000000 -20.000000
+@Rotation   0.000000 0.000000 0.670186
 @Next       $AnimatedModelNode_8021C548_17 
 @DisplayList   $AnimatedModelNode_8021C4F0_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C5A0_17 {
-@Position   76,000000 62,000000 -21,000000
-@Rotation   0,000000 0,000000 135,482040
+@Position   76.000000 62.000000 -21.000000
+@Rotation   0.000000 0.000000 135.482040
 @Next       $AnimatedModelNode_8021C574_17 
 @DisplayList   $AnimatedModelNode_8021C4F0_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C5CC_17 {
-@Position   96,000000 28,000000 -21,000000
-@Rotation   0,000000 0,000000 8,075197
+@Position   96.000000 28.000000 -21.000000
+@Rotation   0.000000 0.000000 8.075197
 @Next       $AnimatedModelNode_8021C5A0_17 
 @DisplayList   $AnimatedModelNode_8021C4F0_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C5F8_17 {
-@Position   67,000000 0,000000 -21,000000
-@Rotation   0,000000 0,000000 -29,328897
+@Position   67.000000 0.000000 -21.000000
+@Rotation   0.000000 0.000000 -29.328897
 @Next       $AnimatedModelNode_8021C5CC_17 
 @DisplayList   $AnimatedModelNode_8021C4F0_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C624_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Child      $AnimatedModelNode_8021C5F8_17 
 }
 
@@ -1991,42 +1991,42 @@ $AnimatedModelNode_8021C624_17 $AnimatedModelNode_8021C5F8_17 $AnimatedModelNode
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C678_17 {
-@Position   132,000000 -5,000000 -5,000000
-@Rotation   0,000000 0,000000 165,157013
+@Position   132.000000 -5.000000 -5.000000
+@Rotation   0.000000 0.000000 165.157013
 @DisplayList   $AnimatedModelNode_8021C678_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C6A4_17 {
-@Position   98,000000 4,000000 -5,000000
-@Rotation   0,000000 0,000000 -80,120239
+@Position   98.000000 4.000000 -5.000000
+@Rotation   0.000000 0.000000 -80.120239
 @Next       $AnimatedModelNode_8021C678_17 
 @DisplayList   $AnimatedModelNode_8021C678_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C6D0_17 {
-@Position   129,000000 -26,000000 -6,000000
-@Rotation   0,000000 0,000000 125,160072
+@Position   129.000000 -26.000000 -6.000000
+@Rotation   0.000000 0.000000 125.160072
 @Next       $AnimatedModelNode_8021C6A4_17 
 @DisplayList   $AnimatedModelNode_8021C678_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C6FC_17 {
-@Position   120,000000 12,000000 -6,000000
-@Rotation   0,000000 0,000000 -154,983368
+@Position   120.000000 12.000000 -6.000000
+@Rotation   0.000000 0.000000 -154.983368
 @Next       $AnimatedModelNode_8021C6D0_17 
 @DisplayList   $AnimatedModelNode_8021C678_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C728_17 {
-@Position   87,000000 -13,000000 -6,000000
-@Rotation   0,000000 0,000000 -39,749748
+@Position   87.000000 -13.000000 -6.000000
+@Rotation   0.000000 0.000000 -39.749748
 @Next       $AnimatedModelNode_8021C6FC_17 
 @DisplayList   $AnimatedModelNode_8021C678_17 
 }
 
 #new:AnimatedModelNode $AnimatedModelNode_8021C754_17 {
-@Position   0,000000 0,000000 0,000000
-@Rotation   0,000000 0,000000 0,000000
+@Position   0.000000 0.000000 0.000000
+@Rotation   0.000000 0.000000 0.000000
 @Child      $AnimatedModelNode_8021C728_17 
 }
 
@@ -4862,6 +4862,6 @@ $PetitPiranhaBomb_17 $Vector3D_80226AF8_17 0000005F 00000000 00000000 00000000 0
 }
 
 #new:ConstDouble $ConstDouble_8022AC40_17 {
-90,000000d
+90.000000d
 }
 

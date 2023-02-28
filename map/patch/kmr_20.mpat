@@ -199,7 +199,8 @@
   750:  Wait  10`
   75C:  Call  NpcFlyTo      ( 00000000  ~Vec3d:Gourm  60`  -10` .Easing:Linear )
   784:  Wait  30`
-  ExecWait $Script_RotateAndScaleModel
+  Exec $Script_RotateAndScaleModel
+  79C:  Wait  45`
   790:  Exec  $Script_8024FCE4
   79C:  Wait  10`
   7A8:  Call  SetNpcAnimation   ( 00000001 0082000A )
@@ -234,7 +235,7 @@
   A38:  EndThread
   A40:  Wait  2`
   A4C:  Call  SetNpcAnimation   ( 00000001 00820005 )
-  A60:  Wait  40`
+  A60:  Wait  20`
   A6C:  Call  InterpNpcYaw  ( 00000001  270`  5` )
   A84:  Call  SetNpcAnimation   ( 00000001 0082000B )
   A98:  Exec  $Script_8024F5A4 *VarA
@@ -313,6 +314,56 @@
     Wait 2`
   EndLoop
   Call SetModelFlags ( ~Model:FMatter 00000002 .True )
+  Return
+  End
+}
+
+@ $Script_80250C5C {
+  Call  DisablePlayerInput    ( .True )
+  Call  SetNpcPos     ( 00000001  220`  30`  -70` )
+  Call  SetNpcYaw     ( 00000001  90` )
+  Call  UseSettingsFrom       ( .Cam:Default  320`  30`  -70` )
+  Call  SetPanTarget  ( .Cam:Default  320`  30`  -70` )
+  Call  SetCamSpeed   ( .Cam:Default *Fixed[90.0] )
+  Call  PanToTarget   ( .Cam:Default 00000000 00000001 )
+  Wait  180`
+  Call  SetMusicTrack ( 00000000 .Song:PeachsCastleParty 00000001 00000008 )
+  Exec  $Script_8024FCE4
+  Thread
+    Wait  10`
+    Call  SetNpcSpeed   ( 00000001 *Fixed[3.0] )
+    Call  SetNpcAnimation   ( 00000001 0082000A )
+    Exec  $Script_8024F5A4 *VarA
+    Call  NpcMoveTo     ( 00000001  320`  -70`  0` )
+    Call  NpcMoveTo     ( 00000001  460`  -70`  0` )
+    Call  NpcMoveTo     ( 00000001  570`  -170`  0` )
+    Call  SetNpcAnimation   ( 00000001 00820004 )
+    Kill  *VarA
+  EndThread
+  Call  802D1270      ( 00000140 FFFFFFBA *Fixed[3.0] )
+  Call  PanToTarget   ( .Cam:Default 00000000 00000000 )
+  Call  802D1270      ( 000001CC FFFFFFBA *Fixed[3.0] )
+  Call  802D1270      ( 0000023A FFFFFF56 *Fixed[3.0] )
+  Call  SetPlayerJumpscale    ( *Fixed[1.0] )
+  Call  PlayerJump    ( ~Vec3d:JumpDest_80250E6C  15` )
+  ExecWait  $Script_8024F6BC
+  Call  SetNpcAnimation       ( 00000001 0082000C )
+  Wait  10`
+  Thread
+    Call  SetNpcAnimation   ( 00000001 0082000D )
+    Call  PlaySoundAtNpc    ( 00000001 .Sound:Jump 00000000 )
+    Wait  7`
+    Wait  7`
+    Call  SetNpcAnimation   ( 00000001 00820004 )
+    Call  PlaySoundAtNpc    ( 00000001 .Sound:SoftLand 00000000 )
+  EndThread
+  Call  SetNpcJumpscale   ( 00000001 *Fixed[1.0] )
+  Call  NpcJump0  ( 00000001  594`  30`  -216`  15` )
+  ExecWait  $Script_8024F840
+  Exec  $Script_80242D78
+  Call  GotoMap   ( $ASCII_80253010 00000005 ) % mac_00
+  Wait  100`
+  Call  DisablePlayerInput    ( .False )
   Return
   End
 }

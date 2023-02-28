@@ -1446,38 +1446,38 @@
 }
 
 #new:ConstDouble $ConstDouble_802312D0_1D {
-47,000000d
+47.000000d
 }
 
 #new:ConstDouble $ConstDouble_802312D8_1D {
-1,120000d
+1.120000d
 }
 
 #new:ConstDouble $ConstDouble_802312E0_1D {
-0,530000d
+0.530000d
 }
 
 #new:ConstDouble $ConstDouble_802312E8_1D {
-47,000000d
+47.000000d
 }
 
 #new:ConstDouble $ConstDouble_802312F0_1D {
-0,800000d
+0.800000d
 }
 
 #new:ConstDouble $ConstDouble_802312F8_1D {
-0,530000d
+0.530000d
 }
 
 #new:ConstDouble $ConstDouble_80231300_1D {
-0,800000d
+0.800000d
 }
 
 #new:ConstDouble $ConstDouble_80231308_1D {
-16,500000d
+16.500000d
 }
 
 #new:ConstDouble $ConstDouble_80231310_1D {
-33,000000d
+33.000000d
 }
 

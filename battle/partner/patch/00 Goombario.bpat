@@ -9,3 +9,73 @@
     [1EC]  LTB  V1, V0 ($Global_ActorOffsetsTable[1])
     [210]  LTB  A0, V0 ($Global_ActorOffsetsTable[2])
 }
+
+
+@ $Script_8023A06C
+{
+    0:  Call  80280818 ( )
+    C:  Call  UseBattleCamPreset    ( 00000003 )
+   1C:  Call  SetAnimation  ( .Actor:Partner FFFFFFFF 00090001 )
+   34:  Call  SetGoalToHome ( .Actor:Partner )
+   44:  Call  GetGoalPos    ( .Actor:Partner *Var0 *Var1 *Var2 )
+   60:  Add   *Var0  0000003C
+   70:  Call  SetGoalPos    ( .Actor:Partner *Var0 *Var1 *Var2 )
+   8C:  Call  SetActorJumpGravity   ( .Actor:Partner *Fixed[1.4] )
+   A0:  Call  $Function_80238000 ( )
+   AC:  Thread
+   B4:  	Wait  4`
+   C0:  	Call  SetActorRotationOffset    ( .Actor:Self 00000000 0000000C 00000000 )
+   DC:  	Sub   *Var0  00000004
+   EC:  	Set   *Var1  *Var0
+   FC:  	Div   *Var1  00000003
+  10C:  	If  *Var1  <  00000001
+  11C:  		Set   *Var1  00000001
+  12C:  	EndIf
+  134:  	Set   *Var2  *Var1
+  144:  	Mod   *Var2  00000002
+  154:  	If  *Var2  ==  00000000
+  164:  		Sub   *Var1  00000001
+  174:  	EndIf
+  17C:  	Set   *Var0  000000B4
+  18C:  	Loop  *Var1
+  198:  		Loop  00000003
+  1A4:  			Add   *Var0  0000003C
+  1B4:  			Call  SetActorRotation  ( .Actor:Self 00000000 00000000 *Var0 )
+  1D0:  			Wait  1`
+  1DC:  		EndLoop
+  1E4:  	EndLoop
+  1EC:  	Call  SetActorRotation  ( .Actor:Self 00000000 00000000 00000000 )
+  208:  	Call  SetActorRotationOffset    ( .Actor:Self 00000000 00000000 00000000 )
+  224:  EndThread
+  22C:  Call  JumpToGoal    ( .Actor:Partner FFFFFFFF .False .True .False )
+  24C:  Call  SetAnimation  ( .Actor:Self 00000001 00090007 )
+  264:  Call  SetActorDispOffset    ( .Actor:Partner 00000000 00000012 00000000 )
+  280:  Wait  1`
+  28C:  Call  SetActorRotation      ( .Actor:Self 00000000 00000000 00000000 )
+  2A8:  Call  SetActorDispOffset    ( .Actor:Self 00000000 00000000 00000000 )
+  2C4:  Call  SetAnimation  ( .Actor:Partner FFFFFFFF 00090001 )
+  2DC:  Call  AddGoalPos    ( .Actor:Partner  20`  0`  0` )
+  2F8:  Call  JumpToGoal    ( .Actor:Partner  6` .False .False .True )
+  318:  Call  SetAnimation  ( .Actor:Self 00000001 00090007 )
+  330:  Call  SetActorDispOffset    ( .Actor:Partner 00000000 00000012 00000000 )
+  34C:  Wait  1`
+  358:  Call  AddGoalPos    ( .Actor:Partner  -50`  0`  0` )
+  374:  Call  SetAnimation  ( .Actor:Partner FFFFFFFF 00090001 )
+  38C:  Call  SetActorDispOffset    ( .Actor:Self 00000000 00000000 00000000 )
+  3A8:  Call  JumpToGoal    ( .Actor:Partner  4` .False .False .True )
+  3C8:  Call  SetAnimation  ( .Actor:Self 00000001 00090007 )
+  3E0:  Call  SetActorDispOffset    ( .Actor:Partner 00000000 00000012 00000000 )
+  3FC:  Wait  1`
+  408:  Call  SetActorDispOffset    ( .Actor:Self 00000000 00000000 00000000 )
+  424:  Call  SetAnimation  ( .Actor:Partner FFFFFFFF 00090001 )
+  43C:  Wait  2`
+	Call  SetAnimation  ( .Actor:Partner FFFFFFFF 00090013 )
+	Wait  20`
+  448:  Call  SetGoalToHome ( .Actor:Partner )
+  458:  Call  SetActorSpeed ( .Actor:Partner *Fixed[11.0] )
+  46C:  Call  SetAnimation  ( .Actor:Partner FFFFFFFF 00090003 )
+  484:  Call  RunToGoal     ( .Actor:Partner  0` )
+  498:  Call  SetAnimation  ( .Actor:Partner FFFFFFFF 00090001 )
+  4B0:  Return
+  4B8:  End
+}

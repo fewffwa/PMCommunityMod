@@ -47,7 +47,7 @@
   1EC:  	Call  SetActorRotation  ( .Actor:Self 00000000 00000000 00000000 )
   208:  	Call  SetActorRotationOffset    ( .Actor:Self 00000000 00000000 00000000 )
   224:  EndThread
-  22C:  Call  JumpToGoal    ( .Actor:Partner *Var0 .False .True .False )
+  22C:  Call  JumpToGoal    ( .Actor:Partner FFFFFFFF .False .True .False )
   24C:  Call  SetAnimation  ( .Actor:Self 00000001 00090007 )
   264:  Call  SetActorDispOffset    ( .Actor:Partner 00000000 00000012 00000000 )
   280:  Wait  1`

@@ -195,19 +195,20 @@
 #string:00:023
 {
 	[Style Narrate]
-	[Pause 4][InputOn]I'm throwing a party at my[BR]
-	castle today![BR]
-	[Pause 10]Mario and Luigi, I would be[BR]
-	honored if you both could attend.[BR]
+	[Pause 4][InputOn]Hay guise. Totally forgot that I'm[BR]
+	supposed to be throwing a party[BR]
+	today and I'm drunk off my ass.
 	[Wait][BR]
 	[Next]
-	[Down 5]Many guests from distant towns [BR]
-	[Down 5]are hoping to meet you.[BR]
+	Mario, Luigi, if you promise I won't[BR]
+	get wrapped up in another one of[BR]
+	your lame-ass adventures, could[BR]
+	you stop by and chill for a while?
 	[Wait][BR]
-	[Up 10][Next]
-	There will be tasty sweets and[BR]
-	all kinds of entertainment![BR]
-	I hope to see you here soon![BR]
+	[Next]
+	Just keep things vibing until I[BR]
+	sober up. Do NOT come and speak[BR]
+	to me![BR]
 	[Pause 15][Right 110]Sincerely, Peach[BR]
 	[Wait][Yield][End]
 }
@@ -624,46 +625,46 @@
 #string:00:04B
 {
 	[Style Right]
-	Oh, Mario![BR]
-	[Pause 10]You came to the party to see[BR]
-	me! You're so sweet![BR]
-	[Pause 20]Thank you![HEART][Wait][End]
+	Oh. Mario.[BR]
+	[Pause 10]You... came to the party to see[BR]
+	me? You're so, uh, sweet.[BR][Wait][End]
 }
 
 #string:00:04C
 {
 	[Style Right]
-	I was just resting a bit. It[BR]
-	gets tiring, greeting all those[BR]
-	guests out there![BR]
+	Look, my head is pounding, and[BR]
+	talking to you is making it worse.[BR]
+	No way am I dealing with those[BR]
+	boring-ass guests like this.[BR]
 	[Wait][Next]
-	Nobody will bother us here.[BR]
-	[Pause 10]Shall we relax and chat, just the[BR]
-	two of us? [Wait][End]
+	I came back here to not be[BR]
+	disturbed.[BR]
+	[Pause 10]So, uh, kindly go away?[Wait][End]
 }
 
 #string:00:04D
 {
 	[Style Right]
-	It was a lovely day today, so I'm[BR]
-	sure it's comfortable out on the[BR]
-	balcony right now.[BR]
-	[Pause 10]Would you accompany me, Mario?[Wait][End]
+	I'm gonna go chill out in the high[BR]
+	tower with my head under a pillow.[BR]
+	[Pause 10]Please don't follow me.[Wait][End]
 }
 
 #string:00:04E
 {
 	[Style Right]
-	Oh! Are you all right, Mario?[BR]
-	[Pause 10]What in the world was that?[Wait][End]
+	Oh, shit! Did I take the wrong[BR]
+	pills? Is this what an acid trip[BR]
+	feels like?[Wait][End]
 }
 
 #string:00:04F
 {
 	[Style Right]
-	Oh my! Look, Mario![BR]
-	[Pause 10]It's still daytime, isn't it?[BR]
-	[Pause 10]... But I can see stars outside![Wait][End]
+	Oh, like, wow!!! Look, Mario![BR]
+	[Pause 10]It's nighttime![BR]
+	[Pause 10]Guess you'd better go home![Wait][End]
 }
 
 #string:00:050
@@ -677,12 +678,9 @@
 #string:00:051
 {
 	[Style Right]
-	... Bowser![BR]
-	[Pause 10]But this can't be![BR]
-	It was you who made the ground[BR]
-	shake just now, wasn't it![BR]
-	[Wait][Next]
-	Whatever did you do?[Wait][End]
+	...uhhhhhh. Hi. You.[BR]
+	[Pause 10]Mario, what's this handsome guy's[BR]
+	name again?[Wait][End]
 }
 
 #string:00:052
@@ -690,7 +688,7 @@
 	[Style Right]
 	[Voice Bowser][Down 8][PrintRising][Wave][Size 32]Gwa ha ha ha![BR]
 	[SizeReset][/PrintRising][/Wave][Wait][BR]
-	[Scroll 3][Up 12]Yeah, that was me! I've lifted[BR]
+	[Scroll 3][Up 12]Yeah, it's me, Bowser! I've lifted[BR]
 	your castle up into the sky![BR]
 	It's sitting on my castle now![BR]
 	[Pause 10]Weren't expecting that, huh?[BR]
@@ -717,11 +715,10 @@
 #string:00:054
 {
 	[Style Right]
-	Haven't you learned your lesson[BR]
-	by now, Bowser?[BR]
+	Oh, you're, like, still here.[BR]
 	[Wait][Next]
-	You can never defeat Mario![BR]
-	[Pause 10]Why don't you give up already?[Wait][End]
+	Leave the beefcake alone, Mario.[BR]
+	[Pause 10]You're clearly no match for him.[Wait][End]
 }
 
 #string:00:055
@@ -744,7 +741,8 @@
 #string:00:057
 {
 	[Style Right]
-	Mario, [Pause 5]you can do it![Wait][End]
+	Mario, [Pause 5]you'd better not blow this[BR]
+	for me!![Wait][End]
 }
 
 #string:00:058
@@ -806,7 +804,8 @@
 #string:00:05D
 {
 	[Style Right]
-	[PrintRising]Oh no! Mario! Get up![Wait][End]
+	Oh, no. Mario, get up.[BR]
+	[Pause 20]C'mon, you're harshing my vibe.[Wait][End]
 }
 
 #string:00:05E
@@ -846,6 +845,6 @@
 #string:00:062
 {
 	[Style Right]
-	[PrintRising]Oh, no! Mario------!![Wait][End]
+	[PrintRising]Oh, no! My window----------!![Wait][End]
 }
 

@@ -1,6 +1,41 @@
-#string:2F:000
+#message:2F:000
 {
 [Style Right]Nice try Mario, but you're[BR]
 simply not going to beat me[BR]
 this time![Wait][End]
+}
+
+#message:2F:001
+{
+[Style Right]Yep. That's right. It's literally[BR]
+nothing. [Pause 20]And it's not gonna be[BR]
+anything, either.[BR]
+[Wait][Next]
+Heh heh heh... ya get it?[BR]
+[Wait][Next]
+I know I can't beat you. One of[BR]
+your turns... you're just gonna[BR]
+kill me.[BR]
+[Wait][Next]
+So, uh. [Pause 10]I've decided...[BR]
+[Pause 20]It's not gonna BE your turn.[BR]
+[Pause 10]Ever.[BR]
+[Wait][Next]
+I'm just gonna keep having MY[BR]
+turn until you give up. Even if it[BR]
+means we have to stand here until[BR]
+the end of time.[BR]
+[Wait][Next]
+Capiche?
+[Wait][End]
+}
+
+#message:2F:002
+{
+[Style Right]Gah! I can't take it any more![Wait][End]
+}
+
+#message:2F:003
+{
+[Style Right]Aw, cranberries.[Wait][End]
 }

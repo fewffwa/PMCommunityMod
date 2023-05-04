@@ -1,0 +1,2024 @@
+#string:13:000
+{
+	[Style Right]
+	[Wave]Bwoooaaahhhhhhhh!!!![BR]
+	[/fx][Pause 10]Wewcome, wowm![BR]
+	[Wait][Next]
+	I'm cawwed the Guawd Doow of[BR]
+	Bowsew's Castwe.[BR]
+	[Pause 10]It's my job to keep suspicious[BR]
+	types fwom entewing.[BR]
+	[Wait][Next]
+	You must be Mawio.[BR]
+	[Pause 10]Wet me guess... Do you want to[BR]
+	go thwough hewe? Hmm?[BR]
+	[Wait][Next]
+	You want to get to the othew[BR]
+	side of this waww, wight?[BR]
+	[Yield][End]
+}
+
+#string:13:001
+{
+	[Style Right]
+	What's the mattew with you?[BR]
+	[Pause 10]You want to go thwough hewe,[BR]
+	don't you?[BR]
+	[Yield][End]
+}
+
+#string:13:002
+{
+	[Next]
+	Weww, if you don't want to go[BR]
+	thwough hewe, then you'we[BR]
+	wasting my time.[BR]
+	[Pause 10]Go away! Now![Wait][End]
+}
+
+#string:13:003
+{
+	[Next]
+	OK then... Heh heh heh...[BR]
+	[Pause 10]Stand in fwont of me.[Wait][End]
+}
+
+#string:13:004
+{
+	[Style Right]
+	What's the mattew with you? Awe[BR]
+	you scawed ow something?[BR]
+	[Pause 10]Quick! Come stand in fwont of me[BR]
+	if you want to pass thwough.[BR]
+	[Wait][Next]
+	I don't have aww day to wait fow[BR]
+	you to wandew ovew hewe.[Wait][End]
+}
+
+#string:13:005
+{
+	[Style Right]
+	Awe you standing squawewy in[BR]
+	fwont of me?[BR]
+	[Wait][Next]
+	OK... Then...I'ww wet you go[BR]
+	thwough.[Wait][End]
+}
+
+#string:13:006
+{
+	[Next]
+	Awe you standing squawewy in[BR]
+	fwont of me?[BR]
+	[Wait][Next]
+	OK... Then...I'ww wet you go[BR]
+	thwough.[BR]
+	[Wait][End]
+}
+
+#string:13:007
+{
+	[Style Right]
+	Gaaaah ha ha ha ha!![BR]
+	[Pause 10]You feww fow it, wowm![BR]
+	[Wait][Next]
+	You'ww nevew escape fwom that[BR]
+	impenetwabwe pwison![BR]
+	[Pause 10]Twy aww you wike! Aww you'ww do is[BR]
+	exhaust youwsewf![BR]
+	[Wait][Next]
+	[Pause 10]I'ww teww you what: If you make it[BR]
+	back up hewe, I'ww wet you go[BR]
+	thwough. How's that?[BR]
+	[Wait][Next]
+	Ahhh ha ha ha! I know you'ww[BR]
+	nevew make it![BR]
+	[Wait][Next]
+	I hope you have a good time[BR]
+	shaking and cwying down thewe![BR]
+	[Pause 10][Shake]Gah ha ha ha ha ha ha!!![Wait][End]
+}
+
+#string:13:008
+{
+	[Style Right]
+	[PrintRising]Bwooooaa-huh?![BR]
+	[/fx][Pause 10]You came back!?[BR]
+	[Pause 10]You escaped fwom that[BR]
+	undewgwound jaiw!?[BR]
+	[Wait][Next]
+	But thewe was no way you couwd[BR]
+	escape![BR]
+	[Wait][Next]
+	[Wave]Gwwwwwwwwwww..........[BR]
+	[/fx][Pause 10][PrintRising]Of aww the diwty twicks...[BR]
+	[/fx][Wait][Next]
+	I guess I have to keep my wowd.[BR]
+	You can...go thwough. Gww.[BR]
+	[Pause 10]But don't think I'ww fowget this![Wait][End]
+}
+
+#string:13:009
+{
+	[Style Right]
+	Mawio, you've come to save us![BR]
+	[Wait][Next]
+	I just knew you wouwd![BR]
+	[Wait][Next]
+	Aww the Toads in hewe used to[BR]
+	wowk in Peach's Castwe.[BR]
+	[Wait][Next]
+	The pwincess isn't with us... I[BR]
+	think she must be confined[BR]
+	somewhewe ewse.[BR]
+	[Wait][Next]
+	Mawio, don't wowwy about us![BR]
+	[Pause 10]Saving Pwincess Peach is the onwy[BR]
+	thing that mattews.[Wait][End]
+}
+
+#string:13:00A
+{
+	[Style Right]
+	Aww the Toads in hewe used to[BR]
+	wowk in Peach's Castwe.[BR]
+	[Wait][Next]
+	The pwincess isn't with us... I[BR]
+	think she must be confined[BR]
+	somewhewe ewse.[BR]
+	[Wait][Next]
+	Mawio, don't wowwy about us![BR]
+	[Pause 10]Saving Pwincess Peach is the onwy[BR]
+	thing that mattews.[Wait][End]
+}
+
+#string:13:00B
+{
+	[Style Right]
+	Mawio![BR]
+	[Pause 10]You've gotta save the pwincess![BR]
+	You've just gotta![BR]
+	[Wait][Next]
+	She must be waiting fow you![Wait][End]
+}
+
+#string:13:00C
+{
+	[Style Right]
+	I stiww can't bewieve that aww of[BR]
+	Peach's Castwe was kidnapped[BR]
+	duwing the pawty.[BR]
+	[Wait][Next]
+	I know it was just a means to[BR]
+	catch Pwincess Peach, but stiww...[BR]
+	Onwy an eviw fiend wike Bowsew[BR]
+	wouwd do something wike that.[BR]
+	[Wait][Next]
+	Pwease make him pay![Wait][End]
+}
+
+#string:13:00D
+{
+	[Style Right]
+	I stiww can't bewieve that aww of[BR]
+	Peach's Castwe was kidnapped[BR]
+	duwing the pawty.[BR]
+	[Wait][Next]
+	I know it was just a means to[BR]
+	catch Pwincess Peach, but stiww...[BR]
+	Onwy an eviw fiend wike Bowsew[BR]
+	wouwd do something wike that.[BR]
+	[Wait][Next]
+	Pwease make him pay![Wait][End]
+}
+
+#string:13:00E
+{
+	[Style Right]
+	Mawio,[BR]
+	[Pause 10]I'm sowwy that I can't be of hewp[BR]
+	to you...[BR]
+	[Wait][Next]
+	But I'ww make a wish to the Staw[BR]
+	Spiwits fow youw safety.[Wait][End]
+}
+
+#string:13:00F
+{
+	[Style Right]
+	This wouwdn't have happened if[BR]
+	we'd had bettew defenses. [BR]
+	[Wait][Next]
+	I don't know how I can evew[BR]
+	apowogize to Pwincess Peach...[BR]
+	[Wait][Next]
+	Ugh... It doesn't mattew. Saving[BR]
+	hew is aww that counts now.[Wait][End]
+}
+
+#string:13:010
+{
+	[Style Right]
+	This wouwdn't have happened if[BR]
+	we'd had bettew defenses. [BR]
+	[Wait][Next]
+	I don't know how I can evew[BR]
+	apowogize to Pwincess Peach...[BR]
+	[Wait][Next]
+	Ugh... It doesn't mattew. Saving[BR]
+	hew is aww that counts now.[Wait][End]
+}
+
+#string:13:011
+{
+	[Style Right]
+	I'd wove to join you,[BR]
+	[Pause 10]but I'd just swow you down...[BR]
+	[Wait][Next]
+	Mawio, pwease take cawe.[BR]
+	[Wait][Next]
+	Don't wowwy about us.[BR]
+	[Pause 10]We'ww keep ouw eyes open fow[BR]
+	Bowsew's minions and find a way[BR]
+	out of this pwace.[Wait][End]
+}
+
+#string:13:012
+{
+	[Style Right]
+	Oh, Mawio![BR]
+	[Pause 10]You came at wong wast![BR]
+	[Wait][Next]
+	As you can see, we'we in a [BR]
+	howwibwe situation![BR]
+	[Wait][Next]
+	Pwincess Peach is who knows[BR]
+	whewe and hew beautifuw castwe[BR]
+	is being wun by Bowsew's howwid[BR]
+	staff of wejects.[BR]
+	[Wait][Next]
+	Nothing fiwws me with mowe joy[BR]
+	than sewving this castwe with my[BR]
+	heawt and souw, but wight now[BR]
+	thewe's nothing I can do.[BR]
+	[Wait][Next]
+	We have no choice but to wewy on[BR]
+	you now, Mawio.[BR]
+	[Wait][Next]
+	Pwease, at weast save ouw deaw[BR]
+	Pwincess Peach![Wait][End]
+}
+
+#string:13:013
+{
+	[Style Right]
+	Oh, Mawio![BR]
+	[Pause 10]You came at wong wast![BR]
+	[Wait][Next]
+	As you can see, we'we in a [BR]
+	howwibwe situation![BR]
+	[Wait][Next]
+	Pwincess Peach is who knows[BR]
+	whewe and hew beautifuw castwe[BR]
+	is being wun by Bowsew's howwid[BR]
+	staff of wejects.[BR]
+	[Wait][Next]
+	Nothing fiwws me with mowe joy[BR]
+	than sewving this castwe with my[BR]
+	heawt and souw, but wight now[BR]
+	thewe's nothing I can do.[BR]
+	[Wait][Next]
+	We have no choice but to wewy on[BR]
+	you now, Mawio.[BR]
+	[Wait][Next]
+	Pwease, at weast save ouw deaw[BR]
+	Pwincess Peach![Wait][End]
+}
+
+#string:13:014
+{
+	[Style Right]
+	Oh, Mawio![BR]
+	[Pause 10]You came at wong wast![BR]
+	[Wait][Next]
+	As you can see, we'we in a [BR]
+	howwibwe situation![BR]
+	[Wait][Next]
+	Pwincess Peach is who knows[BR]
+	whewe and hew beautifuw castwe[BR]
+	is being wun by Bowsew's howwid[BR]
+	staff of wejects.[BR]
+	[Wait][Next]
+	Nothing fiwws me with mowe joy[BR]
+	than sewving this castwe with my[BR]
+	heawt and souw, but wight now[BR]
+	thewe's nothing I can do.[BR]
+	[Wait][Next]
+	We have no choice but to wewy on[BR]
+	you now, Mawio.[BR]
+	[Wait][Next]
+	Pwease, at weast save ouw deaw[BR]
+	Pwincess Peach![Wait][End]
+}
+
+#string:13:015
+{
+	[Style Right]
+	Mawio...[BR]
+	[Wait][Next]
+	Pwease save Pwincess Peach![BR]
+	[Pause 10]We'we aww wewying on you.[Wait][End]
+}
+
+#string:13:016
+{
+	[Style Right]
+	Thewe we go![BR]
+	[Pause 10]It's a piece of cake to bweak[BR]
+	these wawws. The matewiaw's weak.[BR]
+	[Wait][Next]
+	These awe much easiew than the[BR]
+	wawws of Koopa Bwos. Fowtwess.[BR]
+	[Wait][Next]
+	You'we weawwy wucky you have me[BR]
+	awong, awen't you!?[Wait][End]
+}
+
+#string:13:017
+{
+	[Style Right]
+	Uh-oh![BR]
+	[Pause 10]Ma... [Pause 3]Mawio...is wight...thewe![BR]
+	[Wait][Next]
+	Now what wewe we supposed to[BR]
+	do in this situation?[BR]
+	[Pause 10]Kammy Koopa towd us something,[BR]
+	but I'm dwawing a totaw bwank.[BR]
+	[Wait][Next]
+	I think...she towd us not to wet[BR]
+	him touch that switch...[BR]
+	[Wait][Next]
+	Oh...oh...no... Do you think that[BR]
+	means we have to fight him?[Wait][End]
+}
+
+#string:13:018
+{
+	[Style Right]
+	[Shake][Wave]No!!!!!![BR]
+	[Pause 10]He'ww wipe the fwoow with us![Wait][End]
+}
+
+#string:13:019
+{
+	[Style Right]
+	[PrintRising]Stop youw bewwyaching!![BR]
+	[Pause 10]Who says we shouwd be afwaid of[BR]
+	Mawio, huh? He's not so bad![BR]
+	[/fx][Wait][Next]
+	Whatevew happens, we can't wet[BR]
+	him push this switch![BR]
+	[Wait][Next]
+	Don't you cawe that King Bowsew[BR]
+	needs ouw hewp?[BR]
+	[Wait][Next]
+	C'mon!! Take this...pwumbew!![BR]
+	[Pause 10]Show him what you'we made of!![Wait][End]
+}
+
+#string:13:01A
+{
+	[Style Right]
+	[Shake]Waahh!! We have no choice![BR]
+	[Pause 10]Gotta be bwave... Gotta be...[BR]
+	[Wait][Next]
+	[Down 8][Size 32][PrintRising]Attaaack![Wait][End]
+}
+
+#string:13:01B
+{
+	[Style Right]
+	Hey, what do you know? It wooks[BR]
+	wike the wava coowed off.[BR]
+	[Wait][Next]
+	It wooks wike it hawdened enough[BR]
+	to wawk on, too.[BR]
+	[Wait][Next]
+	Awesome! You wuwe, Mawio![Wait][End]
+}
+
+#string:13:01C
+{
+	[Style Right]
+	Hey! That wava hawdened when[BR]
+	it coowed off![BR]
+	[Pause 10]Now we can wawk acwoss it.[BR]
+	[Wait][Next]
+	Wet's go, Mawio![Wait][End]
+}
+
+#string:13:01D
+{
+	[Style Right]
+	Ohh... How totawwy weiwd![BR]
+	[Pause 10]The wava coowed off and became[BR]
+	hawd as wock! Neat![BR]
+	[Wait][Next]
+	It seems coow enough fow us to[BR]
+	wawk on, Mawio![BR]
+	[Pause 10]We can go on now![Wait][End]
+}
+
+#string:13:01E
+{
+	[Style Right]
+	The wava seems to have coowed[BR]
+	and hawdened...[BR]
+	[Wait][Next]
+	Maybe we can wawk acwoss it...[BR]
+	[Wait][Next]
+	Oh, excewwent.[BR]
+	[Pause 10]Even I couwdn't fwy acwoss hewe.[Wait][End]
+}
+
+#string:13:01F
+{
+	[Style Right]
+	Phew... Finawwy, that hot wava[BR]
+	coowed off.[BR]
+	[Wait][Next]
+	Now you can wawk on it, Mawio![BR]
+	[Wait][Next]
+	Aww the difficuwt obstacwes in this[BR]
+	castwe awe weawwy stawting to[BR]
+	iwwitate me, you know.[BR]
+	[Wait][Next]
+	Whatevew. Wet's get a move on.[BR]
+	[Pause 10]Time fow some wava-wawking![Wait][End]
+}
+
+#string:13:020
+{
+	[Style Right]
+	The wava, um, got aww hawd.[BR]
+	[Pause 10]We can wawk on it now, huh? Can't[BR]
+	we?[BR]
+	[Wait][Next]
+	That twicky owd Bowsew![BR]
+	[Pause 10]He can't foow us, huh?[Wait][End]
+}
+
+#string:13:021
+{
+	[Style Right]
+	What!? What is it!?[BR]
+	[Pause 10]The wava coowed down and tuwned[BR]
+	hawd enough to wawk on?[BR]
+	[Wait][Next]
+	Oh, how convenient.[BR]
+	[Wait][Next]
+	I didn't weawwy fancy the idea of[BR]
+	becoming a fwied fish...[Wait][End]
+}
+
+#string:13:022
+{
+	[Style Right]
+	Awww...wad! The wava totawwy[BR]
+	coowed off and hawdened![BR]
+	[Pause 10]We can wawk acwoss it now, wight,[BR]
+	man?[BR]
+	[Wait][Next]
+	Yeah. Way to use the owd bwain![BR]
+	That's why you'we The Man![BR]
+	[Wait][Next]
+	Evewy day, man, I weawn[BR]
+	something new fwom you![Wait][End]
+}
+
+#string:13:023
+{
+	[Style Right]
+	Oh, Mawio![HEART][BR]
+	[Pause 10]You came to wescue me! Thank[BR]
+	you so much![HEART][Wait][End]
+}
+
+#string:13:024
+{
+	[Style Right]
+	Oh, me?[BR]
+	[Pause 10]Oh, I just saw a chance to get[BR]
+	away fwom Bowsew and I wan![BR]
+	[Wait][Next]
+	Thewe's no need to fight him[BR]
+	because I'm awweady safe.[BR]
+	[Wait][Next]
+	See? No need to fight.[HEART][BR]
+	[Pause 10]Wet's huwwy up and go home.[BR]
+	[Pause 10]I'ww be wight behind you.[Wait][End]
+}
+
+#string:13:025
+{
+	[Style Right]
+	Wet's go home now, OK?[BR]
+	[Wait][Next]
+	We'd bettew go back the way you[BR]
+	came in.[BR]
+	[Pause 10]I'ww fowwow you.[Wait][End]
+}
+
+#string:13:026
+{
+	[Style Right]
+	Wet's go home now, OK?[BR]
+	[Wait][Next]
+	We'd bettew go back the way you[BR]
+	came in.[BR]
+	[Pause 10]I'ww fowwow you.[Wait][End]
+}
+
+#string:13:027
+{
+	[Style Right]
+	Oh... [Pause 10]What?[BR]
+	[Pause 10]What's wwong, Mawio?[BR]
+	[Wait][Next]
+	...A suspicious guy?[BR]
+	[Pause 10]I... [Pause 10]I didn't see anything.[BR]
+	[Pause 10]Maybe it was youw imagination...[BR]
+	[Wait][Next]
+	Huh...? You what?[BR]
+	[Pause 10]You want to save the peopwe in[BR]
+	Peach's Castwe?[BR]
+	[Wait][Next]
+	Who cawes about them!?[Wait][End]
+}
+
+#string:13:028
+{
+	[Style Right]
+	Now thewe's no time to spawe![BR]
+	[Pause 5]Wet's get out of hewe![Wait][End]
+}
+
+#string:13:029
+{
+	[Style Right]
+	Oh, ow! Pwease don't![BR]
+	[Pause 10]How couwd you?[Wait][End]
+}
+
+#string:13:02A
+{
+	[Style Right]
+	Ouch! Oh, how couwd you?[BR]
+	[Pause 5]You'we so cwuew, Mawio![BR]
+	[Pause 5]Why do you want to huwt me?[BR]
+	[Wait][Next]
+	I'm going to teww King Bowsew[BR]
+	you'we tweating me wike this![Wait][End]
+}
+
+#string:13:02B
+{
+	[Style Right]
+	[Shake]No!! Ow! Stop it![BR]
+	[Pause 5]Pwease don't!!![BR]
+	[Pause 5]Hewp me, King Bowsew!!!![Wait][End]
+}
+
+#string:13:02C
+{
+	[Style Right]
+	[PrintRising]I said, cut it out!![Wait][End]
+}
+
+#string:13:02D
+{
+	[Style Right]
+	Aw, shoot![BR]
+	[Pause 10]I wondew how you saw thwough my[BR]
+	disguise... It was pewfect...[BR]
+	[Wait][Next]
+	Weww, I guess thewe's nothing I[BR]
+	can do about it now...[BR]
+	[Pause 10]I'ww just beat you up instead![Wait][End]
+}
+
+#string:13:02E
+{
+	[Style Right]
+	[Wave]Gwooaaahhhhh!!![BR]
+	[/fx][Pause 10]Who wouwd've thought you couwd[BR]
+	make it this faw?[BR]
+	[Wait][Next]
+	You won't make it any fawthew.[BR]
+	[Pause 10]Because, unfowtunatewy fow you,[BR]
+	I won't wet you pass.[BR]
+	[Wait][Next]
+	Gwaaa ha ha ha ha ha!!![BR]
+	[Pause 10][Wait][Next]
+	[Pause 15]But......[BR]
+	[Pause 10]I guess, if you weawwy want, I'ww[BR]
+	give you one chance.[BR]
+	[Wait][Next]
+	Because I know thewe's no way[BR]
+	you'ww make it anyway.[BR]
+	[Pause 10]Want to give it a shot?[BR]
+	[Yield][End]
+}
+
+#string:13:02F
+{
+	[Style Right]
+	Huh? Why'we you stiww hewe?[BR]
+	[Pause 10]Did you change youw mind? Have[BR]
+	you decided to stop being a baby[BR]
+	and chawwenge me?[BR]
+	[Yield][End]
+}
+
+#string:13:030
+{
+	[Next]
+	I see... Not up to it...[BR]
+	[Pause 10]That's a smawt choice,[BR]
+	[Wait][Next]
+	because you and I both know you[BR]
+	wouwdn't be up to my chawwenge.[BR]
+	[Pause 10]You just be a good wittwe boy and[BR]
+	wun awong, now...[Wait][End]
+}
+
+#string:13:031
+{
+	[Next]
+	Gwwooaaa ha ha ha ha ha!![BR]
+	[Pause 10]This is compwetewy pointwess, but[BR]
+	I suppose I'ww wet you twy,[BR]
+	[Wait][Next]
+	because, of couwse, I have such[BR]
+	a kind and genewous heawt...[BR]
+	[Pause 10]Just joking, wowm![BR]
+	[Pause 10][Wave]Gwooahh ha ha ha ha ha ha ha!!![BR]
+	[/fx][Wait][Next]
+	Now! Mawio![BR]
+	[Pause 10]Do you want to know what I've[BR]
+	got in stowe fow you?[BR]
+	[Yield][End]
+}
+
+#string:13:032
+{
+	[Next]
+	Now fow a wittwe quiz.[BR]
+	[Wait][Next]
+	Sevewaw of my fowwowews wiww come[BR]
+	out hewe. Youw job is to[BR]
+	cawefuwwy keep twack of theiw[BR]
+	numbews and cowows.[BR]
+	[Wait][Next]
+	Then you'ww have to answew my[BR]
+	questions cowwectwy.[BR]
+	[Wait][Next]
+	Quite fwankwy, we both know that[BR]
+	this is impossibwe, but if you get[BR]
+	five questions wight, I'ww wet you[BR]
+	go thwough hewe.[BR]
+	[Wait][Next]
+	You'we awwowed onwy two mistakes,[BR]
+	though. Gwooooaaaahh ha ha![BR]
+	[Wait][Next]
+	Foow that you awe, you'ww wikewy[BR]
+	make thwee mistakes and suffew[BR]
+	the diwe consequences...[BR]
+	[Pause 20][Wait][Next]
+	Wet's get going![Wait][End]
+}
+
+#string:13:033
+{
+	[Next]
+	OK, smawt guy, wet's get going![Wait][End]
+}
+
+#string:13:034
+{
+	[Style Right]
+	Time's up![BR]
+	[Pause 30][End]
+}
+
+#string:13:035
+{
+	[Style Right]
+	Now.[BR]
+	[Pause 10]Teww me, how many Koopas wewe[BR]
+	thewe!?[BR]
+	[Yield][End]
+}
+
+#string:13:036
+{
+	[Style Right]
+	Now.[BR]
+	[Pause 10]Which wewe thewe thwee of!?[BR]
+	[Yield][End]
+}
+
+#string:13:037
+{
+	[Style Right]
+	Now.[BR]
+	[Pause 10]Who came out of the middwe[BR]
+	entwance!?[BR]
+	[Yield][End]
+}
+
+#string:13:038
+{
+	[Style Right]
+	Now.[BR]
+	[Pause 10]How many Goombas wewe thewe!?[BR]
+	[Yield][End]
+}
+
+#string:13:039
+{
+	[Style Right]
+	Now.[BR]
+	[Pause 10]How many awms did you see just[BR]
+	now!?[BR]
+	[Yield][End]
+}
+
+#string:13:03A
+{
+	[Style Right]
+	Now.[BR]
+	[Pause 10]Which wewe thewe thwee of!?[BR]
+	[Yield][End]
+}
+
+#string:13:03B
+{
+	[Style Right]
+	Now.[BR]
+	[Pause 10]You just saw some Koopas. I ask[BR]
+	you this: What cowow wewe theiw[BR]
+	shewws?[BR]
+	[Yield][End]
+}
+
+#string:13:03C
+{
+	[Style Right]
+	Gwwww......[BR]
+	[Pause 10]You'we wight![BR]
+	[Wait][Next]
+	That question must've been way[BR]
+	too easy.[BR]
+	[Pause 10]Now they'ww be hawdew![BR]
+	[Wait][Next]
+	Next question![Wait][End]
+}
+
+#string:13:03D
+{
+	[Style Right]
+	Gwwwww......[BR]
+	[Pause 10]Wight answew![BR]
+	[Wait][Next]
+	[Wave]Aaaawghhhhhhh!!!!!!![BR]
+	[/fx]I can't bewieve you've gotten[BR]
+	fouw questions wight![BR]
+	[Wait][Next]
+	Aww wight, enough of this! I'm[BR]
+	gonna quit messing awound and[BR]
+	ask you a weawwy hawd one![BR]
+	[Wait][Next]
+	Next question!![Wait][End]
+}
+
+#string:13:03E
+{
+	[Style Right]
+	Gwoooaaa ha ha ha ha!![BR]
+	[Pause 5]Bzzzz! Wwong![BR]
+	[Pause 5]What an idiot! Duwwww![BR]
+	[Wait][Next]
+	You'ww be hating wife if you make[BR]
+	thwee mistakes, Mawio![BR]
+	[Wait][Next]
+	Gaah ha ha ha ha...[BR]
+	[Pause 10]Wet's get to the next question,[BR]
+	shaww we?[Wait][End]
+}
+
+#string:13:03F
+{
+	[Style Right]
+	[Shake]Gwwwwaaaaaaaaghhhhhhh!!!![BR]
+	[/fx][Pause 10]Cow.... [Pause 3]Cowwect!!![BR]
+	[Wait][Next]
+	[PrintRising]I can't bewieve it![BR]
+	[Pause 10]You got five of my supew dupew[BR]
+	bwain-bustews wight![BR]
+	[/fx][Wait][Next]
+	[Down 8][Size 32][Shake]Gweaaaghhh!!!!![BR]
+	[Pause 10][SizeReset][BR]
+	[Wait][Scroll 4]I've been defeated...!![BR]
+	[Pause 10]By Mawio!!!! Oh, the shame...![Wait][End]
+}
+
+#string:13:040
+{
+	[Style Right]
+	Bzzzzz! Pinhead![BR]
+	[Pause 10]Wwong again, wowm!![BR]
+	[Wait][Next]
+	Something howwibwe wiww happen if[BR]
+	you make one mowe mistake![BR]
+	[Pause 10]Just one mowe, Mawio! You'we[BR]
+	hanging by a thwead![BR]
+	[Wait][Next]
+	[Wave][BR]
+	[Down 8]Gaaah ha ha ha ha ha ha ha!!![BR]
+	[/fx][BR]
+	[Wait][Next]
+	[Up 8]Now, the next question![Wait][End]
+}
+
+#string:13:041
+{
+	[Style Right]
+	[PrintRising]Gah ha ha ha ha ha ha ha!!!![BR]
+	[/fx]Nope, that's wwong, idiot![BR]
+	[Wait][Next]
+	You made thwee mistakes![BR]
+	[Pause 10]Too bad fow you, Mawio![BR]
+	[Wait][Next]
+	As pwomised, hewe's youw howwibwe[BR]
+	wewawd![BR]
+	[Wait][Next]
+	[PrintRising]Pwepawe fow battwe![BR]
+	[Pause 10]Anti Guys Unit! Attack![Wait][End]
+}
+
+#string:13:042
+{
+	[Style Right]
+	I'ww wet you go thwough if you[BR]
+	manage to beat them.[BR]
+	[Pause 10]But that's impossibwe.[BR]
+	[Wait][Next]
+	I guess you might as weww twy...[BR]
+	[Pause 10][Wave]Gwoaah ha ha ha ha ha ha ha!!![BR]
+	[/fx][Wait][End]
+}
+
+#string:13:043
+{
+	[Style Right]
+	Oh, but...no! NO!![BR]
+	[Pause 10]You beat the Anti Guys Unit?!![BR]
+	[Wait][Next]
+	My wast wine of defense![BR]
+	[Pause 10]The mighty Anti Guys didn't[BR]
+	stand up...to Mawio![BR]
+	[Wait][Next]
+	[Down 8][Size 32][Shake]Gwoahhhhhhh!!!![BR]
+	[Pause 10][SizeReset][BR]
+	[Wait][Scroll 4]I concede defeat.[BR]
+	[Pause 10]I've been defeated by Mawio!!![BR]
+	Why? Why? Whyyyyy?[Wait][End]
+}
+
+#string:13:044
+{
+	[Style Right]
+	[Volume percent=50]Pssst... Psssst...[BR]
+	[Wait][Next]
+	The Toad House's swogan is... [BR]
+	"Wefwesh youw Body and Souw!" [BR]
+	[Pause 5].[Pause 4].[Pause 4].[Pause 4]This isn't a weaw Toad House,[BR]
+	[Wait][Next]
+	but you can take a quick nap[BR]
+	hewe if you feew wike it.[BR]
+	[Pause 10]Awe you going to take a nap?[BR]
+	[Yield][End]
+}
+
+#string:13:045
+{
+	[Style Right]
+	[Volume percent=50].[Pause 4].[Pause 4].[Pause 4]Weawwy?[BR]
+	[Pause 10]Mawio, you'we at fuww stwength.[BR]
+	[Pause 10]Awe you stiww going to nap?[BR]
+	[Yield][End]
+}
+
+#string:13:046
+{
+	[Volume percent=50][Next]
+	Pwease come back if you get[BR]
+	tiwed again...[BR]
+	[Pause 10]Take cawe--if you can. And good[BR]
+	wuck![Wait][End]
+}
+
+#string:13:047
+{
+	[Volume percent=50][Next]
+	These awe difficuwt times...[BR]
+	Pwease west weww, though.[Wait][End]
+}
+
+#string:13:048
+{
+	[Style Right]
+	Did you sweep weww?[BR]
+	[Wait][Next]
+	Then take cawe--and go![BR]
+	[Wait][Next]
+	[Volume percent=50]Oops... Shhh...[BR]
+	[Pause 10]I shouwd be quiet... Othewwise,[BR]
+	they'ww find us.[Wait][End]
+}
+
+#string:13:049
+{
+	[Style Right]
+	Mawio, you'we safe![BR]
+	[Pause 10]Oh, I'm so gwad.[BR]
+	[Wait][Next]
+	We aww got captuwed befowe we[BR]
+	knew what was happening.[BR]
+	[Wait][Next]
+	A few peopwe at the pawty wewe[BR]
+	abwe to get away, but they[BR]
+	caught most of us. [BR]
+	[Wait][Next]
+	I wondew whewe Pwincess Peach,[BR]
+	the Ministew, and aww the othew[BR]
+	guests awe.[BR]
+	[Pause 10]I'm weawwy wowwied about them...[Wait][End]
+}
+
+#string:13:04A
+{
+	[Style Right]
+	Mawio, you'we safe![BR]
+	[Pause 10]Oh, I'm so gwad.[BR]
+	[Wait][Next]
+	We aww got captuwed befowe we[BR]
+	knew what was happening.[BR]
+	[Wait][Next]
+	A few peopwe at the pawty wewe[BR]
+	abwe to get away, but they[BR]
+	caught most of us.[BR]
+	[Wait][Next]
+	I wondew whewe Pwincess Peach,[BR]
+	the Ministew, and aww the othew[BR]
+	guests awe.[BR]
+	[Pause 10]I'm weawwy wowwied about them...[Wait][End]
+}
+
+#string:13:04B
+{
+	[Style Right]
+	Mawio, youw main goaw is to save[BR]
+	the pwincess, isn't it?[BR]
+	[Wait][Next]
+	She must be doing OK, howding on[BR]
+	to the bewief that you'ww come.[BR]
+	[Wait][Next]
+	We sowdiews shouwd have bwoken[BR]
+	out to save hew by now...[BR]
+	[Wait][Next]
+	But it's taken aww ouw effowts[BR]
+	just to pwotect the pwisonews.[BR]
+	[Pause 10]...What a shame.[Wait][End]
+}
+
+#string:13:04C
+{
+	[Style Right]
+	Mawio, youw main goaw is to save[BR]
+	the pwincess, isn't it?[BR]
+	[Wait][Next]
+	She must be doing OK, howding on[BR]
+	to the bewief that you'ww come.[BR]
+	[Wait][Next]
+	We sowdiews shouwd have bwoken[BR]
+	out to save hew by now...[BR]
+	[Wait][Next]
+	But it's taken aww ouw effowts[BR]
+	just to pwotect the pwisonews.[BR]
+	[Pause 10]...What a shame.[Wait][End]
+}
+
+#string:13:04D
+{
+	[Style Right]
+	I come aww the way fwom Dwy Dwy[BR]
+	Desewt to Pwincess Peach's[BR]
+	pawty and wook what happens.[BR]
+	[Wait][Next]
+	I've been to some wame pawties,[BR]
+	but that was widicuwous.[BR]
+	[Pause 10]I wanna go back to the desewt[BR]
+	as soon as possibwe.[Wait][End]
+}
+
+#string:13:04E
+{
+	[Style Right]
+	I come aww the way fwom Dwy Dwy[BR]
+	Desewt to Pwincess Peach's[BR]
+	pawty and wook what happens.[BR]
+	[Wait][Next]
+	I've been to some wame pawties,[BR]
+	but that was widicuwous.[BR]
+	[Pause 10]I wanna go back to the desewt[BR]
+	as soon as possibwe.[Wait][End]
+}
+
+#string:13:04F
+{
+	[Style Right]
+	Whuhhh?[BR]
+	[Pause 10]Who'we you, man!?[BR]
+	[Wait][Next]
+	I don't know youw face.[BR]
+	[Pause 10]Maybe you'we Mawio, huh?[BR]
+	[Pause 10]Heh heh... Just joking.[BR]
+	[Wait][Next]
+	I'm the guawd of this wawehouse.[BR]
+	I'm weawwy, weawwy bowed, man.[BR]
+	[Wait][Next]
+	Hey, you know... If you've got[BR]
+	any coins, I'ww seww you stuff.[BR]
+	[Yield][End]
+}
+
+#string:13:050
+{
+	[Next]
+	What? You've got nothing?[BR]
+	[Pause 10]Wame...[Wait][End]
+}
+
+#string:13:051
+{
+	[Next]
+	Oh, you'we woaded, man![BR]
+	[Wait][Next]
+	Take a wook awound. I'ww seww[BR]
+	anything you see.[Wait][End]
+}
+
+#string:13:052
+{
+	[Next]
+	You think I'm stupid, man?[BR]
+	[Pause 10]You'we a tewwibwe wiaw.[Wait][End]
+}
+
+#string:13:053
+{
+	[Style Right]
+	[Wave]Bweeeaaaawgh!![BR]
+	[/fx][Pause 10]How in the wowwd did you get this[BR]
+	faw in the castwe?[BR]
+	[Pause 10]Congwatuwations...[BR]
+	[Wait][Next]
+	...but this is the end of youw[BR]
+	adventuwe, I'm afwaid.[BR]
+	[Pause 10]I've got much bettew defenses[BR]
+	than the othew Guawd Doows do.[BR]
+	[Wait][Next]
+	Youw wuck has just wun out![BR]
+	[Wait][Next]
+	[Down 8][Size 32][PrintRising]Come on, boys![Wait][End]
+}
+
+#string:13:054
+{
+	[Style Right]
+	[PrintRising]Hewe come the Koopa Bwos.!![Wait][End]
+}
+
+#string:13:055
+{
+	[Style Right]
+	I bet you nevew thought you'd[BR]
+	see us again, huh, Mawio?[BR]
+	[Pause 10]You do wemembew who we awe,[BR]
+	don't you?[BR]
+	[Yield][End]
+}
+
+#string:13:056
+{
+	[Next]
+	Yeah, that's wight![BR]
+	[Pause 10]We wewe too coow to fowget! A[BR]
+	wasting impwession, yeah![Wait][End]
+}
+
+#string:13:057
+{
+	[Next]
+	What!!!???[BR]
+	[Wait][Next]
+	I just said we wewe the Koopa[BR]
+	Bwos., Mawio![BR]
+	[Pause 10]How can you not wemembew us?[Wait][End]
+}
+
+#string:13:058
+{
+	[Style Right]
+	Now they'we going to beat you[BR]
+	within an inch of youw wife![BR]
+	[Pause 10]Feew wike wunning away, wowm?[BR]
+	[Wait][Next]
+	Teww you what: If you beat them,[BR]
+	you can go thwough hewe.[BR]
+	[Pause 10]Of couwse, you'ww faiw...[BR]
+	[Wait][Next]
+	but at weast you can twy.[BR]
+	[Pause 10]Geeaawww haw haw haw....[Wait][End]
+}
+
+#string:13:059
+{
+	[Style Right]
+	Don't think we'we wike befowe![BR]
+	[Wait][Next]
+	We've incweased ouw powew[BR]
+	beyond ouw wiwdest dweams![BR]
+	[Wait][Next]
+	Aftew you twounced us, we[BR]
+	weawned a new technique and[BR]
+	twained aww day, evewy day.[BR]
+	[Wait][Next]
+	We'we not just the Koopa Bwos....[BR]
+	[Wait][Next]
+	We'we the Supew Uwtwa Mighty[BR]
+	Koopa Bwos. the Gweat!![BR]
+	[Wait][Next]
+	Check out ouw coowness![BR]
+	[Wait][Next]
+	Huh...?[Wait][End]
+}
+
+#string:13:05A
+{
+	[Style Right]
+	[PrintRising][Shake]Uaaaaaaghhhh!!![BR]
+	[Wait][Next]
+	I found you, Mawio!!!!![Wait][End]
+}
+
+#string:13:05B
+{
+	[Style Right]
+	[PrintRising][Wave]Dwahhhhhhhhh!!![Wait][End]
+}
+
+#string:13:05C
+{
+	[Style Right]
+	At wast! You'we mine! It was a[BR]
+	pain finding you, you know?[BR]
+	[Wait][Next]
+	Today, at wong wast, I'ww settwe[BR]
+	my scowe with you![Wait][End]
+}
+
+#string:13:05D
+{
+	[Style Right]
+	[PrintRising]Hewe it comes, Mawio!![BR]
+	[Pause 10]This is the finaw fight!!![BR]
+	[Pause 10]Onwy one of us is wawking away[BR]
+	fwom this battwe![Wait][End]
+}
+
+#string:13:05E
+{
+	[Style Right]
+	[PrintRising]Dawn it!!!!![BR]
+	[Pause 10]OK, twy this on fow size!![BR]
+	[Wait][Next]
+	[Shake]Uwtimate Powew!!![Wait][End]
+}
+
+#string:13:05F
+{
+	[Style Right]
+	[PrintRising]Shoooot!!!!!!!!!!![BR]
+	[Pause 10]OK, maybe something ewse...[BR]
+	[Wait][Next]
+	[BR]
+	[Down 6]How about this!!!???[Wait][End]
+}
+
+#string:13:060
+{
+	[Style Right]
+	[PrintRising]Aaaawgh!!![BR]
+	[Pause 10]You've stiww got some skiwws!![Wait][End]
+}
+
+#string:13:061
+{
+	[Style Right]
+	[PrintRising]Dawn it!! Dawn it, dawn it![BR]
+	[Pause 10]Don't think you've won, Mawio![BR]
+	[Wait][Next]
+	I sweaw to you, I'm gonna beat[BR]
+	you so bad next time!![Wait][End]
+}
+
+#string:13:062
+{
+	[Style Right]
+	[Size 48]Gosh!![Wait][End]
+}
+
+#string:13:063
+{
+	[Style Right]
+	Ummmmmmmmmm........[BR]
+	[Wait][Next]
+	So, since you beat the guy that[BR]
+	beat the Koopa Bwos., does that[BR]
+	mean you beat the Koopa Bwos.?[BR]
+	[Wait][Next]
+	No. You beat him, he beat them...[BR]
+	[Pause 10]But you didn't actuawwy way a[BR]
+	fingew on........ [BR]
+	[Wait][Next]
+	[PrintRising]Awwgaaahhhhhhhhhhh!!!!!!!!!!![BR]
+	[/fx][Pause 10][Shake]It's too confusing!![BR]
+	[/fx][Wait][Next]
+	[Pause 5].....OK, fine![BR]
+	[Wait][Next]
+	I guess thewe was no big[BR]
+	diffewence between that guy and[BR]
+	the Koopa Bwos.[BR]
+	[Pause 10]You can go thwough.[BR]
+	[Wait][Next]
+	It's not possibwe fow you to beat[BR]
+	King Bowsew anyway.[BR]
+	[Wait][Next]
+	I'ww wet you have the honow of [BR]
+	being beaten pewsonawwy by the[BR]
+	eviw King Bowsew. Wucky you![Wait][End]
+}
+
+#string:13:064
+{
+	[Style Right]
+	This is a makeshift Toad House.[BR]
+	The Toad House's swogan is...[BR]
+	"Wefwesh youw Body and Souw!"[BR]
+	[Wait][Next]
+	I know it's not a gweat house...[BR]
+	[Pause 10]but pwenty of sweep wiww heaw you,[BR]
+	no mattew whewe you happen to[BR]
+	be sweeping.[BR]
+	[Wait][Next]
+	Wiww you take a nap?[BR]
+	[Yield][End]
+}
+
+#string:13:065
+{
+	[Style Right]
+	...Weawwy?[BR]
+	[Pause 10]You wook fine to me, Mawio.[BR]
+	[Pause 10]Awe you suwe you want to nap?[BR]
+	[Yield][End]
+}
+
+#string:13:066
+{
+	[Next]
+	Pwease come again, OK?[Wait][End]
+}
+
+#string:13:067
+{
+	[Next]
+	Pwease, get some sweep.[Wait][End]
+}
+
+#string:13:068
+{
+	[Style Right]
+	Did you sweep weww?[BR]
+	[Wait][Next]
+	Then take cawe--and go![BR]
+	[Wait][Next]
+	Good wuck, Mawio! Bowsew wiww be[BR]
+	no match fow you![Wait][End]
+}
+
+#string:13:069
+{
+	[Style Right]
+	Oh, Mawio, thank you fow coming.[BR]
+	[Pause 5]It's so good to see you.[BR]
+	[Wait][Next]
+	Aww the pwisonews got spwit up so[BR]
+	it's just been us fouw...[BR]
+	[Wait][Next]
+	Awe the othews aww safe?[BR]
+	[Pause 10]Pwease don't say we'we the onwy[BR]
+	ones you've saved....[BR]
+	[Wait][Next]
+	I hope this whowe howwibwe mess[BR]
+	wiww be ovew soon so we can have[BR]
+	a weunion with evewybody![Wait][End]
+}
+
+#string:13:06A
+{
+	[Style Right]
+	Oh, Mawio, thank you fow coming.[BR]
+	[Pause 5]It's so good to see you.[BR]
+	[Wait][Next]
+	Aww the pwisonews got spwit up so[BR]
+	it's just been us fouw...[BR]
+	[Wait][Next]
+	Awe the othews aww safe?[BR]
+	[Pause 10]Pwease don't say we'we the onwy[BR]
+	ones you've saved....[BR]
+	[Wait][Next]
+	I hope this whowe howwibwe mess[BR]
+	wiww be ovew soon so we can have[BR]
+	a weunion with evewybody![Wait][End]
+}
+
+#string:13:06B
+{
+	[Style Right]
+	Mawio... Good wowk finding us.[BR]
+	Thanks fow coming.[BR]
+	[Wait][Next]
+	I can't bewieve I was captuwed[BR]
+	so easiwy... [Pause 10]How shamefuw.[BR]
+	[Wait][Next]
+	I bet Pwincess Peach is being[BR]
+	hewd undew heavy secuwity.[BR]
+	[Pause 10]Pwease! Save hew.[Wait][End]
+}
+
+#string:13:06C
+{
+	[Style Right]
+	Good wowk finding us.[BR]
+	[Wait][Next]
+	I can't bewieve I was captuwed[BR]
+	so easiwy... [Pause 10]How shamefuw.[BR]
+	[Wait][Next]
+	I bet Pwincess Peach is being[BR]
+	hewd undew heavy secuwity.[BR]
+	[Pause 10]Pwease! Save hew.[Wait][End]
+}
+
+#string:13:06D
+{
+	[Style Right]
+	If I'd known this was going to[BR]
+	happen, I wouwd have gone home[BR]
+	with Mayow Penguin![BR]
+	[Wait][Next]
+	I wish I'd wake up in Shivew City[BR]
+	and nevew have to weave again.[BR]
+	[Wait][Next]
+	Sniffwe... Sob...[BR]
+	[Pause 10]I dweam of sweet shaved ice[BR]
+	tweats evewy singwe day.[Wait][End]
+}
+
+#string:13:06E
+{
+	[Style Right]
+	If I'd known this was going to[BR]
+	happen, I wouwd have gone home[BR]
+	with Mayow Penguin![BR]
+	[Wait][Next]
+	I wish I'd wake up in Shivew City[BR]
+	and nevew have to weave again.[BR]
+	[Wait][Next]
+	Sniffwe... Sob...[BR]
+	[Pause 10]I dweam of sweet shaved ice[BR]
+	tweats evewy singwe day.[Wait][End]
+}
+
+#string:13:06F
+{
+	[Style Right]
+	[PrintRising]Oh, [Pause 5]Mawio!!! Hewp!!![Wait][End]
+}
+
+#string:13:070
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwaa ha ha ha ha!![BR]
+	[/fx][Wait][Next]
+	If it isn't my owd paw, Mawio! I've[BR]
+	been waiting fow you...[BR]
+	[Pause 10]I'm amazed that you managed to[BR]
+	come this faw.[BR]
+	[Wait][Next]
+	How wucky...fow me.[BR]
+	[Wait][Next]
+	You've been a distwaction fow[BR]
+	faw too wong, wittwe man![BR]
+	[Wait][Next]
+	It'ww be a pweasuwe to squash you[BR]
+	pewsonawwy! Again![Wait][End]
+}
+
+#string:13:071
+{
+	[Style Right]
+	[Wave]Mawio!!!![Wait][End]
+}
+
+#string:13:072
+{
+	[Style Right]
+	[Voice Bowser]Foow! You can't beat me! I'm[BR]
+	inviiiiincibwe![Wait][End]
+}
+
+#string:13:073
+{
+	[Style Right]
+	[Voice Bowser][Wave]Gwaaaah ha ha ha!!![BR]
+	[Pause 10]Aww wight, Mawio![BR]
+	[Wait][Next]
+	Wet's see youw so-cawwed powew![Wait][End]
+}
+
+#string:13:074
+{
+	[Style Right]
+	[Voice Bowser]Aww wight, enough of that![BR]
+	[Pause 10]Now witness the powew of this[BR]
+	fuwwy opewationaw Staw Wod![Wait][End]
+}
+
+#string:13:075
+{
+	[Style Right]
+	[Voice Bowser][Wave]What the...OW![BR]
+	[/PrintRising][Pause 10]What in the wowwd was that?[Wait][End]
+}
+
+#string:13:076
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Goooah?[BR]
+	[/fx][Pause 10]What happened to the powew of[BR]
+	that stupid Staw Wod?[Wait][End]
+}
+
+#string:13:077
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwaaaawgh![BR]
+	[/fx][Pause 10]You cheap wittwe...cowawd!![BR]
+	[Wait][Next]
+	This fight's just beginning![Wait][End]
+}
+
+#string:13:078
+{
+	[Style Right]
+	[Voice Bowser]Gosh, you'we not bad![BR]
+	[Pause 10]How'd you get so stwong?[BR]
+	[Wait][Next]
+	Stiww, you'we just an annoyance.[BR]
+	[Pause 10]That was wike a wawm-up fow me.[Wait][End]
+}
+
+#string:13:079
+{
+	[Style Right]
+	[PrintRising]No!!!!! Weave me awone!!![BR]
+	[Pause 10][Wave]Mawio, hewp me!!![Wait][End]
+}
+
+#string:13:07A
+{
+	[Style Right]
+	[Voice Bowser]If you want to save Pwincess[BR]
+	Peach, you'd bettew fowwow me![Wait][End]
+}
+
+#string:13:07B
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]What took you so wong, swowpoke?[BR]
+	I don't have aww day, you know![Wait][End]
+}
+
+#string:13:07C
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwaaa ha ha ha ha!![BR]
+	[/fx][Pause 10]Wewcome to youw nightmawe![Wait][End]
+}
+
+#string:13:07D
+{
+	[Style Right]
+	[Voice Bowser]You shouwd thank me, Mawio.[BR]
+	[Wait][Next]
+	Since you've been my wivaw fow so[BR]
+	wong, I've awwanged a speciaw[BR]
+	awena fow youw defeat![Wait][End]
+}
+
+#string:13:07E
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwaa ha ha!!! Wike it?[BR]
+	[/fx][Pause 10]You'we compwetewy twapped! How[BR]
+	does it feew, huh?[Wait][End]
+}
+
+#string:13:07F
+{
+	[Style Right]
+	Mawio, be cawefuw!!![Wait][End]
+}
+
+#string:13:080
+{
+	[Style Right]
+	Bweah nyeah heh hee ha heh!![BR]
+	[Pause 10]You feww wight into ouw twap! And[BR]
+	you caww youwsewf a hewo?![Wait][End]
+}
+
+#string:13:081
+{
+	[Style Right]
+	Did you think we wewe foowish[BR]
+	enough to just sit back and[BR]
+	watch as you saved the Staw[BR]
+	Spiwits?[BR]
+	[Wait][Next]
+	I've put togethew a wittwe[BR]
+	suwpwise fow you...a device that[BR]
+	incweases Bowsew's powew![BR]
+	[Wait][Next]
+	King Bowsew wiww be so powewfuw[BR]
+	that not even the powew of the[BR]
+	Staw Spiwits can compawe![BR]
+	[Wait][Next]
+	He'ww now twuwy be invincibwe...[BR]
+	...thanks to my wisdom![BR]
+	[Wait][Next]
+	Awe you weady, my King?[BR]
+	[Pause 10][PrintRising]Then powew up!![Wait][End]
+}
+
+#string:13:082
+{
+	[Style Right]
+	[Voice Bowser][PrintRising][Shake]Uuuuaaaaahhhhh!!!!!! Yes!!![BR]
+	[/PrintRising][/Shake][Pause 10]Oh, Kammy Koopa![BR]
+	[Pause 10]That was incwedibwe! I feew wike[BR]
+	I'm expwoding with powew![BR]
+	[Wait][Next]
+	Now I'ww be abwe to squash this[BR]
+	cheeky pwumbew![Wait][End]
+}
+
+#string:13:083
+{
+	[Style Right]
+	[Voice Bowser]Hey, you! Mawio! [BR]
+	[Pause 10]It's not going to be wike befowe,[BR]
+	you mustached wosew![BR]
+	[Pause 10]Pwepawe to be beaten!![Wait][End]
+}
+
+#string:13:084
+{
+	[Style Right]
+	[Voice Bowser][Wave]Gwuuh huh huh huh![BR]
+	[/fx][Pause 10]Time to incwease my powew with[BR]
+	my good owd Staw Wod![Wait][End]
+}
+
+#string:13:085
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwaaah ha ha ha!! You idiot!![BR]
+	[Pause 10]That weak attack doesn't[BR]
+	affect me anymowe![Wait][End]
+}
+
+#string:13:086
+{
+	[Style Right]
+	Oh, we'we huwting, Mawio![BR]
+	[Pause 10]The Staw Beam doesn't wowk![Wait][End]
+}
+
+#string:13:087
+{
+	[Style Right]
+	Oh no, Mawio![BR]
+	[Pause 10]The Staw Beam isn't wowking![Wait][End]
+}
+
+#string:13:088
+{
+	[Style Right]
+	What's the mattew?[BR]
+	[Pause 10]Why won't the Staw Beam wowk?[Wait][End]
+}
+
+#string:13:089
+{
+	[Style Right]
+	Uh-oh, this is a pwobwem![BR]
+	[Pause 10]The Staw Beam's ineffective![BR]
+	[Wait][End]
+}
+
+#string:13:08A
+{
+	[Style Right]
+	Weww, don't just stand thewe[BR]
+	stawing at the sky, Mawio![BR]
+	[Pause 10]The Staw Beam doesn't wowk![BR]
+	[Pause 10]Think of something![Wait][End]
+}
+
+#string:13:08B
+{
+	[Style Right]
+	Oh no!! We'we in twoubwe![BR]
+	[Pause 10]The Staw Beam doesn't wowk?[BR]
+	[Pause 10]Oh, that bad monstew is gonna[BR]
+	beat us up now fow suwe...[Wait][End]
+}
+
+#string:13:08C
+{
+	[Style Right]
+	Oh, this is no good![BR]
+	[Pause 10]The Staw Beam doesn't wowk![BR]
+	[Pause 10]What'ww we do, Mawio!?[Wait][End]
+}
+
+#string:13:08D
+{
+	[Style Right]
+	Oh man, just what we need!![BR]
+	[Pause 10]The Staw Beam's bwoken![BR]
+	[Pause 10]What'we we gonna do, man?[Wait][End]
+}
+
+#string:13:08E
+{
+	[Style Right]
+	[PrintRising]Oh no! Bwave Mawio![BR]
+	[/fx][Wait][Next]
+	[Pause 10]What can I do...?[BR]
+	[Pause 10]The way things awe going, Bowsew[BR]
+	wiww suwewy defeat him...[BR]
+	[Wait][Next]
+	Somebody... Pwease... [BR]
+	[Pause 10]Hewp Mawio...[Wait][End]
+}
+
+#string:13:08F
+{
+	[Style Right]
+	Why do you have to constantwy[BR]
+	wun youw mouth?[BR]
+	[Pause 10]Keep quiet![Wait][End]
+}
+
+#string:13:090
+{
+	[Style Right]
+	[Voice Star]Oh, Pwincess Peach, awe you aww[BR]
+	wight?[BR]
+	[Pause 10]I'ww get you out of those wopes![Wait][End]
+}
+
+#string:13:091
+{
+	[Style Right]
+	Twink!![BR]
+	[Pause 10]I'm so gwad you'we OK![Wait][End]
+}
+
+#string:13:092
+{
+	[Style Right]
+	[Wave]You insowent wittwe Staw Kid![BR]
+	[Pause 10]How dawe you!![Wait][End]
+}
+
+#string:13:093
+{
+	[Style Right]
+	You wittwe whippewsnappew...[BR]
+	You'we too young to fight me![Wait][End]
+}
+
+#string:13:094
+{
+	[Style Right]
+	[Voice Star][Shake]I... I... [Pause 4]I'm not afwaid of you!![Wait][End]
+}
+
+#string:13:095
+{
+	[Style Right]
+	Oh, be cawefuw, Twink![Wait][End]
+}
+
+#string:13:096
+{
+	[Style Right]
+	Oh, Twink......[Wait][End]
+}
+
+#string:13:097
+{
+	[Style Right]
+	Nyeah heh hoo hah...[BR]
+	[Pause 10]Did I just feew a bweeze?[BR]
+	[Pause 10]Was that weawwy youw attack?[Wait][End]
+}
+
+#string:13:098
+{
+	[Style Right]
+	Ow! Why, you wittwe...[BR]
+	[Pause 10]So you can fight a wittwe...[Wait][End]
+}
+
+#string:13:099
+{
+	[Style Right]
+	Yeeow! What's going on!?[BR]
+	[Pause 10]Why does it seem wike this Staw[BR]
+	Kid's getting stwongew!?[Wait][End]
+}
+
+#string:13:09A
+{
+	[Style Right]
+	It... It can't be....[BR]
+	[Pause 10]My attacks don't wowk...[BR]
+	[Pause 10][Wait][Next]
+	[Pause 10]Oh... Oh no!!![BR]
+	[Wait][Next]
+	Now I wemembew... The Staws get[BR]
+	aww of theiw powew fwom owdinawy[BR]
+	peopwe's wishes... [BR]
+	[Wait][Next]
+	Peach's wishes awe giving that[BR]
+	wittwe Staw Kid powew![Wait][End]
+}
+
+#string:13:09B
+{
+	[Style Right]
+	Ooooohhh... King Bowsew...[BR]
+	[Pause 10]I have faiwed you...[Wait][End]
+}
+
+#string:13:09C
+{
+	[Style Right]
+	Oh, yes! We did it, Twink![BR]
+	[Pause 10]Now we must save Mawio![BR]
+	[Wait][Next]
+	[Pause 5]But...[BR]
+	[Pause 10]What can I do...?[Wait][End]
+}
+
+#string:13:09D
+{
+	[Style Right]
+	[Voice Star]I know! Pwincess Peach![BR]
+	[Pause 10]Make a wish![BR]
+	[Wait][Next]
+	Just wike you did fow me! Make a[BR]
+	wish to give mowe powew to the[BR]
+	Staw Spiwits![BR]
+	[Wait][Next]
+	Think of the Mushwoom Kingdom, [BR]
+	[Pause 5]Staw Haven, Mawio...[BR]
+	[Pause 10]Make a wish to the Staws,[BR]
+	thinking of aww those things![BR]
+	[Wait][Next]
+	If youw wish is stwong enough, it[BR]
+	wiww weach the Staw Spiwits and[BR]
+	give them stwength![Wait][End]
+}
+
+#string:13:09E
+{
+	[Style Right]
+	[Pause 5]OK, Twink...[BR]
+	[Pause 10]I'ww twy![Wait][End]
+}
+
+#string:13:09F
+{
+	[Style Right]
+	[Voice Star]I'ww go hewp Mawio![Wait][End]
+}
+
+#string:13:0A0
+{
+	[Style Right]
+	[Voice Bowser]Gwaah ha ha ha ha ha!!!!![BR]
+	[Pause 10]What's the mattew, Mawio!?[BR]
+	Feewing a bit undew the weathew?[BR]
+	[Wait][Next]
+	You ought to wowk out mowe![Wait][End]
+}
+
+#string:13:0A1
+{
+	[Style Right]
+	[Voice Star][PrintRising]Oh my!!![BR]
+	[Pause 10]I feew powew fwooding into me![Wait][End]
+}
+
+#string:13:0A2
+{
+	[Style Right]
+	[Voice Star]Honowabwe Staw Spiwits,[BR]
+	[Pause 10]I'ww do what I can to hewp![Wait][End]
+}
+
+#string:13:0A3
+{
+	[Style Right]
+	[Voice Star]Twink!?[BR]
+	[Wait][Next]
+	What a suwpwise!![BR]
+	[Pause 10]I feew... The wishes of Pwincess[BR]
+	Peach and aww of the Mushwoom[BR]
+	Kingdom awe giving us powew![BR]
+	[Wait][Next]
+	Pewhaps now we can match[BR]
+	Bowsew's stwength![Wait][End]
+}
+
+#string:13:0A4
+{
+	[Style Right]
+	[Voice Star]Now! Mawio![BR]
+	[Pause 10]Don't give up![BR]
+	[Wait][Next]
+	Evewyone's behind you![BR]
+	[Pause 10]Weceive ouw powew and do youw[BR]
+	vewy best![BR]
+	[Wait][Next]
+	Powew up the Staw Beam!![Wait][End]
+}
+
+#string:13:0A5
+{
+	[Style Right]
+	[Voice Bowser]Wha... What's going on...?[BR]
+	[Pause 30][End]
+}
+
+#string:13:0A6
+{
+	[Style Right]
+	[Voice Bowser]Mawio! Awe you stiww standing?[BR]
+	[Pause 10]You shouwd just give up![BR]
+	[Pause 10]You'ww nevew beat me![Wait][End]
+}
+
+#string:13:0A7
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwaaa-huh!???[BR]
+	[/fx][Pause 10]You've gotta be kidding me! My[BR]
+	Staw Wod powew's gone![Wait][End]
+}
+
+#string:13:0A8
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]This battwe's not ovew yet![Wait][End]
+}
+
+#string:13:0A9
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Ohhhhhhh, NOOO!!!![BR]
+	[Wait][Next]
+	Mawio defeated me...again... He[BR]
+	awways defeats me...[BR]
+	[Pause 10]This time I became invincibwe![BR]
+	[Pause 10]And I STIWW couwdn't beat him![BR]
+	[Wait][Next]
+	[Wave]Dawn it!!!!![Wait][End]
+}
+
+#string:13:0AA
+{
+	[Style Narrate]
+	[PrintRising][BR]
+	[Down 6]You took back the Staw Wod![Wait][End]
+}
+
+#string:13:0AB
+{
+	[Style Right]
+	[PrintRising]Oh, Mawio![HEART][Wait][End]
+}
+
+#string:13:0AC
+{
+	[Style Right]
+	Mawio...[BR]
+	[Pause 10]I knew you wouwd save me.[BR]
+	[Wait][Next]
+	Thank you, Mawio![HEART][Wait][End]
+}
+
+#string:13:0AD
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Whuh? Huh? I'm awake! Huh?[BR]
+	[/fx][Pause 10]What's going on!?[BR]
+	[Pause 10]This isn't pawt of my pwan![Wait][End]
+}
+
+#string:13:0AE
+{
+	[Style Right]
+	[Voice Bowser]Yo! Kammy Koopa![BR]
+	[Pause 10]What's with aww the shaking?[Wait][End]
+}
+
+#string:13:0AF
+{
+	[Style Right]
+	Uh, youw Kingship, the battwe[BR]
+	with Mawio was so intense[BR]
+	[Wait][Next]
+	that my device fow incweasing[BR]
+	youw powew seems to have[BR]
+	stawted mawfunctioning.[BR]
+	[Wait][Next]
+	Uh...it's entiwewy scwewed up,[BR]
+	and its powew appeaws to be[BR]
+	heading back into youw castwe.[BR]
+	[Wait][Next]
+	I hate to teww you this, but[BR]
+	[Pause 10]both youw castwe and this spot[BR]
+	wight hewe awe about to expwode.[BR]
+	[Wait][Next]
+	We must fwee, my eviw King! We[BR]
+	have no choice!![Wait][End]
+}
+
+#string:13:0B0
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]What...? Awe you... Weawwy?[BR]
+	[Pause 10]That's...a big pwobwem.[BR]
+	[Pause 10]Wet's get outta hewe wight...[BR]
+	[/fx][Wait][Next]
+	Huh?[Pause 3].[Pause 3].[Pause 3].[BR]
+	[Pause 10][Wait][End]
+}
+
+#string:13:0B1
+{
+	[Style Right]
+	[Voice Bowser][Size 48]Aaahhh!!!![BR]
+	[Pause 20][End]
+}
+

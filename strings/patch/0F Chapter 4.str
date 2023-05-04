@@ -1,0 +1,1270 @@
+#string:0F:000
+{
+	[Style Right]
+	Wewcome to Bwue Station![BR]
+	[Pause 10]Umm... Unfowtunatewy, I can't[BR]
+	take you to the othew stations.[BR]
+	[Wait][Next]
+	We have the station and the[BR]
+	twacks and evewything...but[BR]
+	the twain's missing![Wait][End]
+}
+
+#string:0F:001
+{
+	[Style Right]
+	Wewcome to Bwue Station![BR]
+	[Pause 10]Umm... Unfowtunatewy, I can't[BR]
+	take you to the othew stations.[BR]
+	[Wait][Next]
+	We have the station and the[BR]
+	twacks and evewything...but[BR]
+	the twain's missing![Wait][End]
+}
+
+#string:0F:002
+{
+	[Style Right]
+	Wook, we can't vewy weww wide on[BR]
+	a tiny wittwe Toy Twain![BR]
+	[Pause 10]That'd be impossibwe.[BR]
+	[Wait][Next]
+	Put that back in its Toy Box![Wait][End]
+}
+
+#string:0F:003
+{
+	[Style Right]
+	Yaaaahoo![HEART] [BR]
+	We'we back in business![BR]
+	[Wait][Next]
+	This twain just dwopped out of[BR]
+	the sky and onto the twacks![BR]
+	[Pause 5]Pubwic twansit's up and wunning![BR]
+	[Wait][Yield][End]
+}
+
+#string:0F:004
+{
+	[Style Right]
+	You can use the switches in[BR]
+	fwont of the station to choose[BR]
+	the twain's diwection.[BR]
+	[Wait][Next]
+	Just wet me know when you've[BR]
+	decided which diwection you want[BR]
+	to go, OK?[BR]
+	[Pause 10]Aww aboawd!![Wait][End]
+}
+
+#string:0F:005
+{
+	[Next]
+	You can use the switches in[BR]
+	fwont of the station to choose[BR]
+	the twain's diwection.[BR]
+	[Wait][Next]
+	Have you figuwed out which way[BR]
+	you want to go?[BR]
+	[Wait][Next]
+	Pwease teww me again if you'we[BR]
+	suwe that's the way you want[BR]
+	to go.[BR]
+	[Pause 10]Aww aboawd![Wait][End]
+}
+
+#string:0F:006
+{
+	[Style Right]
+	Which way awe you heading?[BR]
+	[Pause 10]Pwess one of those switches to[BR]
+	choose a diwection.[Wait][End]
+}
+
+#string:0F:007
+{
+	[Style Right]
+	Whewe wouwd you wike to go?[BR]
+	[Yield][End]
+}
+
+#string:0F:008
+{
+	[Next]
+	Pwease wide with us again, OK?[Wait][End]
+}
+
+#string:0F:009
+{
+	[Style Right]
+	We'we weaving! Aww aboawd![Wait][End]
+}
+
+#string:0F:00A
+{
+	[InputOff][Style Right]
+	Next stop: Bwue Station![BR]
+	Now awwiving at Bwue Station![BR]
+	[Pause 10]Passengews wishing to exit the[BR]
+	Toy Box, pwease get off hewe.[BR]
+	[Pause 30][End]
+}
+
+#string:0F:00B
+{
+	[InputOff][Style Right]
+	Next stop: Pink Station![BR]
+	Now awwiving at Pink Station![BR]
+	Piiiiiiink Station![BR]
+	[Pause 30][End]
+}
+
+#string:0F:00C
+{
+	[InputOff][Style Right]
+	Next stop: Gween Station![BR]
+	Now awwiving at Gween Station![BR]
+	[Pause 10]Passengews wishing to go to the[BR]
+	Swot Machine, pwease exit.[BR]
+	[Pause 30][End]
+}
+
+#string:0F:00D
+{
+	[InputOff][Style Right]
+	Next stop: Wed Station![BR]
+	Now awwiving at Wed Station![BR]
+	Weeeeeed Station![BR]
+	[Pause 30][End]
+}
+
+#string:0F:00E
+{
+	[Style Right]
+	Station stop: Bwue Station![BR]
+	[Pause 10]Wewcome to Bwue Station,[BR]
+	passengews![BR]
+	[Wait][Next]
+	To exit the Toy Box, pwease use[BR]
+	the jump pad on youw weft.[BR]
+	[Wait][Next]
+	Awso to the weft is a Shy Guy[BR]
+	Pwaygwound.[Wait][End]
+}
+
+#string:0F:00F
+{
+	[Style Right]
+	Station stop: Pink Station![BR]
+	[Pause 10]Wewcome to Pink Station,[BR]
+	passengews![Wait][End]
+}
+
+#string:0F:010
+{
+	[Style Right]
+	Station stop: Gween Station![BR]
+	[Pause 10]Wewcome to Gween Station,[BR]
+	passengews![Wait][End]
+}
+
+#string:0F:011
+{
+	[Style Right]
+	Station stop: Wed Station![BR]
+	[Pause 10]Wewcome to Wed Station,[BR]
+	passengews![Wait][End]
+}
+
+#string:0F:012
+{
+	[Style Right]
+	Oh, thewe's a twack pwobwem![BR]
+	[Pause 10]We can't go that diwection.[BR]
+	[Wait][Next]
+	Do you see that wevew way behind[BR]
+	us on the weft? If you can get[BR]
+	ovew thewe and push it, we'ww be[BR]
+	abwe to continue.[Wait][End]
+}
+
+#string:0F:013
+{
+	[Style Right]
+	I think ouw wittwe twack pwobwem[BR]
+	wiww be fixed if you puww down on[BR]
+	that wevew.[BR]
+	[Wait][Next]
+	Ow maybe not. I'm not suwe...[BR]
+	[Pause 10]Hmmm...[BR]
+	[Pause 10]To puww ow not to puww?[Wait][End]
+}
+
+#string:0F:014
+{
+	[Style Right]
+	Do you think puwwing that wevew[BR]
+	wiww fix the twacks?[BR]
+	[Pause 10]Hmmm...[Wait][End]
+}
+
+#string:0F:015
+{
+	[Style Right]
+	Weww, I'ww be![BR]
+	[Pause 10]Just as I suspected![BR]
+	[Wait][Next]
+	We shouwd have moved that wevew[BR]
+	a wong time ago![Wait][End]
+}
+
+#string:0F:016
+{
+	[Style Right]
+	We can't go to Wed Station. [BR]
+	The twacks awe bwoken, see?[BR]
+	[Wait][Next]
+	I'm vewy sowwy...[Wait][End]
+}
+
+#string:0F:017
+{
+	[Style Right]
+	Usuawwy I wowk hewe at Bwue[BR]
+	Station.[BR]
+	[Pause 10]But since thewe's no twain, I'm[BR]
+	pwetty much unempwoyed now.[Wait][End]
+}
+
+#string:0F:018
+{
+	[Style Right]
+	The Stowewoom Key you have in[BR]
+	youw hand... I'm positive the[BR]
+	Shy Guys stowe that fwom[BR]
+	somewhewe in Toad Town.[BR]
+	[Wait][Next]
+	I wondew who they stowe it fwom.[BR]
+	[Pause 10]Whoevew it was must be mad.[Wait][End]
+}
+
+#string:0F:019
+{
+	[Style Right]
+	You gave the Stowewoom Key back[BR]
+	to the stowekeepew?[BR]
+	[Pause 10]He must've been supew happy![BR]
+	[Wait][Next]
+	Happiew than I am, anyway.[BR]
+	[Pause 10]Thewe's stiww no twain, so I stiww[BR]
+	don't have a job.[Wait][End]
+}
+
+#string:0F:01A
+{
+	[Style Right]
+	The twain's wunning again![BR]
+	[Pause 10]We can weave anytime!![Wait][End]
+}
+
+#string:0F:01B
+{
+	[Style Right]
+	That Fwying Pan you have in[BR]
+	youw hand... I'm positive the[BR]
+	Shy Guys stowe that fwom[BR]
+	somewhewe in Toad Town.[BR]
+	[Wait][Next]
+	I'm suwe whoevew owned it must[BR]
+	be aww bwoken up wight now.[BR]
+	[Pause 10]You can't cook vewy weww without[BR]
+	a Fwying Pan.[Wait][End]
+}
+
+#string:0F:01C
+{
+	[Style Right]
+	Did you know that Shy Guys[BR]
+	weawwy wike sweets?[BR]
+	Cakes, candies...you name it.[BR]
+	[Wait][Next]
+	Supposedwy, that's aww they'd eat[BR]
+	if they couwd.[Wait][End]
+}
+
+#string:0F:01D
+{
+	[Style Right]
+	You can wepaiw aww of the bwoken[BR]
+	waiws awong ouw woute by moving[BR]
+	neawby wevews.[BR]
+	[Wait][Next]
+	Obviouswy, we'we going nowhewe if[BR]
+	the waiws don't get fixed.[Wait][End]
+}
+
+#string:0F:01E
+{
+	[Style Right]
+	You can wepaiw aww of the bwoken[BR]
+	waiws awong ouw woute by moving[BR]
+	neawby wevews.[BR]
+	[Wait][Next]
+	Ow maybe not aww of them...[BR]
+	[Pause 10]What do we do...?[Wait][End]
+}
+
+#string:0F:01F
+{
+	[Style Right]
+	That Memo you have is wwitten in[BR]
+	Shy Guy wanguage.[BR]
+	[Wait][Next]
+	Don't wook at me! I can't wead[BR]
+	Shy Guy wanguage![BR]
+	[Wait][Next]
+	You couwd pwobabwy figuwe it out[BR]
+	if you found someone who's smawt[BR]
+	enough.[Wait][End]
+}
+
+#string:0F:020
+{
+	[Style Right]
+	Oh, thanks a wot fow figuwing[BR]
+	out the secwet of the[BR]
+	jack-in-the-box switch.[BR]
+	Now the twain can woww again.[BR]
+	[Wait][Next]
+	Nothing makes me happiew than[BR]
+	watching the twain woww...[Wait][End]
+}
+
+#string:0F:021
+{
+	[Style Right]
+	Wumow is that thewe's a vehicwe[BR]
+	vewy simiwaw to this in the wowwd[BR]
+	outside the box.[BR]
+	[Pause 10]They caww it a twain, too...?[BR]
+	[Wait][Next]
+	Weww...thewe's no way it can be as[BR]
+	coow as ouw twain...[Wait][End]
+}
+
+#string:0F:022
+{
+	[Style Right]
+	It seems as though those Shy[BR]
+	Guys have weawned a wesson this[BR]
+	time. Maybe they won't steaw[BR]
+	things anymowe.[BR]
+	[Wait][Next]
+	They ought to just weawn to wive[BR]
+	in peace, suwwounded by toys![BR]
+	[Wait][Next]
+	A hand howding a toy is wess[BR]
+	wikewy to cause mischief...[Wait][End]
+}
+
+#string:0F:023
+{
+	[Style Right]
+	Some Shy Guy just wan off to[BR]
+	the wight with a Fwying Pan![BR]
+	[Wait][Next]
+	Ooh, I just bet that he stowe it[BR]
+	fwom some innocent souw![BR]
+	[Pause 10]And you know he doesn't weawwy[BR]
+	want to cook anything with it.[BR]
+	[Wait][Next]
+	Shy Guys awe so obnoxious...[Wait][End]
+}
+
+#string:0F:024
+{
+	[Style Right]
+	Have you seen the Gouwmet Guy?[BR]
+	[Pause 10]He's a huge Shy Guy who's weawwy[BR]
+	pawticuwaw about food.[BR]
+	[Wait][Next]
+	Judging by his size, I'd say he's[BR]
+	not aww that pawticuwaw.[BR]
+	[Wait][Next]
+	He has a sewious sweet tooth. I[BR]
+	heaw that he weawwy woves Cake.[Wait][End]
+}
+
+#string:0F:025
+{
+	[Style Right]
+	We have to move some wevew in[BR]
+	owdew to wepaiw the twacks so[BR]
+	we can go to Gween Station.[BR]
+	[Wait][Next]
+	I think it was that pink wevew[BR]
+	ovew thewe, but...I'm not suwe...[BR]
+	I fowget...[Wait][End]
+}
+
+#string:0F:026
+{
+	[Style Right]
+	We have to move some wevew in[BR]
+	owdew to wepaiw the twacks so[BR]
+	we can go to Gween Station.[BR]
+	[Wait][Next]
+	I think it was that pink wevew[BR]
+	ovew thewe, but...I'm not suwe...[BR]
+	I fowget...[Wait][End]
+}
+
+#string:0F:027
+{
+	[Style Right]
+	The twacks awe aww fixed, so we[BR]
+	can now go to Gween Station.[BR]
+	[Pause 10]Feew fwee to use this twain[BR]
+	anytime you wike![Wait][End]
+}
+
+#string:0F:028
+{
+	[Style Right]
+	Have you seen the Big Wantewn[BR]
+	Ghost?[BR]
+	[Pause 10]He awways hides in gwoomy pwaces.[BR]
+	He woves the dawkness.[BR]
+	[Wait][Next]
+	Then again, he's awways cawwying[BR]
+	this wittwe wantewn, so...[BR]
+	[Wait][Next]
+	...maybe he doesn't wike the[BR]
+	dawkness aww that much...[Wait][End]
+}
+
+#string:0F:029
+{
+	[Style Right]
+	I heawd that the Big Wantewn[BR]
+	Ghost took off.[BR]
+	[Pause 10]Do you think he weft the box?[BR]
+	[Wait][Next]
+	He won't need that wantewn if he[BR]
+	wives somewhewe bwight.[Wait][End]
+}
+
+#string:0F:02A
+{
+	[Style Right]
+	You know, Shy Guys made this Toy[BR]
+	Twain that we use.[BR]
+	[Wait][Next]
+	They wike to gathew wown-out[BR]
+	things that no one uses and tuwn[BR]
+	them into toys.[BR]
+	[Wait][Next]
+	They'we pwetty good at making[BR]
+	something out of nothing.[Wait][End]
+}
+
+#string:0F:02B
+{
+	[Style Right]
+	This is Gween Station.[BR]
+	[Pause 10]I'm cewtainwy feewing gween.[BR]
+	Shy Guys hid ouw twacks![BR]
+	[Wait][Next]
+	How'we we supposed to move?[BR]
+	[Wait][Next]
+	Oh, by the way, a Shy Guy with a[BR]
+	book wan off to the wight towawd[BR]
+	the Swot Machine.[BR]
+	[Wait][Next]
+	I'm suwe the wittwe wogue stowe[BR]
+	that book fwom someone.[BR]
+	[Wait][Next]
+	It'ww be impossibwe to catch him[BR]
+	unwess you figuwe out how to get[BR]
+	thwough the wiwe fence.[Wait][End]
+}
+
+#string:0F:02C
+{
+	[Style Right]
+	I witnessed a Shy Guy with a[BR]
+	book wunning to the wight,[BR]
+	towawd the Swot Machine.[BR]
+	[Wait][Next]
+	I'm suwe the wittwe wogue stowe[BR]
+	that book fwom someone.[BR]
+	[Wait][Next]
+	It'ww be impossibwe to catch him[BR]
+	unwess you figuwe out how to get[BR]
+	thwough the wiwe fence.[Wait][End]
+}
+
+#string:0F:02D
+{
+	[Style Right]
+	That Memo you have is wwitten in[BR]
+	Shy Guy wanguage.[BR]
+	[Wait][Next]
+	Don't wook at me! I can't wead[BR]
+	Shy Guy wanguage![BR]
+	[Wait][Next]
+	You couwd pwobabwy figuwe it out[BR]
+	if you found someone who's smawt[BR]
+	enough.[Wait][End]
+}
+
+#string:0F:02E
+{
+	[Style Right]
+	We can go to Wed Station now![BR]
+	[Pause 10]Gweat! Feew fwee to wide with[BR]
+	us anytime![Wait][End]
+}
+
+#string:0F:02F
+{
+	[Style Right]
+	It wooks wike the Shy Guys awe[BR]
+	weawwy wobbing Toad Town bwind.[BR]
+	[Wait][Next]
+	I've heawd them say that they[BR]
+	want Bowsew to wewawd them fow[BR]
+	fiwwing up this Toy Box.[BR]
+	[Wait][Next]
+	It used to be so peacefuw inside[BR]
+	hewe...but it's getting downwight[BR]
+	cwowded and noisy.[Wait][End]
+}
+
+#string:0F:030
+{
+	[Style Right]
+	I'm suwe the Shy Guys awe going[BR]
+	to knock it off fow a whiwe.[BR]
+	[Wait][Next]
+	They'ww wecovew eventuawwy,[BR]
+	though, and stawt gathewing[BR]
+	wown-out junk again fow theiw[BR]
+	toy-making needs.[BR]
+	[Wait][Next]
+	Evewyone's much happiew when[BR]
+	they onwy take wown-out stuff[BR]
+	instead of pwecious items.[Wait][End]
+}
+
+#string:0F:031
+{
+	[Style Right]
+	The othew day, I saw a gang of[BR]
+	Shy Guys cawwying a spawkwing[BR]
+	cawd of some sowt in a cage.[BR]
+	[Wait][Next]
+	They headed off to the wight...[BR]
+	Do you think I ought to go check[BR]
+	out what they wewe doing?[Wait][End]
+}
+
+#string:0F:032
+{
+	[Style Right]
+	You beat that weiwd, giggwing[BR]
+	ghost that wikes the dawk?[BR]
+	[Wait][Next]
+	Wow, that's gweat! Thank you![Wait][End]
+}
+
+#string:0F:033
+{
+	[Style Right]
+	Oh. I see. The Shy Guys wewe[BR]
+	howding a Staw Spiwit...[BR]
+	[Wait][Next]
+	I thought they wewe happy just[BR]
+	making and pwaying with toys.[BR]
+	[Wait][Next]
+	Who couwd want mowe?[BR]
+	[Wait][Next]
+	Anyway, ouw onwy wish was to[BR]
+	have ouw twain up and wunning...[BR]
+	[Wait][Next]
+	And you made it come twue![Wait][End]
+}
+
+#string:0F:034
+{
+	[Style Right]
+	Nyeah heh heh...[BR]
+	[Pause 5]Pewfect. Mawio hates this thing,[BR]
+	so he'ww suwewy tuwn back. [BR]
+	[Wait][Next]
+	Uh... I think...[BR]
+	[Pause 10]That doesn't wook wike the sowt[BR]
+	of thing that'd bothew Mawio.[BR]
+	[Wait][Next]
+	I wondew if I shouwd weawwy twust[BR]
+	what Peach says...[Wait][End]
+}
+
+#string:0F:035
+{
+	[Style Right]
+	Weww...it doesn't mattew.[BR]
+	[Pause 10]King Bowsew owdewed it.[BR]
+	[Wait][Next]
+	And he's the boss![Wait][End]
+}
+
+#string:0F:036
+{
+	[Style Right]
+	Pewfect... Mawio weawwy hates[BR]
+	these guys so he'ww wun. [BR]
+	[Wait][Next]
+	Wiww they weawwy scawe him? They[BR]
+	seem pwetty weak...[BR]
+	[Wait][Next]
+	I'm getting a wittwe suspicious of[BR]
+	what Peach tewws us... [Wait][End]
+}
+
+#string:0F:037
+{
+	[Style Right]
+	Weww...it doesn't mattew.[BR]
+	[Pause 10]King Bowsew owdewed it.[BR]
+	[Wait][Next]
+	And he's the boss![Wait][End]
+}
+
+#string:0F:038
+{
+	[Style Right]
+	Nyeah heh heh heh!!![BR]
+	[Pause 10]Ooh, I can't wait untiw Mawio[BR]
+	gets hewe![BR]
+	[Wait][Next]
+	He's gonna get beaten so bad! [BR]
+	He'ww pwobabwy stawt cwying![BR]
+	[Wait][Next]
+	Then King Bowsew and I wiww waugh[BR]
+	and waugh![BR]
+	[Pause 10]Come and get it, Mawio![Wait][End]
+}
+
+#string:0F:039
+{
+	[Style Right]
+	[Wave]Nyeah heh heh hah!!!!![Wait][End]
+}
+
+#string:0F:03A
+{
+	[Style Right]
+	Oh... Mawio!?[BR]
+	[Pause 10]I have to fight Mawio?![BR]
+	[Wait][Next]
+	By mysewf? Why me?[BR]
+	[Wait][Next]
+	I'm toast...but I have to twy![BR]
+	[Pause 10]Feew my, uh...wwath, I guess![Wait][End]
+}
+
+#string:0F:03B
+{
+	[Style Right]
+	Oh, it's Mawio!![BR]
+	[Pause 10]See this fine cwub I have?[BR]
+	I'm gonna intwoduce you to it.[BR]
+	[Wait][Next]
+	[PrintRising]Cwub...meet Mawio!!![Wait][End]
+}
+
+#string:0F:03C
+{
+	[Style Right]
+	!!!!!!!![BR]
+	[Pause 10]Meeeoowk! Mawio![BR]
+	[Wait][Next]
+	[PrintRising][Wave]This'ww be fun![Wait][End]
+}
+
+#string:0F:03D
+{
+	[Style Right]
+	Nyuck yuck yuck...[BR]
+	[Pause 10]What took you so wong, Mawio?[BR]
+	[Pause 10]Weady to taste my hammew?[BR]
+	[Wait][Next]
+	Hewe it comes!!![Wait][End]
+}
+
+#string:0F:03E
+{
+	[Style Right]
+	!!!!!!!![Wait][End]
+}
+
+#string:0F:03F
+{
+	[Style Right]
+	Yes!! I thought you'd come![BR]
+	[Pause 10]Now I get to defeat you and win[BR]
+	admiwation fwom King Bowsew.[BR]
+	[Wait][Next]
+	I'm gonna be famous![Wait][End]
+}
+
+#string:0F:040
+{
+	[Style Right]
+	Evewybody cawws me Gouwmet Guy.[BR]
+	[Wait][Next]
+	I don't know why. I'm just an[BR]
+	owdinawy, food-woving Shy Guy.[BR]
+	[Wait][Next]
+	Sigh...[BR]
+	[Pause 5]I'm hungwy...[Wait][End]
+}
+
+#string:0F:041
+{
+	[Style Right]
+	I'm too hungwy to move.[BR]
+	[Pause 10]I'm famished! I must eat![BR]
+	[Wait][Next]
+	I need a sweet, sweet Cake![BR]
+	[Pause 10]Sweet Cake...with fwosting...[BR]
+	and cookie cwumbwes...[Wait][End]
+}
+
+#string:0F:042
+{
+	[Style Right]
+	[Wave]Bweagh!!! Hack! Thppth![BR]
+	[/fx]That was disgusting![BR]
+	[Pause 10]That wasn't even food! I can't[BR]
+	bewieve I ate that![Wait][End]
+}
+
+#string:0F:043
+{
+	[Style Right]
+	[Wave]Aw, ickthpth!!! Bweah![BR]
+	[/fx]That's the wowst tasting food[BR]
+	I've evew eaten! Ick![BR]
+	[Wait][Next]
+	My dewicate pawate is too wefined[BR]
+	to eat this stuff![BR]
+	[Wait][Next]
+	I can eat onwy food of the finest[BR]
+	quawity, ow I might gag.[BR]
+	[Pause 10]I'd wathew stawve than eat such[BR]
+	infewiow food as this![Wait][End]
+}
+
+#string:0F:044
+{
+	[InputOff][Style Right]
+	[PrintRising]Oh... [Pause 35]Ohhh, mmmm...[BR]
+	[Pause 35]Ohhhhhhh!!!!![BR]
+	[/fx][Pause 30][Next]
+	[Shake]Deeewiciouuuuuuus!!![BR]
+	[Pause 45][/fx][Next]
+	[Wave]This [Pause 3]is [Pause 4]wip-[Pause 5]smacking [Pause 6]good![Pause 2]![Pause 2]![Pause 2]![BR]
+	[Pause 50][End]
+}
+
+#string:0F:045
+{
+	[InputOff][Style Right]
+	[PrintRising]Yuuuuummmm!!!!!!!![BR]
+	[Pause 10][End]
+}
+
+#string:0F:046
+{
+	[Style Right]
+	[Wave]Hm? What do you want?[BR]
+	[Wait][Next]
+	Get away fwom that Tweasuwe[BR]
+	Chest, paw![BR]
+	[/fx][Wait][Yield][Next]
+	It's mine, see?[BR]
+	[Pause 10]Don't mess with me![HEART][BR]
+	[Yield][End]
+}
+
+#string:0F:047
+{
+	[Next]
+	You wanna fight? Awe you nuts?[BR]
+	[Pause 10]You don't wanna mess with me![HEART][BR]
+	[Pause 10]Awe you suwe ya wanna fight?[BR]
+	[Yield][End]
+}
+
+#string:0F:048
+{
+	[Next]
+	[Wave]Good. You'we a smawt boy![HEART][Wait][End]
+}
+
+#string:0F:049
+{
+	[Next]
+	What!! Weww, aww wight...[BR]
+	[Pause 10]I do wove a chawwenge![HEART][BR]
+	[Wait][Next]
+	[Wave]Hewe it comes, paw![BR]
+	[Pause 10]Don't say I didn't wawn you![Wait][End]
+}
+
+#string:0F:04A
+{
+	[Style Right]
+	Sniff sniff... Sniff?[BR]
+	[Yield][Wait]Do I smeww Wemon Candy?[BR]
+	[Wait][Next]
+	Hey! Paw! You have Wemon Candy,[BR]
+	and you didn't teww me? [BR]
+	[Yield][Wait][Next]
+	[Wave]Pwease! I wove that stuff![HEART][BR]
+	[Pause 10]Wemme have some Wemon Candy![BR]
+	[Pause 10]Pwease! C'mon, paw![BR]
+	[Wait][Next]
+	Take the tweasuwe--just gimme[BR]
+	the Wemon Candy, wiww ya?![Wait][End]
+}
+
+#string:0F:04B
+{
+	[Style Right]
+	Gwwwww!!![BR]
+	[Pause 10]You stingy, candy-hogging punk![BR]
+	[Wait][Next]
+	Weww, you can fowget about[BR]
+	getting my tweasuwe now![BR]
+	[Pause 10][Wave]You want it? You'we going to[BR]
+	have to fight me fow it.[BR]
+	[Yield][End]
+}
+
+#string:0F:04C
+{
+	[Style Right]
+	[Wave][PrintRising]Yeeeaaaah![HEART][BR]
+	[Wait][Next]
+	I got some Wemon Candy![HEART][Wait][End]
+}
+
+#string:0F:04D
+{
+	[Style Right]
+	Oh...so good...tawt...[BR]
+	[Wave][PrintRising]So yummy...[HEART][HEART][HEART][BR]
+	[/fx][/fx][Wait][End]
+}
+
+#string:0F:04E
+{
+	[Style Right]
+	[Shake]Wee [Pause 5]hee hee [Pause 3]hee...[BR]
+	[Pause 10]Someone... has come...[BR]
+	[Wait][Next]
+	Someone is hewe in the dawk...[Wait][End]
+}
+
+#string:0F:04F
+{
+	[Style Right]
+	[Shake]Wee hee hee...[BR]
+	[Pause 10]Oh... [Pause 5]Couwd it be...?[BR]
+	[Pause 10]Wee hee hee hee... It's Mawio!![Wait][End]
+}
+
+#string:0F:050
+{
+	[Style Right]
+	[Shake]Wooks wike you'we mine, Mawio![BR]
+	[Pause 10]Wee hee...[BR]
+	[Pause 5]I won't wet you go...anywhewe...[Wait][End]
+}
+
+#string:0F:051
+{
+	[Style Right]
+	Wee hee hee...[BR]
+	[Pause 5]I'ww take cawe of you quickwy,[BR]
+	then wetuwn to my dawkness.[BR]
+	[Wait][Next]
+	I hate the wight...[BR]
+	[Wait][Next]
+	So... I'ww take you with me...[BR]
+	...to the deep dawk...[Wait][End]
+}
+
+#string:0F:052
+{
+	[Style Right]
+	[PrintRising][Wave]Woooaaahh!![BR]
+	[Wait][Next]
+	[/PrintRising][/Wave]I hate wight!!![BR]
+	[Wait][Next]
+	I'ww make it dawkew...then even[BR]
+	dawkew than that...[Wait][End]
+}
+
+#string:0F:053
+{
+	[Style Right]
+	Ow, that wight! It's so bwight...[BR]
+	[Pause 10]This is no good...[BR]
+	Hewe...dawkew and dawkew...[Wait][End]
+}
+
+#string:0F:054
+{
+	[Style Right]
+	[PrintRising][Wave]Nooooooooo!![BR]
+	[Pause 100][End]
+}
+
+#string:0F:055
+{
+	[Style Right]
+	[PrintGrowing]Hi, mistew![BR]
+	[Pause 10]I'm Watt.[BR]
+	[Pause 10]Can I, um, get out of hewe?[Wait][End]
+}
+
+#string:0F:056
+{
+	[Style Right]
+	Wait, wait![BR]
+	[Pause 10]Don't weave me, pwease![BR]
+	[Pause 10]Wet me out, mistew, OK?[Wait][End]
+}
+
+#string:0F:057
+{
+	[Style Right]
+	Hm hm hee hee...[BR]
+	[Pause 10]Yay! I got out![BR]
+	[Wait][Next]
+	Yay fow me![BR]
+	[Pause 10]Thanks, mistew![Wait][End]
+}
+
+#string:0F:058
+{
+	[Style Right]
+	Cough cough...[BR]
+	[Yield][Wait][Next]
+	You'we cwazy, mistew![BR]
+	[Pause 10]Did ya have to, um, bwow it up to[BR]
+	get me out?[BR]
+	[Wait][Next]
+	Jeepews![Wait][End]
+}
+
+#string:0F:059
+{
+	[Style Right]
+	Hey![BR]
+	[Pause 10]Awen't you, um, Mawio!?[BR]
+	[Yield][Wait][Next]
+	You just saved me wike a hewo![BR]
+	You'we a hewo, awen't ya?[BR]
+	You'we the coowest!!![BR]
+	[Wait][Next]
+	You saved me fwom the mean guy[BR]
+	who waughed wike, "Wee hee hee!"[Wait][End]
+}
+
+#string:0F:05A
+{
+	[Style Right]
+	I gotta make it up to you![BR]
+	[Pause 10]I'ww go with you, Mawio, OK?[BR]
+	[Wait][Next]
+	I heawd the, um, Shy Guys saying[BR]
+	[Pause 10]that you'we twying to save [BR]
+	Pwincess Peach fwom Bowsew.[BR]
+	[Yield][Wait][Next]
+	You'we supew gweat![BR]
+	[Pause 10]You'we the gweatest gweat guy![BR]
+	[Pause 10]I think you'we the best![BR]
+	[Wait][Next]
+	So, um, I weawwy want to hewp.[BR]
+	[Pause 10]I'ww be good, weawwy![Wait][End]
+}
+
+#string:0F:05B
+{
+	[Style Right]
+	Ooh, it's pwetty dawk, huh?[BR]
+	[Pause 10]I kinda wike the dawk...[BR]
+	[Wait][Next]
+	But, um, now I can show you how[BR]
+	hewpfuw I can be, OK? [BR]
+	[Wait][Next]
+	Use my powew, OK?[Wait][End]
+}
+
+#string:0F:05C
+{
+	[Style Right]
+	Wow, pwetty coow, huh?[BR]
+	[Pause 10]Wook! It's so bwight now![BR]
+	[Pause 10]Tee hee hee...[BR]
+	[Wait][Next]
+	I bet nobody ewse can hewp out[BR]
+	wike that, huh? Can they?[BR]
+	[Wait][Next]
+	Nope! Now! [PrintRising]Wet's go![BR]
+	[/fx][Pause 5]Hm hee hee hee...[Wait][End]
+}
+
+#string:0F:05D
+{
+	[InputOff][Style Right]
+	[Wave]Wun! Wun fow it!![BR]
+	[Pause 15][End]
+}
+
+#string:0F:05E
+{
+	[InputOff][Style Right]
+	[Wave]Waaah! Hewp me!![BR]
+	[Pause 15][End]
+}
+
+#string:0F:05F
+{
+	[Style Right]
+	So, you came, did you?[Wait][End]
+}
+
+#string:0F:060
+{
+	[Style Right]
+	I'm Genewaw Guy.[BR]
+	[Pause 10]We'we fowwowing the owdews of[BR]
+	King Bowsew by guawding a Staw[BR]
+	Spiwit.[BR]
+	[Wait][Next]
+	As wong as we keep it secuwe, we[BR]
+	have pewmission to do whatevew[BR]
+	we want. You heaw!?[Wait][End]
+}
+
+#string:0F:061
+{
+	[Style Right]
+	I don't cawe fow you, siw. You[BR]
+	awe wude, and fuwthewmowe,[BR]
+	you'we twespassing in hewe.[BR]
+	[Wait][Next]
+	Ouw Toy Box is off wimits to the[BR]
+	wikes of you![BR]
+	[Pause 10]The tweasuwes inside this box[BR]
+	awe fow Shy Guys onwy![BR]
+	[Wait][Next]
+	And that Staw Spiwit's fate is[BR]
+	none of youw business![Wait][End]
+}
+
+#string:0F:062
+{
+	[Style Right]
+	Pwepawe to fight me, siw![Wait][End]
+}
+
+#string:0F:063
+{
+	[Style Right]
+	[Down 10][Size 32][Wave]Taste defeat![Wait][End]
+}
+
+#string:0F:064
+{
+	[Style Right]
+	[Down 10][Size 32][PrintRising][Shake]Chawge!![Wait][End]
+}
+
+#string:0F:065
+{
+	[Style Right]
+	OK, guys! Aww togethew now![BR]
+	[Pause 10]Wet's wush him![BR]
+	[Wait][Next]
+	[Yield][Wave]Chaaaaawge!!![BR]
+	[/fx][Wait][End]
+}
+
+#string:0F:066
+{
+	[Style Right]
+	We'we gonna wose!![BR]
+	[Pause 10]Oh, no! We've gotta wun!!![Wait][End]
+}
+
+#string:0F:067
+{
+	[Style Right]
+	Wait! Stand youw gwound, men![BR]
+	[Pause 10]Now's no time fow cowawds![BR]
+	[Wait][Next]
+	I wiww not abide desewtews![BR]
+	[Yield][Pause 40][End]
+}
+
+#string:0F:068
+{
+	[Style Right]
+	Wait! Stand youw gwound, men![BR]
+	[Pause 10]Now's no time fow cowawds![BR]
+	[Wait][Next]
+	I wiww not abide desewtews![BR]
+	[Yield][Pause 40][End]
+}
+
+#string:0F:069
+{
+	[Style Right]
+	Mewcy, he beat 'em aww up![BR]
+	[Pause 10]That suwewy isn't good...[BR]
+	[Wait][Next]
+	Guess it's up to me![Wait][End]
+}
+
+#string:0F:06A
+{
+	[Style Right]
+	You men make me sick![BR]
+	[Pause 10]We must pwotect the Toy Box![BR]
+	[Pause 10]Am I the onwy one with guts?[Wait][End]
+}
+
+#string:0F:06B
+{
+	[Style Right]
+	Mawio! You, siw, wiww pay![BR]
+	[Pause 10]You beat my infantwy, [BR]
+	[Wait][Next]
+	but that's aww you'ww do![BR]
+	[Wait][Next]
+	Pwepawe fow the next wave![Wait][End]
+}
+
+#string:0F:06C
+{
+	[Style Right]
+	Go! Attack, Stiwt Guys![BR]
+	Fight! Fight! Fight![Wait][End]
+}
+
+#string:0F:06D
+{
+	[Style Right]
+	[Wave][PrintRising]Yes, siw! Wight away, siw![BR]
+	[/fx][/fx][Wait][End]
+}
+
+#string:0F:06E
+{
+	[Style Right]
+	[Wave]Gwwwwwwwww!!!![BR]
+	[/fx]Unbewievabwe!![BR]
+	[Wait][Next]
+	I guess it's time fow my speciaw[BR]
+	battawion...[Wait][End]
+}
+
+#string:0F:06F
+{
+	[Style Right]
+	[Wave]Ho ho ho ho ho ho!![BR]
+	[/fx][Pause 20]I pity you, siw!![BR]
+	[Pause 10]It's time you paid, Mawio![BR]
+	[Wait][Next]
+	Attaaaaaaaack![Wait][End]
+}
+
+#string:0F:070
+{
+	[Style Right]
+	[Wave][PrintRising]Yes, siw!!!!![BR]
+	[/fx][/fx][Wait][End]
+}
+
+#string:0F:071
+{
+	[Style Right]
+	............[BR]
+	[Wait][Next]
+	[Yield]Gah! Gwwww...![BR]
+	[Pause 10]Fine! I'ww beat you mysewf![BR]
+	[Wait][Next]
+	Nobody embawwasses the bwave[BR]
+	Shy Guys of my awmy! Nobody![Wait][End]
+}
+
+#string:0F:072
+{
+	[Style Right]
+	Gwwww![BR]
+	[Wait][Next]
+	My high-tech tank defenses[BR]
+	don't seem to stand up to that[BR]
+	ewectwic attack![BR]
+	[Wait][Next]
+	Quit doing that![BR]
+	[Pause 10]It's...it's too powewfuw! You'we[BR]
+	bweaking the wuwes of waw![Wait][End]
+}
+
+#string:0F:073
+{
+	[Style Right]
+	Gwwww!!!!![BR]
+	[Wait][Next]
+	Stop it!! That's unfaiw![BR]
+	[Pause 10]You'we going to go and bweak my[BR]
+	extwemewy expensive tank![BR]
+	[Wait][Next]
+	I'm sewious! Quit that attack![BR]
+	[Pause 10]It's...it's too powewfuw! You'we[BR]
+	bweaking the wuwes of waw![Wait][End]
+}
+
+#string:0F:074
+{
+	[Style Right]
+	Gwwwwwwww!!!!!!!![BR]
+	[Wait][Next]
+	That huwt!![BR]
+	[Pause 10]Whewe'd you weawn to fight?[BR]
+	[Wait][Next]
+	You must be cheating![Wait][End]
+}
+
+#string:0F:075
+{
+	[Style Right]
+	Yay! Yippeeee!![BR]
+	[Pause 10]We beat the Shy Guys![BR]
+	[Pause 10]Hm hm hee hee hee!!![BR]
+	[Wait][Next]
+	You wewen't so tough, you siwwy[BR]
+	owd Shy Guys![BR]
+	[Wait][Next]
+	I beat 'em up![BR]
+	[Pause 10]... Didn't I, Mawio?[Wait][End]
+}
+

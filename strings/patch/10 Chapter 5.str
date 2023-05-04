@@ -1,0 +1,3603 @@
+#string:10:000
+{
+	[Style Right]
+	If you want me to take you back[BR]
+	to Toad Town, just ask.[Wait][End]
+}
+
+#string:10:001
+{
+	[Style Right]
+	Yes, weww. [Pause 10]Finawwy made it, eh?[BR]
+	[Pause 10]So this is Wavawava Iswand...[BR]
+	[Pause 10]Smashing![Wait][End]
+}
+
+#string:10:002
+{
+	[Style Right]
+	Gwacious! [Pause 10]Behowd, Mawio![BR]
+	[Pause 10]Thewe! Off in the distance![BR]
+	The top of Mt. Wavawava![BR]
+	[Wait][Next]
+	Twiumphant! [Pause 5]We must huwwy![BR]
+	[Pause 10]Make haste![Wait][End]
+}
+
+#string:10:003
+{
+	[Style Right]
+	Do you want to go back to Toad[BR]
+	Town?[BR]
+	[Yield][End]
+}
+
+#string:10:004
+{
+	[Next]
+	Back to the sea![BR]
+	[Pause 10]Spwooooooosh!![Wait][End]
+}
+
+#string:10:005
+{
+	[Next]
+	If you want me to take you back[BR]
+	to Toad Town, just ask.[Wait][End]
+}
+
+#string:10:006
+{
+	[Style Right]
+	Weww, weww. Mawio, owd boy![BR]
+	[Pause 10]Cewtainwy took youw time, eh?[BR]
+	[Pause 10]Wet's head back togethew, hm?[Wait][End]
+}
+
+#string:10:007
+{
+	[Style Right]
+	What a heady adventuwe![BR]
+	[Pause 10]Adieu, Wavawava Iswand![BR]
+	[Pause 10]Pewchance someday I shaww[BR]
+	wetuwn to youw showes![Wait][End]
+}
+
+#string:10:008
+{
+	[Style Right]
+	[PrintRising][Shake]Wooooooooooooooooooooooh!![Wait][End]
+}
+
+#string:10:009
+{
+	[Style Right]
+	Wheeze wheeze wheeze...[BR]
+	[Wait][Next]
+	Yes! I...cough...did it![BR]
+	[Pause 10]I swam...aww the way![Wait][End]
+}
+
+#string:10:00A
+{
+	[Style Right]
+	Aww wight, Mawio![BR]
+	[Pause 10]Now I'm going to give you a[BR]
+	beating you'ww nevew...[Wait][End]
+}
+
+#string:10:00B
+{
+	[Style Right]
+	What!? Wait![BR]
+	[Pause 10]Whewe awe you going![BR]
+	[Pause 10]Wait! Mawio, wait up!![BR]
+	[Wait][Next]
+	Come back hewe, you chicken![Wait][End]
+}
+
+#string:10:00C
+{
+	[Style Right]
+	[PrintRising][Shake]Shooooooooooooooooooooot!![BR]
+	[Pause 15][End]
+}
+
+#string:10:00D
+{
+	[Style Right]
+	[PrintRising][Shake][Size 32]Yaaaaaaawgh![BR]
+	[SizeReset][Pause 10]Hewp, I say! Heeeeeewp![Wait][End]
+}
+
+#string:10:00E
+{
+	[Style Right]
+	Ow! Mawio![BR]
+	[Pause 10]You'we supposed to attack the[BR]
+	othew guy, owd bean![BR]
+	[Wait][Next]
+	Do you have issues with me?[BR]
+	A bit of jeawousy, pewhaps?[Wait][End]
+}
+
+#string:10:00F
+{
+	[Style Right]
+	Phew... You saved me![BR]
+	[Pause 10]Many thanks, owd chum.[BR]
+	[Wait][Next]
+	Weww, enough of that![BR]
+	[Pause 5]Wet's puww ouwsewves togethew[BR]
+	and pwess on, what say?[Wait][End]
+}
+
+#string:10:010
+{
+	[Style Right]
+	[PrintRising]Yaaah! Get off! Aaaaaah!![Wait][End]
+}
+
+#string:10:011
+{
+	[Style Right]
+	Deaw me! I bawewy got away...[BR]
+	[Pause 10][Wait][Next]
+	[Pause 10]That was wathew wude, Mawio![BR]
+	[Pause 5]Weaving me wike that! Hmph![BR]
+	[Pause 10][Wait][Next]
+	[Pause 10]Weww, we can't aww be hewoes...[BR]
+	[Pause 5]Wet's pwess on, hm?[Wait][End]
+}
+
+#string:10:012
+{
+	[Style Right]
+	I sweaw, aww of these natives awe[BR]
+	so panicky that we can't get[BR]
+	any infowmation![BR]
+	[Wait][Next]
+	I guess someone had bettew sowve[BR]
+	theiw pwobwem so we can quiz[BR]
+	them, eh, owd boy?[Wait][End]
+}
+
+#string:10:013
+{
+	[Style Right]
+	Mawio, owd man,[BR]
+	[Pause 10]the Viwwage Weadew was just[BR]
+	wooking fow you.[BR]
+	[Wait][Next]
+	I'd say he wants to thank you.[BR]
+	[Pause 10]Bettew huwwy, hm?[BR]
+	[Wait][Next]
+	He might just teww you whewe the[BR]
+	tweasuwe is if he's feewing[BR]
+	thankfuw enough![Wait][End]
+}
+
+#string:10:014
+{
+	[Style Right]
+	Weww, weww...finawwy.[BR]
+	[Pause 10]Evewyone's cawmed a bit.[BR]
+	[Wait][Next]
+	Now we can get some good[BR]
+	infowmation about tweasuwe fwom[BR]
+	these wocaws.[BR]
+	[Wait][Next]
+	Weww... Whewe to stawt...[Wait][End]
+}
+
+#string:10:015
+{
+	[Style Right]
+	We simpwy must go seawch fow[BR]
+	that tweasuwe at the vowcano.[Wait][End]
+}
+
+#string:10:016
+{
+	[Style Right]
+	I must get my hands on the[BR]
+	vowcano's tweasuwe![BR]
+	[Wait][Next]
+	My keen intuition senses that[BR]
+	thewe must be a way![BR]
+	[Wait][Next]
+	Hmmm...[BR]
+	[Pause 10]I suppose thewe's a swim chance[BR]
+	it was bwown cweaw in the[BR]
+	ewuption...[BR]
+	[Wait][Next]
+	I'd best check awound the viwwage[BR]
+	fow some cwues.[Wait][End]
+}
+
+#string:10:017
+{
+	[Style Right]
+	Hm?[BR]
+	[Wait][Next]
+	You know, deaw boy, I couwdn't[BR]
+	hewp but notice you howding[BR]
+	something wesembwing tweasuwe.[Wait][End]
+}
+
+#string:10:018
+{
+	[Style Right]
+	Mawio! Good heavens![BR]
+	[Pause 10]It's the tweasuwe![BR]
+	[Pause 20]How on eawth did you...[BR]
+	[Wait][Next]
+	[Pause 10]...weww, I suppose that's of no[BR]
+	consequence wight now. You'we[BR]
+	giving it to me?[Wait][End]
+}
+
+#string:10:019
+{
+	[Style Right]
+	You...you awe giving it to me?![BR]
+	[Pause 10]Oh, gwowy! Mawvewous!![BR]
+	[Wait][Next]
+	Deaw man, you awe quite simpwy[BR]
+	the cat's meow![BR]
+	[Wait][Next]
+	Cheews![Wait][End]
+}
+
+#string:10:01A
+{
+	[Style Right]
+	Yes, hm! I suppose...[BR]
+	[Pause 10]It's onwy pwopew that I give this[BR]
+	to you as thanks.[Wait][End]
+}
+
+#string:10:01B
+{
+	[Style Right]
+	A Bub-uwb gave it to me whiwe[BR]
+	I was off expwowing.[BR]
+	[Wait][Next]
+	I'm suwe it's quite a vawuabwe[BR]
+	seed, but I'm not intewested in[BR]
+	it at aww.[Wait][End]
+}
+
+#string:10:01C
+{
+	[Style Right]
+	Now that I've got the tweasuwe,[BR]
+	I pwocwaim this adventuwe to be[BR]
+	a compwete success![BR]
+	[Wait][Next]
+	What a stupendous expedition![BR]
+	[Pause 10]It wiww be fowevew wecowded in[BR]
+	the histowy of awchaeowogy![BR]
+	[Wait][Next]
+	Weww, owd boy, wet's away![BR]
+	[Pause 10]Back to Toad Town with us![Wait][End]
+}
+
+#string:10:01D
+{
+	[Style Right]
+	You'we Kowowado, cowwect?[BR]
+	[Wait][Next]
+	The name's Pawakawwy. I dewivew[BR]
+	wettews.[BR]
+	[Wait][Next]
+	I bewieve I have one fow you.[BR]
+	[Pause 10]Hang on a moment.[Wait][End]
+}
+
+#string:10:01E
+{
+	[Style Right]
+	Oh...no! Confound it![BR]
+	[Pause 10]I seem to have wost it![BR]
+	[Pause 10]...I'm tewwibwy sowwy.[Wait][End]
+}
+
+#string:10:01F
+{
+	[Style Right]
+	Anothew wettew, duwy dewivewed.[BR]
+	A postman's job is nevew done.[Wait][End]
+}
+
+#string:10:020
+{
+	[Style Right]
+	Oh, good show![BR]
+	[Pause 15]It's a wettew fwom my wife.[BR]
+	[Wait][Next]
+	Thank you evew so, owd chap.[BR]
+	[Pause 15]This is just what I needed to[BR]
+	give me the stwength to go on.[BR]
+	[Wait][Next]
+	[Pause 10]...I know![BR]
+	[Pause 10]I'ww pass this awong as a spot of[BR]
+	thanks.[BR]
+	[Wait][Next]
+	I came acwoss it whiwe I was[BR]
+	wandewing about the jungwe[BR]
+	weseawching things.[Wait][End]
+}
+
+#string:10:021
+{
+	[Style Right]
+	Wewcome to you, Mawio.[BR]
+	[Pause 10]I am the Viwwage Weadew of [BR]
+	Yoshi's Viwwage.[BR]
+	[Wait][Next]
+	[Pause 10]...Ah, you come seeking hewp.[BR]
+	[Pause 10]You wish to go to Mt. Wavawava,[BR]
+	do you?[BR]
+	[Wait][Next]
+	Mmmm...[BR]
+	[Pause 10]The entwance to the vowcano is[BR]
+	in the jungwe, but it's vewy[BR]
+	difficuwt to get to it.[BR]
+	[Wait][Next]
+	The vowcano has awakened, as[BR]
+	weww. I think it may be too[BR]
+	dangewous fow you to go thewe.[Wait][End]
+}
+
+#string:10:022
+{
+	[Style Right]
+	The entwance to the vowcano is[BR]
+	in the jungwe, but it's vewy[BR]
+	difficuwt to get to it.[BR]
+	[Wait][Next]
+	The vowcano has awakened, as[BR]
+	weww. I think it may be too[BR]
+	dangewous fow you to go thewe.[Wait][End]
+}
+
+#string:10:023
+{
+	[Style Right]
+	Mawio, I must thank you.[BR]
+	[Wait][Next]
+	You have saved the chiwdwen of[BR]
+	the viwwage. I feew that no[BR]
+	expwession of ouw gwatitude[BR]
+	couwd be enough.[BR]
+	[Wait][Next]
+	You twuwy awe a hewo.[BR]
+	[Pause 10]We deepwy appweciate youw vawow.[BR]
+	[Wait][Next]
+	At weast I can do this...[BR]
+	[Pause 10]You stiww wish to go to Mt.[BR]
+	Wavawava, don't you?[BR]
+	[Wait][Next]
+	I have wemembewed a good way to[BR]
+	weach the vowcano.[BR]
+	[Wait][Next]
+	Pwease come this way.[Wait][End]
+}
+
+#string:10:024
+{
+	[Style Right]
+	Mawio, I must thank you.[BR]
+	[Wait][Next]
+	You have saved the chiwdwen of[BR]
+	the viwwage. I feew that no[BR]
+	expwession of ouw gwatitude[BR]
+	couwd be enough.[BR]
+	[Wait][Next]
+	You twuwy awe a hewo.[BR]
+	[Pause 10]We deepwy appweciate youw vawow.[BR]
+	[Wait][Next]
+	I have heawd fwom youw[BR]
+	companion, Kowowado, that you[BR]
+	wish to go to Mt. Wavawava.[BR]
+	[Wait][Next]
+	Since you have bwessed ouw[BR]
+	viwwage with youw kindness, I wiww[BR]
+	show you the best way to weach[BR]
+	the vowcano.[BR]
+	[Wait][Next]
+	Pwease come this way.[Wait][End]
+}
+
+#string:10:025
+{
+	[Style Right]
+	Huh[Pause 3].[Pause 3].[Pause 3].? [Pause 3]I thought it was[Pause 3].[Pause 3].[Pause 3].[BR]
+	[Pause 8]somewhewe awound hewe...[Wait][End]
+}
+
+#string:10:026
+{
+	[Style Right]
+	Oh, yes. I found it. Hewe it is.[BR]
+	[Pause 10]Take it, pwease.[Wait][End]
+}
+
+#string:10:027
+{
+	[Style Right]
+	Whenevew events beyond ouw[BR]
+	contwow occuw on this iswand, we[BR]
+	ask the hewp of Waphaew the[BR]
+	Waven, the iswand's mastew.[BR]
+	[Wait][Next]
+	If anyone can hewp you weach the[BR]
+	vowcano, it's definitewy Waphaew[BR]
+	the Waven. He wives in the depths[BR]
+	of this iswand.[BR]
+	[Wait][Next]
+	If you pwace that Jade Waven[BR]
+	into the statue of Waphaew, the[BR]
+	way into the depths of the[BR]
+	jungwe wiww appeaw.[BR]
+	[Wait][Next]
+	I haven't been to see Waphaew[BR]
+	since I was but a young Yoshi.[BR]
+	[Wait][Next]
+	I wemembew that it was[BR]
+	incwedibwy difficuwt to find him[BR]
+	because the jungwe's twees and[BR]
+	shwubs covewed the way.[BR]
+	[Wait][Next]
+	I'm suwe you'ww find the path.[BR]
+	[Pause 15]May aww youw wishes come twue.[Wait][End]
+}
+
+#string:10:028
+{
+	[Style Right]
+	Wait just one minute...[BR]
+	[Pause 10]You must have one heck of a[BR]
+	stowy behind you, Mawio.[BR]
+	[Wait][Next]
+	Why in the wowwd wouwd you want[BR]
+	to go to Mt. Wavawava?[BR]
+	[Wait][Yield][End]
+}
+
+#string:10:029
+{
+	[Style Right]
+	Wait just one minute...[BR]
+	[Wait][Yield][End]
+}
+
+#string:10:02A
+{
+	[Next]
+	Why in the wowwd wouwd you want[BR]
+	to go to Mt. Wavawava?[BR]
+	[Wait][Next]
+	I'm sowwy, but I can't just keep[BR]
+	my mouth shut when I heaw[BR]
+	someone tawking cwazy.[BR]
+	[Wait][Yield][End]
+}
+
+#string:10:02B
+{
+	[Next]
+	It's VEWY hot and VEWY [BR]
+	dangewous in the vowcano![BR]
+	[Wait][Next]
+	If you awen't extwemewy cawefuw[BR]
+	AND wucky, you'ww be woasted to[BR]
+	a gowden bwown.[BR]
+	[Wait][Next]
+	But you don't cawe. You guys awe[BR]
+	going thewe anyway![BR]
+	[Pause 5]I do NOT appwove of this![Wait][End]
+}
+
+#string:10:02C
+{
+	[Style Right]
+	Uh-huh... Oh... Oh![BR]
+	[Wait][Next]
+	You'we going to the vowcano[BR]
+	because you want to save the[BR]
+	pwincess fwom some bad guys?[BR]
+	[Wait][Next]
+	What...a touching stowy![BR]
+	[Pause 10]Womantic stowies wike that...[BR]
+	just touch a soft spot in this[BR]
+	heawt of mine.[BR]
+	[Pause 10][Wait][Next]
+	[Pause 10]That does it! I can't wet you go[BR]
+	awone! I, Sushie, wiww be by youw[BR]
+	side untiw the end![BR]
+	[Wait][Next]
+	You needn't wowwy, Mawio! I wove[BR]
+	taking cawe of othews![BR]
+	[Wait][Next]
+	If you pwan on getting thwough[BR]
+	this jungwe, you need me anyway.[BR]
+	[Wait][Next]
+	Come, Mawio! [Pause 10]That vowcano isn't[BR]
+	getting any coowew! [Wait][End]
+}
+
+#string:10:02D
+{
+	[Style Right]
+	If you put that Jade Waven into[BR]
+	the statue of Waphaew, the way[BR]
+	into the depths of the jungwe[BR]
+	wiww appeaw.[BR]
+	[Wait][Next]
+	Since twees and bushes have[BR]
+	gwown ovew the path, you might[BR]
+	get wost.[BR]
+	[Wait][Next]
+	If you do, just be suwe to scout[BR]
+	the awea cawefuwwy.[BR]
+	[Pause 10]You might have to do something[BR]
+	unexpected to find youw way.[Wait][End]
+}
+
+#string:10:02E
+{
+	[Style Right]
+	So, Waphaew the Waven gwanted[BR]
+	you an audience, did he?[BR]
+	[Pause 10]I'm not suwpwised, Mawio.[BR]
+	[Wait][Next]
+	You saved the chiwdwen... [BR]
+	You awe one of the honowed[BR]
+	membews of this iswand now.[BR]
+	[Wait][Next]
+	The gweat Waphaew pwobabwy[BR]
+	thought so, too.[Wait][End]
+}
+
+#string:10:02F
+{
+	[Style Right]
+	Pwease don't teww Kowowado about[BR]
+	Waphaew the Waven ow the way to[BR]
+	the vowcano.[BR]
+	[Wait][Next]
+	That Koopa's a bit woopy. I[BR]
+	shuddew to think what he'd do.[BR]
+	[Pause 10]I must say I wowwy he'd hawm[BR]
+	himsewf inside the vowcano.[Wait][End]
+}
+
+#string:10:030
+{
+	[Style Right]
+	I see you awe finawwy going to[BR]
+	bwave the vowcano.[BR]
+	[Pause 10]Pwease be cawefuw, Mawio...[BR]
+	[Wait][Next]
+	If you don't watch youw step,[BR]
+	you'ww get buwned.[Wait][End]
+}
+
+#string:10:031
+{
+	[Style Right]
+	The vowcano is dangewous.[BR]
+	[Pause 10]Don't push youwsewf too hawd.[BR]
+	[Wait][Next]
+	If you stawt getting weak, come[BR]
+	wewax at the viwwage.[BR]
+	[Wait][Next]
+	Aftew aww, Wavawava Iswand is[BR]
+	just the spot fow wewaxation.[Wait][End]
+}
+
+#string:10:032
+{
+	[Style Right]
+	Mt. Wavawava just stawted[BR]
+	ewupting, Mawio![BR]
+	[Wait][Next]
+	It's my bewief that the vowcano[BR]
+	got angwy because Bowsew's men[BR]
+	wewe fiddwing about inside.[BR]
+	[Wait][Next]
+	I'm gwad you made it out![Wait][End]
+}
+
+#string:10:033
+{
+	[Style Right]
+	Mt. Wavawava is becoming wess[BR]
+	active evewy day.[BR]
+	[Pause 10]We don't have to wowwy about[BR]
+	wava-pwoofing the viwwage.[Wait][End]
+}
+
+#string:10:034
+{
+	[Style Right]
+	The Viwwage Weadew is my fwiend.[BR]
+	[Pause 10]I mean, hewwo! How awe you?[BR]
+	[Yield][Wait][Next]
+	But anyway, evew since he was[BR]
+	a chiwd, the Viwwage Weadew has[BR]
+	had a vewy stwong sense of[BR]
+	pewsonaw wesponsibiwity.[BR]
+	[Wait][Next]
+	When I heawd he was going to be[BR]
+	the Viwwage Weadew, I wasn't[BR]
+	suwpwised at aww.[Wait][End]
+}
+
+#string:10:035
+{
+	[Style Right]
+	The Viwwage Weadew used to get[BR]
+	into aww sowts of mischief when[BR]
+	he was youngew. He used to give[BR]
+	his pawents fits![BR]
+	[Wait][Next]
+	The jungwe wasn't as dangewous[BR]
+	back then as it is now.[BR]
+	[Wait][Next]
+	He used to cwimb twees, thwow[BR]
+	wocks, tease Wavens...[BR]
+	[Pause 15]You name some mischief, and I[BR]
+	guawantee you he did it.[BR]
+	[Wait][Next]
+	...Heh heh.[BR]
+	[Pause 10]Maybe you'd bettew not teww him[BR]
+	I towd you aww that stuff.[Wait][End]
+}
+
+#string:10:036
+{
+	[Style Right]
+	Aah! No! Oh, no![BR]
+	[Pause 10]The viwwage...thewe's...big twoubwe[BR]
+	at the viwwage![BR]
+	[Wait][Next]
+	Pwease, ask the Viwwage Weadew[BR]
+	about what's happened.[BR]
+	[Pause 10]I don't dawe tawk about it![Wait][End]
+}
+
+#string:10:037
+{
+	[Style Right]
+	Oh, Mawio! Pwease![BR]
+	[Pause 10]Find those poow chiwdwen![BR]
+	[Wait][Next]
+	The Yoshi Kids fwom this viwwage[BR]
+	awe wike gwandchiwdwen to me.[BR]
+	[Pause 10]Oh, those poow babies...[Wait][End]
+}
+
+#string:10:038
+{
+	[Style Right]
+	I don't know how to thank you[BR]
+	fow saving the chiwdwen![BR]
+	[Pause 10]You've done a gweat thing.[BR]
+	[Wait][Next]
+	The Viwwage Weadew said thewe's[BR]
+	something he wants to give you,[BR]
+	you know.[BR]
+	[Wait][Next]
+	He's waiting fow you ovew thewe.[Wait][End]
+}
+
+#string:10:039
+{
+	[Style Right]
+	Hewwo, Mawio.[BR]
+	[Pause 10]We owe you a deep debt fow[BR]
+	saving ouw sweet chiwdwen.[BR]
+	[Wait][Next]
+	Pwease think of this viwwage as if[BR]
+	it wewe youw home.[BR]
+	[Pause 10]We wiww awways wewcome you.[Wait][End]
+}
+
+#string:10:03A
+{
+	[Style Right]
+	You went into Mt. Wavawava?[BR]
+	How bwave you awe, Mawio![BR]
+	[Wait][Next]
+	The Viwwage Weadew and I went up[BR]
+	to the vowcano a wong time ago,[BR]
+	but I nevew thought about going[BR]
+	inside![Wait][End]
+}
+
+#string:10:03B
+{
+	[Style Right]
+	It's weawwy wawe fow Mt.[BR]
+	Wavawava to ewupt.[BR]
+	[Pause 10]It weawwy caught me off guawd.[BR]
+	[Wait][Next]
+	It once ewupted when the Viwwage[BR]
+	Weadew and I wewe kids.[BR]
+	[Wait][Next]
+	I was suwpwised then, too. I[BR]
+	thought that the sky and eawth[BR]
+	wewe twading pwaces.[BR]
+	[Wait][Next]
+	...Hey. Don't teww anyone, but[BR]
+	[Pause 10]the Viwwage Weadew couwdn't even[BR]
+	move because he was pawawyzed[BR]
+	with tewwow. Ha ha![Wait][End]
+}
+
+#string:10:03C
+{
+	[Style Right]
+	Hi, Mawio! What an unexpected[BR]
+	pweasuwe![BR]
+	[Wait][Next]
+	How's youw adventuwe going?[BR]
+	[Pause 10]I hope you'ww have time to wewax[BR]
+	whiwe you'we on the iswand.[Wait][End]
+}
+
+#string:10:03D
+{
+	[Style Right]
+	Hi! Hewwo. Howdy![BR]
+	[Pause 10]This is Yoshi's Viwwage.[BR]
+	[Wait][Next]
+	Mt. Wavawava, you say?[BR]
+	[Wait][Next]
+	Weww, the vowcano is just to the[BR]
+	east of ouw viwwage, but thewe's[BR]
+	no way to weach it.[BR]
+	[Wait][Next]
+	Besides, the Viwwage Weadew said[BR]
+	it's best not to get too cwose[BR]
+	because it wooks wike it might[BR]
+	ewupt any day.[Wait][End]
+}
+
+#string:10:03E
+{
+	[Style Right]
+	Oh, no! Someone hewp![BR]
+	[Pause 10]Emewgency! Eeeemewgency![BR]
+	[Pause 10]The kids awe gone![BR]
+	[Wait][Next]
+	I wooked awong the showe, but[BR]
+	thewe was no twace of them![BR]
+	[Wait][Next]
+	Oh, whewe couwd they be...?[BR]
+	[Pause 10]What if they'we in twoubwe in the[BR]
+	jungwe somewhewe?[Wait][End]
+}
+
+#string:10:03F
+{
+	[Style Right]
+	Oh, no! Someone hewp![BR]
+	[Pause 10]Emewgency! Eeeemewgency![BR]
+	[Pause 10]The kids awe gone![BR]
+	[Wait][Next]
+	I wooked awong the showe, but[BR]
+	thewe was no twace of them![BR]
+	[Wait][Next]
+	Oh, whewe couwd they be...?[BR]
+	[Pause 10]What if they'we in twoubwe in the[BR]
+	jungwe somewhewe?[Wait][End]
+}
+
+#string:10:040
+{
+	[Style Right]
+	Wandewing awound in the jungwe [BR]
+	without any aduwts...[BR]
+	[Wait][Next]
+	I wondew whewe my poow son[BR]
+	couwd be...[BR]
+	[Wait][Next]
+	I'm wowwied sick about him.[BR]
+	Whewe wouwd he hide?[BR]
+	[Wait][Next]
+	Mawio, pwease find my son![Wait][End]
+}
+
+#string:10:041
+{
+	[Style Right]
+	My son is back![BR]
+	[Pause 10]Oh, I'm so wewieved.[BR]
+	[Pause 10]I was weawwy stawting to wowwy.[BR]
+	[Wait][Next]
+	Pwease, Mawio, find the othew[BR]
+	wost chiwdwen, OK?[Wait][End]
+}
+
+#string:10:042
+{
+	[Style Right]
+	Thanks to you, the kids awe aww[BR]
+	back, safe and sound.[BR]
+	[Pause 10]Oh, thank you so much![BR]
+	[Wait][Next]
+	Ouw Viwwage Weadew said he wants[BR]
+	to thank you pewsonawwy.[BR]
+	[Pause 10]Go see him, pwease![Wait][End]
+}
+
+#string:10:043
+{
+	[Style Right]
+	I'm gwad the kids awe back [BR]
+	safewy, but...[BR]
+	[Wait][Next]
+	they'we causing mischief again.[BR]
+	Chiwdwen can be so twoubwesome![Wait][End]
+}
+
+#string:10:044
+{
+	[Style Right]
+	That ewuption was tewwibwe! [BR]
+	It went... KA-WHOOMP!![BR]
+	[Pause 10]I've nevew seen anything wike[BR]
+	that befowe, that's fow suwe![BR]
+	[Wait][Next]
+	I don't think the wava wiww come[BR]
+	neaw the viwwage, [BR]
+	[Pause 10]but it's stiww kind of unnewving.[Wait][End]
+}
+
+#string:10:045
+{
+	[Style Right]
+	Evewy time we aduwts tuwn ouw[BR]
+	backs fow a second, the kids[BR]
+	stawt getting into twoubwe.[BR]
+	[Wait][Next]
+	Do you think I shouwd wish to the[BR]
+	Staws that they become weww-[BR]
+	behaved, modew chiwdwen?[BR]
+	[Wait][Next]
+	Somehow I think that wish is[BR]
+	beyond the powew of the Staw[BR]
+	Spiwits...[Wait][End]
+}
+
+#string:10:046
+{
+	[Style Right]
+	Hey thewe, Mawio.[BR]
+	[Pause 10]Have you met the Wavens yet?[BR]
+	They wive at the top of the[BR]
+	biggest twee in the viwwage.[BR]
+	[Wait][Next]
+	Thewe awe wots of them, but they[BR]
+	nevew come down.[BR]
+	[Pause 10]They speak a diffewent wanguage[BR]
+	fwom ouws, too.[BR]
+	[Wait][Next]
+	Pwetty mystewious, huh?[BR]
+	[Wait][Next]
+	Evewyone says they'we the[BR]
+	discipwes of the mastew of this[BR]
+	iswand, Waphaew the Waven,[BR]
+	but... [Pause 10]Do you weawwy think so?[Wait][End]
+}
+
+#string:10:047
+{
+	[Style Right]
+	Oh, man! What'we we gonna do?[BR]
+	The kids have disappeawed![BR]
+	[Pause 10]Aw, what shouwd we do?[BR]
+	We've gotta do something![BR]
+	[Wait][Next]
+	OK, cawm down... Get ahowd of[BR]
+	youwsewf... We shouwd consuwt[BR]
+	the Viwwage Weadew...[BR]
+	[Wait][Next]
+	...Yes, the Weadew'ww know...[Wait][End]
+}
+
+#string:10:048
+{
+	[Style Right]
+	Oh, man! What'we we gonna do?[BR]
+	The kids have disappeawed![BR]
+	[Pause 10]Aw, what shouwd we do?[BR]
+	We've gotta do something![BR]
+	[Wait][Next]
+	OK, cawm down... Get ahowd of[BR]
+	youwsewf... We shouwd consuwt[BR]
+	the Viwwage Weadew...[BR]
+	[Wait][Next]
+	...Yes, the Weadew'ww know...[Wait][End]
+}
+
+#string:10:049
+{
+	[Style Right]
+	Pwaying hide-and-seek? [BR]
+	[Pause 10]He shouwd know bettew than to[BR]
+	pway that in the jungwe![BR]
+	[Wait][Next]
+	He couwd be stwanded on some[BR]
+	wemote wittwe iswet wight now,[BR]
+	cwying his head off.[BR]
+	[Wait][Next]
+	Oh, how tewwibwe... I'm so[BR]
+	wowwied...[Wait][End]
+}
+
+#string:10:04A
+{
+	[Style Right]
+	Thank you fow finding my son![BR]
+	[Pause 10]Pwease, if you couwd, find the[BR]
+	othew boys as weww.[BR]
+	[Wait][Next]
+	Oh, that wittwe monstew...[BR]
+	[Pause 10]I thought he'd been unusuawwy[BR]
+	quiet wecentwy. Just wook what[BR]
+	he was pwanning![BR]
+	[Wait][Next]
+	I'm going to give him a scowding[BR]
+	he'ww nevew fowget![Wait][End]
+}
+
+#string:10:04B
+{
+	[Style Right]
+	Those boys pwomised they'd[BR]
+	nevew go into the jungwe awone...[BR]
+	[Wait][Next]
+	Wittwe twoubwemakews...[BR]
+	[Pause 10]This couwd have tuwned into a[BR]
+	sewious situation if you hadn't[BR]
+	found them, Mawio.[BR]
+	[Wait][Next]
+	You wouwdn't bewieve the scowding[BR]
+	I gave them. They ought to[BR]
+	behave themsewves fow a whiwe.[BR]
+	[Pause 10]At weast I hope they do.[Wait][End]
+}
+
+#string:10:04C
+{
+	[Style Right]
+	Those boys pwomised they'd[BR]
+	nevew go into the jungwe awone...[BR]
+	[Wait][Next]
+	Wittwe twoubwemakews...[BR]
+	[Pause 10]This couwd have tuwned into a[BR]
+	sewious situation if you hadn't[BR]
+	found them, Mawio.[BR]
+	[Wait][Next]
+	You wouwdn't bewieve the scowding[BR]
+	I gave them. They ought to[BR]
+	behave themsewves fow a whiwe.[BR]
+	[Pause 10]At weast I hope they do.[Wait][End]
+}
+
+#string:10:04D
+{
+	[Style Right]
+	I wemembew thewe was this huge[BR]
+	sound wike KEW-FWAANG!... and[BR]
+	then the eawth shook...[BR]
+	[Wait][Next]
+	I nevew weawwy bewieved that[BR]
+	Mt. Wavawava wouwd ewupt.[BR]
+	[Wait][Next]
+	I guess I shouwd've wistened[BR]
+	when the Viwwage Weadew said it[BR]
+	wooked wike it wouwd ewupt.[BR]
+	I hope it nevew does again![Wait][End]
+}
+
+#string:10:04E
+{
+	[Style Right]
+	Oh, Mawio![BR]
+	[Pause 10]Is something bad happening?[BR]
+	[Wait][Next]
+	I feew wike you onwy show up[BR]
+	whewe thewe's dangew.[BR]
+	[Pause 10]Ha ha...maybe not awways.[BR]
+	[Wait][Next]
+	Good wuck on youw adventuwes.[Wait][End]
+}
+
+#string:10:04F
+{
+	[Style Right]
+	Weww, weww... [Pause 5]Hewwo![BR]
+	[Pause 10]If it isn't Mawio![BR]
+	[Pause 10]Wewcome to Wavawava Iswand![BR]
+	[Wait][Next]
+	This iswand's awmost entiwewy[BR]
+	covewed by a thick jungwe.[BR]
+	[Pause 10]Stiww, how can you beat wiving[BR]
+	in this twopicaw cwimate?[Wait][End]
+}
+
+#string:10:050
+{
+	[Style Right]
+	Oh! We have a huge pwobwem![BR]
+	The chiwdwen have disappeawed![BR]
+	[Wait][Next]
+	Weww! What shouwd I...?[BR]
+	Hmm...oh...what'ww...no...[BR]
+	Viwwage Weadew...shouwd...[BR]
+	[Wait][Next]
+	Auuugh! I can't expwain![Wait][End]
+}
+
+#string:10:051
+{
+	[Style Right]
+	Oh! We have a huge pwobwem![BR]
+	The chiwdwen have disappeawed![BR]
+	[Wait][Next]
+	Weww! What shouwd I...?[BR]
+	Hmm...oh...what'ww...no...[BR]
+	Viwwage Weadew...shouwd...[BR]
+	[Wait][Next]
+	Auuugh! I can't expwain![Wait][End]
+}
+
+#string:10:052
+{
+	[Style Right]
+	Whewe on eawth couwd my son be![BR]
+	[Pause 10]Oh, if we don't find him soon,[BR]
+	he might be in gwave dangew...[BR]
+	[Wait][Next]
+	No... I know my son. Pwobabwy[BR]
+	sweeping in some twee somewhewe.[BR]
+	[Wait][Next]
+	Mawio, pwease find my son next![Wait][End]
+}
+
+#string:10:053
+{
+	[Style Right]
+	Aw, Mawio! Thank you![BR]
+	[Pause 10]I can't teww you how wewieved I[BR]
+	fewt when I saw my son's face.[BR]
+	[Wait][Next]
+	...I shouwdn't say that so woud.[BR]
+	[Pause 10]Thewe awe stiww kids out thewe,[BR]
+	wost in the jungwe.[BR]
+	[Wait][Next]
+	Pwease, you have to find them![BR]
+	[Pause 10]I hope they awen't somewhewe[BR]
+	scawy, awone and afwaid...[Wait][End]
+}
+
+#string:10:054
+{
+	[Style Right]
+	I'm so gwad the kids awe safewy[BR]
+	back fwom that dangewous[BR]
+	jungwe...[BR]
+	[Wait][Next]
+	We owe you, Mawio![BR]
+	[Wait][Next]
+	The kids seemed wike they got[BR]
+	scawed by the expewience, but[BR]
+	[Pause 5]they stiww didn't weawn anything.[BR]
+	[Wait][Next]
+	Sigh...[Wait][End]
+}
+
+#string:10:055
+{
+	[Style Right]
+	The kids wooked shaken up when[BR]
+	they fiwst got back fwom the[BR]
+	jungwe, but they'we OK now.[BR]
+	[Wait][Next]
+	They didn't weawn theiw wesson.[BR]
+	Those wittwe scamps.[BR]
+	[Wait][Next]
+	Stiww... I can't be angwy at them.[BR]
+	I'm so happy they'we safe.[BR]
+	[Pause 10]It's aww thanks to you.[Wait][End]
+}
+
+#string:10:056
+{
+	[Style Right]
+	I was taking a nap and aww of[BR]
+	a sudden I heawd a KAABOOOOM,[BR]
+	and the eawth stawted shaking[BR]
+	wike it was gonna spwit open![BR]
+	[Wait][Next]
+	I nevew bewieved any of the[BR]
+	ewuption wumows,[BR]
+	[Wait][Next]
+	so I thought the entiwe iswand[BR]
+	was moving somewhewe.[BR]
+	[Pause 10]That was no fun at aww.[Wait][End]
+}
+
+#string:10:057
+{
+	[Style Right]
+	Hewwo again![BR]
+	[Pause 10]Just couwdn't stay away fwom[BR]
+	scenic Wavawava Iswand, huh?[BR]
+	[Wait][Next]
+	The kids wiww be weawwy happy.[BR]
+	[Pause 10]Why don't you say hi to them?[Wait][End]
+}
+
+#string:10:058
+{
+	[Style Right]
+	Oh, it's so wawe to have visitows[BR]
+	these days.[BR]
+	[Pause 10]I'd wove to stop and chat, but[BR]
+	I have my fins fuww.[BR]
+	[Wait][Next]
+	I'm watching these boys, who awe[BR]
+	vewy, VEWY naughty, so they[BR]
+	don't do anything dangewous.[BR]
+	[Wait][Next]
+	I can't pwove it yet, but I bet[BR]
+	they'we pwanning something...[BR]
+	[Wait][Next]
+	Weww, if they think they can foow[BR]
+	Sushie, they'd bettew think[BR]
+	again![Wait][End]
+}
+
+#string:10:059
+{
+	[Style Right]
+	I'm watching these boys, who awe[BR]
+	vewy, VEWY naughty, so they[BR]
+	don't do anything dangewous.[BR]
+	[Wait][Next]
+	I can't pwove it yet, but I bet[BR]
+	they'we pwanning something...[BR]
+	[Wait][Next]
+	Weww, if they think they can foow[BR]
+	Sushie, they'd bettew think[BR]
+	again![Wait][End]
+}
+
+#string:10:05A
+{
+	[Style Right]
+	Oh, wewcome![BR]
+	[Pause 10]We don't get visitows to this[BR]
+	iswand vewy often.[BR]
+	[Wait][Next]
+	You shouwd know that the jungwe[BR]
+	beyond hewe is dangewous.[BR]
+	[Pause 10]Ouw kids awe fowbidden to go in.[BR]
+	[Wait][Next]
+	Oh, and by the way, I just saw[BR]
+	a Koopa guy who cawws himsewf[BR]
+	an awchaeowogist wunning in the [BR]
+	opposite diwection...[BR]
+	[Wait][Next]
+	He was saying something about[BR]
+	finding a way to the vowcano.[BR]
+	[Pause 10]Now thewe's a guy who's heading[BR]
+	fow dangew...[Wait][End]
+}
+
+#string:10:05B
+{
+	[Style Right]
+	It's tewwibwe! Just tewwibwe![BR]
+	[Pause 10]The kids awe aww gone![BR]
+	[Wait][Next]
+	We towd them a thousand times[BR]
+	nevew go into the jungwe![BR]
+	[Wait][Next]
+	Sushie went aftew them! She's a[BR]
+	Cheep Cheep who awways takes[BR]
+	cawe of the kids.[BR]
+	[Wait][Next]
+	How couwd this have happened![BR]
+	[Pause 10]Thewe must be a weason![BR]
+	[Wait][Next]
+	Mawio, pwease! Pwease hewp![BR]
+	[Pause 10]Wook fow the kids![Wait][End]
+}
+
+#string:10:05C
+{
+	[Style Right]
+	It's tewwibwe! Just tewwibwe![BR]
+	[Pause 10]The kids awe aww gone![BR]
+	[Wait][Next]
+	We towd them a thousand times[BR]
+	nevew go into the jungwe![BR]
+	[Wait][Next]
+	Sushie went aftew them! She's a[BR]
+	Cheep Cheep who awways takes[BR]
+	cawe of the kids.[BR]
+	[Wait][Next]
+	How couwd this have happened![BR]
+	[Pause 10]Thewe must be a weason![BR]
+	[Wait][Next]
+	Mawio, pwease! Pwease hewp![BR]
+	[Pause 10]Wook fow the kids![Wait][End]
+}
+
+#string:10:05D
+{
+	[Style Right]
+	Ohhhhh...[BR]
+	[Pause 10]Whewe couwd my kid have gone!?[BR]
+	[Wait][Next]
+	I hope he wasn't pwaying on any[BR]
+	spinning fwowews.[BR]
+	[Wait][Next]
+	When you spin on those fwowews,[BR]
+	you'ww fwy up into the aiw. Who[BR]
+	knows whewe you'ww come down![Wait][End]
+}
+
+#string:10:05E
+{
+	[Style Right]
+	Thank you fow finding my son![BR]
+	[Wait][Next]
+	He's a bad boy fow making[BR]
+	evewybody wowwy so. Vewy bad![BR]
+	[Wait][Next]
+	I'm stiww wowwied about the othew[BR]
+	boys, too...[BR]
+	[Wait][Next]
+	Thewe awe so many dangews in[BR]
+	the jungwe...so many cweatuwes[BR]
+	with eviw heawts...[Wait][End]
+}
+
+#string:10:05F
+{
+	[Style Right]
+	Evewyone has finawwy cawmed down[BR]
+	since you found the kids.[BR]
+	[Wait][Next]
+	Thank you, thank you![BR]
+	[Pause 10]Chiwdwen awe tweasuwed by[BR]
+	evewyone in the viwwage.[BR]
+	[Wait][Next]
+	That weminds me... The Viwwage[BR]
+	Weadew wishes to thank you.[BR]
+	[Pause 10]You shouwd go ovew to see him.[Wait][End]
+}
+
+#string:10:060
+{
+	[Style Right]
+	Evewyone has finawwy cawmed down[BR]
+	since you found the kids.[BR]
+	[Wait][Next]
+	Thank you, thank you![BR]
+	[Pause 10]Chiwdwen awe tweasuwed by[BR]
+	evewyone in the viwwage.[Wait][End]
+}
+
+#string:10:061
+{
+	[Style Right]
+	Oh, Mawio, you'we OK![BR]
+	[Pause 10]Aftew that huge ewuption, we[BR]
+	wondewed if you made it out.[BR]
+	[Wait][Next]
+	The Viwwage Weadew cwaims that[BR]
+	Bowsew's men heated up the[BR]
+	vowcano too much so it bwew.[BR]
+	[Wait][Next]
+	I couwd do without such scawy[BR]
+	natuwaw disastews, thank you.[Wait][End]
+}
+
+#string:10:062
+{
+	[Style Right]
+	Hi, Mawio![BR]
+	[Pause 5]Wewcome back![BR]
+	[Wait][Next]
+	How awe things on the mainwand?[BR]
+	[Pause 10]Ouw chiwdwen wove to heaw stowies[BR]
+	fwom afaw...and I guess I kind[BR]
+	of do, too.[Wait][End]
+}
+
+#string:10:063
+{
+	[Style Right]
+	How awe you, Mawio?[BR]
+	[Pause 10]Hey, have you tawked with the [BR]
+	Cheep Cheep ovew thewe yet?[BR]
+	[Wait][Next]
+	She's famous awound hewe fow[BR]
+	being a gweat baby-sittew. Hew[BR]
+	name is Sushie.[BR]
+	[Wait][Next]
+	She watches ovew the kids.[BR]
+	[Pause 5]What wouwd we do without hew?[BR]
+	[Wait][Next]
+	Sometimes the kids compwain[BR]
+	about hew, but kids awe kids.[BR]
+	[Wait][Next]
+	By the way, an awchaeowogist [BR]
+	named Kowowado ow something [BR]
+	went into the jungwe awone.[BR]
+	[Wait][Next]
+	He said he was making fow[BR]
+	Mt. Wavawava, but the path ends[BR]
+	hawfway thewe. I wondew how faw[BR]
+	he got...[Wait][End]
+}
+
+#string:10:064
+{
+	[Style Right]
+	The kids awe gone![BR]
+	[Pause 10]The onwy pwace they couwd have[BR]
+	gone is...guwp!...the jungwe![BR]
+	[Wait][Next]
+	I had a feewing they wewe up to[BR]
+	something watewy,[BR]
+	[Wait][Next]
+	but I thought it was just[BR]
+	mischief! I didn't think they'd[BR]
+	go into such a dangewous awea![BR]
+	[Wait][Next]
+	What do we do?![BR]
+	[Pause 10]How wiww we find them?![Wait][End]
+}
+
+#string:10:065
+{
+	[Style Right]
+	The kids awe gone![BR]
+	[Pause 10]The onwy pwace they couwd have[BR]
+	gone is...guwp!...the jungwe![BR]
+	[Wait][Next]
+	I had a feewing they wewe up to[BR]
+	something watewy,[BR]
+	[Wait][Next]
+	but I thought it was just[BR]
+	mischief! I didn't think they'd[BR]
+	go into such a dangewous awea![BR]
+	[Wait][Next]
+	What do we do!?[BR]
+	[Pause 10]How wiww we find them?![Wait][End]
+}
+
+#string:10:066
+{
+	[Style Right]
+	Whewe? Whewe awe those kids?![BR]
+	[Pause 10]Whewe couwd my son be?![BR]
+	[Wait][Next]
+	How deep into the jungwe couwd[BR]
+	a wittwe kid get?[BR]
+	[Wait][Next]
+	Oh, what if some nasty cweatuwe[BR]
+	attacks him and...[BR]
+	[Pause 20]Oh, I can't even think about it![BR]
+	I'm so wowwied![Wait][End]
+}
+
+#string:10:067
+{
+	[Style Right]
+	Thanks fow saving my son![BR]
+	[Wait][Next]
+	Weawwy! Thanks so much![BR]
+	[Pause 10]I don't want to imagine what [BR]
+	might have happened if he'd [BR]
+	stayed out thewe wongew...[BR]
+	[Wait][Next]
+	Oh, but othew kids AWE stiww out[BR]
+	thewe! The poow deaws.[BR]
+	[Pause 10]Pwease find them, Mawio.[Wait][End]
+}
+
+#string:10:068
+{
+	[Style Right]
+	The kids awe aww back![BR]
+	[Pause 10]I was heawtbwoken thinking of[BR]
+	how scawed and wonewy they must[BR]
+	have been,[BR]
+	[Wait][Next]
+	but as soon as they got back,[BR]
+	they just said they wewe hungwy.[BR]
+	Pfff! Kids! How typicaw.[BR]
+	[Wait][Next]
+	I suppose it's natuwaw fow[BR]
+	chiwdwen to be enewgetic, but[BR]
+	they need to be safe, too.[BR]
+	[Wait][Next]
+	They nevew weawn... Oh, by the[BR]
+	way, ouw Viwwage Weadew wants[BR]
+	to thank you.[BR]
+	[Pause 10]You'd bettew go see him.[Wait][End]
+}
+
+#string:10:069
+{
+	[Style Right]
+	The kids awe aww back![BR]
+	[Pause 10]I was heawtbwoken thinking of[BR]
+	how scawed and wonewy they must[BR]
+	have been,[BR]
+	[Wait][Next]
+	but as soon as they got back,[BR]
+	they just said they wewe hungwy.[BR]
+	Pfff! Kids! How typicaw.[BR]
+	[Wait][Next]
+	I suppose it's natuwaw fow[BR]
+	chiwdwen to be enewgetic, but[BR]
+	they need to be safe, too.[Wait][End]
+}
+
+#string:10:06A
+{
+	[Style Right]
+	The ewuption of Mt. Wavawava[BR]
+	weawwy thwew me fow a woop.[BR]
+	[Pause 10]I think I wost my appetite.[Wait][End]
+}
+
+#string:10:06B
+{
+	[Style Right]
+	Hewwo again, Mawio.[BR]
+	[Pause 10]Gweat to see you![BR]
+	[Wait][Next]
+	Eat anything tasty watewy?[BR]
+	[Pause 10]Evewyone seems jowwy when they[BR]
+	have something good to eat.[Wait][End]
+}
+
+#string:10:06C
+{
+	[Style Right]
+	[PrintRising]Mmm...? [/fx]Sniff sniff...[BR]
+	[Wait][Next]
+	Something smewws...weawwy good...[BR]
+	[Pause 15]Is that dewicious smeww coming[BR]
+	fwom something you'we cawwying?[BR]
+	[Wait][Next]
+	Whatevew it is, I want to twy it![BR]
+	[Pause 5]C'mon, what is it?[Wait][End]
+}
+
+#string:10:06D
+{
+	[Style Right]
+	[PrintRising]Ooh, thank you![HEART][BR]
+	[/fx]It wooks so good...[BR]
+	[Wait][Next]
+	Oh yeah...[BR]
+	[Pause 5]Hewe, why don't you take this[BR]
+	as a thank-you fwom me.[BR]
+	[Wait][Next]
+	It gwows in a pwace that onwy[BR]
+	I know about.[BR]
+	[Pause 10]Twust me--it's good![Wait][End]
+}
+
+#string:10:06E
+{
+	[Style Right]
+	[PrintRising]What? No!?[BR]
+	[/fx]Oh, wame...[BR]
+	[Wait][Next]
+	Wisten to my stomach gwoww! If[BR]
+	you change youw mind, bwing me[BR]
+	something tasty.[BR]
+	[Pause 5]Something I've nevew eaten...[BR]
+	[Wait][Next]
+	My bewwy and I awe waiting![HEART][Wait][End]
+}
+
+#string:10:06F
+{
+	[Style Right]
+	We'we the Feawsome 5 of Yoshi's[BR]
+	Viwwage! Yeah![BR]
+	[Pause 5]We pway hide-and-seek togethew.[BR]
+	[Wait][Next]
+	We can't weave the viwwage,[BR]
+	though, so it's sowta bowing.[BR]
+	[Pause 10]I wanna pway somewhewe biggew[BR]
+	and mowe exciting![BR]
+	[Wait][Next]
+	And I wanna see the jungwe![BR]
+	[Wait][Next]
+	It's dangewous, y'know![BR]
+	[Pause 10]Now that'd be exciting![Wait][End]
+}
+
+#string:10:070
+{
+	[Style Right]
+	Hey, thanks fow finding me![BR]
+	[Pause 10]This jungwe's fuww of dangew.[BR]
+	[Wait][Next]
+	I mean, the viwwage is bowing.[BR]
+	Compawed to the viwwage, the[BR]
+	jungwe's weawwy exciting.[BR]
+	[Wait][Next]
+	It was scawy, yeah, but fun.[BR]
+	[Wait][Next]
+	I guess I have to be a good boy[BR]
+	fow a whiwe now.[BR]
+	[Pause 10]You'd bettew find the othew guys[BR]
+	soon befowe they get wost.[Wait][End]
+}
+
+#string:10:071
+{
+	[Style Right]
+	The Feawsome 5 awe baaaaack![BR]
+	[Pause 10]We got scowded, so we'ww be[BR]
+	good...fow now. Heh heh...[BR]
+	[Wait][Next]
+	But we'ww be back doing exciting[BR]
+	things again soon! Yeah![BR]
+	[Wait][Next]
+	Hey, Mawio, what'we you doing[BR]
+	now, huh? Something fun?[BR]
+	[Pause 10]What? You'we gonna go inside the[BR]
+	vowcano?[BR]
+	[Wait][Next]
+	Oh boy, that sounds awesome![BR]
+	[Pause 10]I wish I couwd go, too.[Wait][End]
+}
+
+#string:10:072
+{
+	[Style Right]
+	[PrintRising]Kwwaaaaaa-yaaaaah![BR]
+	[/fx]Wa[Pause 5]di[Pause 5]caw![BR]
+	[Wait][Next]
+	Ewuptions awe awesome![BR]
+	[Pause 10]I was so scawed and excited[BR]
+	that I couwdn't sit stiww![BR]
+	[Wait][Next]
+	Hey, Mawio! Wewe you inside the[BR]
+	vowcano when it bwew up? Huh?[BR]
+	Wewe you?[BR]
+	[Wait][Next]
+	Wooooowee![BR]
+	[Pause 10]What was it wike? Huh?[BR]
+	[Wait][Next]
+	What? You'we in a huwwy?[BR]
+	[Pause 10]Oh, man. What a bummew.[BR]
+	[Wait][Next]
+	You've gotta pwomise me you'ww[BR]
+	come back hewe someday![Wait][End]
+}
+
+#string:10:073
+{
+	[Style Right]
+	Yes! Mawio is back![BR]
+	[Wait][Next]
+	We've been waiting fow you.[BR]
+	[Pause 10]Teww us youw stowy now![BR]
+	[Wait][Next]
+	What exciting adventuwe awe you[BR]
+	on wight now? Huh?[BR]
+	[Pause 5]Teww us, [Pause 3]teww us, [Pause 3]teww us now![Wait][End]
+}
+
+#string:10:074
+{
+	[Style Right]
+	Oh, [Pause 8]it's Mawio![BR]
+	[Pause 10]Hey, Mawio.[BR]
+	[Pause 20]Awe you wooking fow adventuwe?[BR]
+	[Wait][Next]
+	If you want, we'ww go with you.[BR]
+	[Wait][Next]
+	You won't have to wowwy at aww.[BR]
+	The Feawsome 5's got youw back![BR]
+	[Pause 5]Wet's go to the jungwe![BR]
+	[Wait][Next]
+	We'we not scawed! We just can't[BR]
+	evew go 'cause that meddwesome[BR]
+	ow' Cheep Cheep stops us.[Wait][End]
+}
+
+#string:10:075
+{
+	[Style Right]
+	We just wanted to go somewhewe[BR]
+	exciting whewe thewe wewe no[BR]
+	gwown-ups and whewe we couwd do[BR]
+	whatevew we wanted. See?[BR]
+	[Wait][Next]
+	I mean, so we went into the[BR]
+	jungwe and aww, but[BR]
+	[Pause 10]it was scawy, and thewe wewe[BR]
+	bad guys, and I got tiwed...[BR]
+	[Wait][Next]
+	I'ww be good...fow now.[BR]
+	[Wait][Next]
+	I'm sowwy if peopwe wowwied.[BR]
+	[Pause 10]I'm gwad you found me.[Wait][End]
+}
+
+#string:10:076
+{
+	[Style Right]
+	The Feawsome 5 awe baaaack![BR]
+	[Pause 10]When aww of us awe togethew, we[BR]
+	feaw nothing and nobody![BR]
+	[Wait][Next]
+	Suwe, the jungwe was scawy, but[BR]
+	did we have fun? Oh, yeah![BR]
+	[Wait][Next]
+	I think it's time fow anothew[BR]
+	adventuwe of the Feawsome 5![Wait][End]
+}
+
+#string:10:077
+{
+	[Style Right]
+	[PrintRising][Wave]Hoooooo Waaaaaah!!![BR]
+	[/fx][/fx][Pause 5]Aww [Pause 3]wight! [Pause 4]Gwwwwwwweat!!![BR]
+	[Wait][Next]
+	Did you see that fiwe bwow out[BR]
+	of the mountain?[BR]
+	[Pause 5][PrintRising]Da[Pause 3]zzzzzzzzzzzzzzzzzwing!![BR]
+	[Wait][Next]
+	Something ewse fwew out, too.[BR]
+	[Wait][Next]
+	Wooks wike checking it out is a[BR]
+	job fow the Feawsome 5![BR]
+	[Wait][Next]
+	But... I guess we can't.[BR]
+	[Wait][Next]
+	Untiw I get biggew, I guess I'ww[BR]
+	just wisten to the stowies of[BR]
+	youw adventuwes.[BR]
+	[Wait][Next]
+	So that means you have to come[BR]
+	visit us aww the time and teww us[BR]
+	stowies, Mawio![Wait][End]
+}
+
+#string:10:078
+{
+	[Style Right]
+	Whoopee! Yippee!! Hooway!!![BR]
+	[Pause 5]You came back, Mawio![BR]
+	[Pause 10]You came to hang with the 5![BR]
+	[Wait][Next]
+	Teww us aww about youw[BR]
+	adventuwes ovew the sea![BR]
+	[Wait][Next]
+	If you do, we'ww teww you aww the[BR]
+	twicks we pwayed whiwe you wewe[BR]
+	away. Hee hee...[Wait][End]
+}
+
+#string:10:079
+{
+	[Style Right]
+	A Wed Yoshi Kid...[BR]
+	[Pause 10]Ah, you must be the one.[BR]
+	[Wait][Next]
+	The name's Pawakawwy. I dewivew[BR]
+	wettews.[BR]
+	[Wait][Next]
+	I bewieve I have one fow you.[BR]
+	[Pause 10]Hang on a moment.[Wait][End]
+}
+
+#string:10:07A
+{
+	[Style Right]
+	Oh...no! Confound it![BR]
+	[Pause 10]I seem to have wost it![BR]
+	[Pause 10]...I'm tewwibwy sowwy.[Wait][End]
+}
+
+#string:10:07B
+{
+	[Style Right]
+	Anothew wettew, duwy dewivewed.[BR]
+	A postman's job is nevew done.[Wait][End]
+}
+
+#string:10:07C
+{
+	[Style Right]
+	Thanks. I wondew what it is.[BR]
+	[Pause 20]Oh, my paw made up a new game![BR]
+	[Pause 10]I've gotta pway this watew![BR]
+	[Wait][Next]
+	He awso wants me to come ovew[BR]
+	to his town and pway with him[BR]
+	sometime.[BR]
+	[Pause 10]But how can I get thewe?[BR]
+	[Pause 20][Wait][Next]
+	...Oh weww.[BR]
+	[Pause 10]Maybe someday I'ww be abwe to[BR]
+	cwoss the sea and hang out.[BR]
+	[Wait][Next]
+	It's weawwy funny, 'cause I was[BR]
+	just wwiting him a wettew about[BR]
+	a game I made up![BR]
+	[Wait][Next]
+	Mw. Pawakawwy, wiww you hewp?[BR]
+	[Pause 10]Hewe. Dewivew my wettew to the[BR]
+	Toad Kid who asked you to send[BR]
+	this one to me.[BR]
+	[Wait][Next]
+	Couwd you? Thanks!![Wait][End]
+}
+
+#string:10:07D
+{
+	[Style Right]
+	We'we the Feawsome 5 of Yoshi's[BR]
+	Viwwage. We'we aww best fwiends,[BR]
+	y'know.[BR]
+	[Wait][Next]
+	We'we togethew when we pway and[BR]
+	when we get in twoubwe. We'we[BR]
+	awways togethew![BR]
+	[Wait][Next]
+	Of couwse, now we won't be.[BR]
+	We'we pwaying hide-and-seek,[BR]
+	and I'm "it." I hate being "it."[BR]
+	[Wait][Next]
+	Hmmmph...[Wait][End]
+}
+
+#string:10:07E
+{
+	[Style Right]
+	That jungwe was dangewous, huh?[BR]
+	And scawy, too, wight?[BR]
+	[Wait][Next]
+	Peopwe towd us not to go, but it[BR]
+	made us want to even mowe.[BR]
+	[Wait][Next]
+	Now I won't go anymowe.[BR]
+	[Pause 10]I'm weawwy sowwy fow making[BR]
+	evewyone wowwy so much.[BR]
+	[Wait][Next]
+	And now some of the guys awe[BR]
+	stiww out thewe! Sniffwe...[BR]
+	[Pause 10]I wish they'd...sniff...come back[BR]
+	soon...[BR]
+	[Wait][Next]
+	I just wanna pway hide-and-seek[BR]
+	togethew again![Wait][End]
+}
+
+#string:10:07F
+{
+	[Style Right]
+	The Feawsome 5 awe baaaaaack![BR]
+	[Pause 10]Back fwom the depths of the wiwd[BR]
+	jungwe![BR]
+	[Wait][Next]
+	Thewe was dangew! Intwigue![BR]
+	Yoshi-eating beasts![BR]
+	[Pause 10]I was a wittwe scawed! [BR]
+	[Pause 10]But I wanna go thewe again![BR]
+	[Wait][Next]
+	Tee hee...[BR]
+	[Pause 10]Oh, no. [Pause 10]Just kidding.[BR]
+	[Wait][Next]
+	Hey, Mawio, awe you weawwy going[BR]
+	to the vowcano now?[BR]
+	[Pause 10]It's weawwy hot. And dangewous.[BR]
+	[Wait][Next]
+	Gwown-ups awways teww us not to[BR]
+	go to dangewous pwaces, but[BR]
+	[Pause 10]you'we awwowed to go?[BR]
+	[Wait][Next]
+	That's not faiw![BR]
+	[Pause 10]Kids get no wespect![Wait][End]
+}
+
+#string:10:080
+{
+	[Style Right]
+	Did ya see that ewuption?[BR]
+	[Wait][Next]
+	The othew 4 wewe suwpwised, but[BR]
+	I wasn't. Not too much, anyway.[BR]
+	[Wait][Next]
+	I'm diffewent fwom the othews.[BR]
+	A wittwe bwavew, you know.[BR]
+	[Wait][Next]
+	So, awe you weaving now?[BR]
+	[Pause 10]Uh-huh...[BR]
+	[Pause 10]You couwd dwop by evewy now and[BR]
+	then if you wanted.[BR]
+	[Wait][Next]
+	I mean, I don't cawe, but the[BR]
+	othew 4 might miss you![Wait][End]
+}
+
+#string:10:081
+{
+	[Style Right]
+	Hey! It's Mawio![BR]
+	[Pause 10]Awe you back fow anothew[BR]
+	exciting adventuwe?[BR]
+	[Wait][Next]
+	I didn't miss you, but the othew[BR]
+	4 weawwy did.[BR]
+	[Wait][Next]
+	If you want, you can hang with[BR]
+	me fow a whiwe. You know, just[BR]
+	chiww. I won't even tawk to you ow[BR]
+	anything.[BR]
+	[Wait][Next]
+	Tee hee...[BR]
+	[Pause 10]You couwd even teww me about youw[BR]
+	adventuwes if you want.[Wait][End]
+}
+
+#string:10:082
+{
+	[Style Right]
+	We'we the Feawsome 5![BR]
+	[Pause 10]When we awwive, [Pause 3]it's wive at 5! [BR]
+	We awways stick togethew![BR]
+	[Pause 3]Even when we'we being bad...[BR]
+	[Wait][Next]
+	Speaking of which, today's the[BR]
+	day we put ouw secwet pwan into[BR]
+	action. It's so coow![BR]
+	[Wait][Next]
+	Onwy we 5 know the pwan, and[BR]
+	that's the way it has to be.[BR]
+	[Pause 10]Sowwy, can't teww you...[BR]
+	[Wait][Next]
+	Oh, man, I'm so excited![BR]
+	[Pause 10]I hope I can find a wot of tasty[BR]
+	fwuit in the jungwe...[Wait][End]
+}
+
+#string:10:083
+{
+	[Style Right]
+	Thank you fow coming out to wook[BR]
+	fow us.[BR]
+	[Pause 10]I was stawting to get a wittwe[BR]
+	wowwied out thewe.[BR]
+	[Wait][Next]
+	Hey, but some of the guys stiww[BR]
+	awen't back yet![BR]
+	[Pause 10]You've gotta find them soon![BR]
+	[Wait][Next]
+	It wasn't ouw fauwt! We wewe[BR]
+	pwaying hide-and-seek in the[BR]
+	jungwe and just got wost![BR]
+	[Wait][Next]
+	I mean, thewe wewe tons of coow[BR]
+	things in the jungwe, but a wot[BR]
+	of them wewe scawy![Wait][End]
+}
+
+#string:10:084
+{
+	[Style Right]
+	The Feawsome 5 awe baaaack![BR]
+	[Wait][Next]
+	Boy, thewe was a wot of tasty[BR]
+	food gwowing in the jungwe![BR]
+	[Pause 10]That adventuwe was both[BR]
+	thwiwwing and fiwwing! Ha![BR]
+	[Wait][Next]
+	Evewyone gives me fwack fow[BR]
+	eating aww the time, but what[BR]
+	ewse is thewe to do hewe?[BR]
+	[Wait][Next]
+	If you go on an adventuwe,[BR]
+	you've gotta take snacks.[BR]
+	[Pause 10]Even gwown-ups know that.[Wait][End]
+}
+
+#string:10:085
+{
+	[Style Right]
+	Wow! What a huge expwosion![BR]
+	[Pause 10]It went Kaaaa-BWOOOOIE![BR]
+	[Wait][Next]
+	I sweaw I saw something fwy out[BR]
+	of thewe into the jungwe.[BR]
+	[Wait][Next]
+	Maybe... I wondew if it was[BR]
+	something dewicious.[BR]
+	[Wait][Next]
+	I towd the gwown-ups that they[BR]
+	ought to go check it out, but[BR]
+	they just scowded me.[BR]
+	[Wait][Next]
+	You know, kids have a hawd time.[BR]
+	[Wait][Next]
+	I'm gonna be a gwown-up soon,[BR]
+	and I'm gonna be nice to kids.[BR]
+	And I'm gonna have adventuwes.[BR]
+	[Wait][Next]
+	Come back sometime, Mawio![Wait][End]
+}
+
+#string:10:086
+{
+	[Style Right]
+	Mawio![BR]
+	[Pause 10]How's youw adventuwe?[BR]
+	[Pause 10]Eat any good stuff so faw?[BR]
+	[Wait][Next]
+	I wanna heaw youw stowies.[BR]
+	[Pause 10]Hey, hey! Come on! I wanna heaw[BR]
+	some stowies![Wait][End]
+}
+
+#string:10:087
+{
+	[Style Right]
+	Oh, it's Mawio![BR]
+	[Pause 10]You'we on an adventuwe ow[BR]
+	something, wight?[BR]
+	[Wait][Next]
+	Wow, coow! [BR]
+	[Wait][Next]
+	Who's that with you? Is that[BR]
+	youw pawtnew?[BR]
+	[Wait][Next]
+	Man, I wish I couwd be...[BR]
+	[Pause 10]That'd be a dweam come twue.[BR]
+	[Wait][Next]
+	The gwown-ups won't wet us out[BR]
+	of the viwwage because they say[BR]
+	it's too dangewous.[BR]
+	[Wait][Next]
+	That meddwing owd Cheep Cheep is[BR]
+	awways watching us, and she[BR]
+	won't wet us entew the jungwe.[BR]
+	[Wait][Next]
+	Heh heh. We'ww see about that. [BR]
+	Us guys? The Feawsome 5? We[BR]
+	awen't afwaid of anything.[Wait][End]
+}
+
+#string:10:088
+{
+	[Style Right]
+	I got scowded weawwy bad...[BR]
+	[Pause 10]Evewyone was weawwy wowwied[BR]
+	about me.[BR]
+	[Wait][Next]
+	I came back aww wight, so what's[BR]
+	the big deaw?[BR]
+	[Wait][Next]
+	I had to pwomise I wouwdn't do[BR]
+	anything dangewous again.[BR]
+	[Pause 10]Hmph. Hey, but thanks fow coming[BR]
+	and finding me.[Wait][End]
+}
+
+#string:10:089
+{
+	[Style Right]
+	The Feawsome 5 awe baaaaack![BR]
+	[Wait][Next]
+	Thewe's nothing to be afwaid of[BR]
+	when aww of us awe togethew.[BR]
+	[Pause 10]We awen't scawed of the jungwe.[BR]
+	[Wait][Next]
+	We awen't scawed of anything![BR]
+	5 fwiends 4-evew![BR]
+	[Pause 10]Even aftew we'we gwown-ups,[BR]
+	we'ww stiww be fwiends![Wait][End]
+}
+
+#string:10:08A
+{
+	[Style Right]
+	Mawio! Mawio![BR]
+	Oh, it was totawwy coow! [BR]
+	[Pause 5]What a cwazy ewuption![BR]
+	[Pause 5]Dy[Pause 3]na[Pause 3]mite!![BR]
+	[Wait][Next]
+	Does it get any coowew than the[BR]
+	vowcano on Wavawava Iswand?[BR]
+	I don't think so![BR]
+	[Wait][Next]
+	What IS beyond this iswand?[BR]
+	[Pause 10]Anything coow? I wanna go see![BR]
+	[Wait][Next]
+	Mawio! C'mon![BR]
+	[Pause 10]Come back to the iswand and teww[BR]
+	us about youw twavews![Wait][End]
+}
+
+#string:10:08B
+{
+	[Style Right]
+	Yippee! Hooway! Wewcome back![BR]
+	[Pause 10]What adventuwes have you been[BR]
+	on so faw?![BR]
+	[Wait][Next]
+	Teww us, teww us!![Wait][End]
+}
+
+#string:10:08C
+{
+	[Style Right]
+	Caw.[Wait][End]
+}
+
+#string:10:08D
+{
+	[Style Right]
+	Caaaw![Wait][End]
+}
+
+#string:10:08E
+{
+	[Style Right]
+	Caw?[BR]
+	[Wait][Next]
+	Awe you the Mawio that Mastew[BR]
+	Waphaew the Waven was tewwing us[BR]
+	about?[Wait][End]
+}
+
+#string:10:08F
+{
+	[Style Right]
+	Caw?[Wait][End]
+}
+
+#string:10:090
+{
+	[Style Right]
+	Owacwe of the Staws...[BR]
+	[Pause 10]Mawio comes to this iswand...[BR]
+	[Wait][Next]
+	Mawio is fated to meet Mastew [BR]
+	Waphaew the Waven...[BR]
+	[Pause 10]Caaaaw...[Wait][End]
+}
+
+#string:10:091
+{
+	[Style Right]
+	Caw. Cawcaaaw![Wait][End]
+}
+
+#string:10:092
+{
+	[Style Right]
+	Cawcawcaaaw?[Wait][End]
+}
+
+#string:10:093
+{
+	[Style Right]
+	Cawcawcaw.[Wait][End]
+}
+
+#string:10:094
+{
+	[Style Right]
+	The Toad House's swogan is...[BR]
+	"Wefwesh Youw Body and Souw!"[BR]
+	[Wait][Next]
+	Wouwd you wike to take a nap?[BR]
+	[Yield][End]
+}
+
+#string:10:095
+{
+	[Style Right]
+	...Weawwy?[BR]
+	[Pause 10]Mawio, you wook just fine.[BR]
+	[Pause 10]Do you stiww want to take a nap?[BR]
+	[Yield][End]
+}
+
+#string:10:096
+{
+	[Next]
+	Pwease come again, OK?[Wait][End]
+}
+
+#string:10:097
+{
+	[Next]
+	Have a pweasant west.[Wait][End]
+}
+
+#string:10:098
+{
+	[Style Right]
+	Did you get some west?[BR]
+	[Wait][Next]
+	Good wuck on youw adventuwe![Wait][End]
+}
+
+#string:10:099
+{
+	[Style Right]
+	Oh, such iww fowtune![BR]
+	[Pause 10]The chiwdwen awe missing![BR]
+	[Wait][Next]
+	They seem to have secwetwy[BR]
+	swipped off to the jungwe.[BR]
+	[Wait][Next]
+	They don't know its dangews![BR]
+	[Pause 10]We must get them back hewe to[BR]
+	safety![BR]
+	[Pause 10][Wait][Next]
+	Mawio,[BR]
+	[Pause 10]couwd I ask you to wook fow these[BR]
+	wost chiwdwen?[BR]
+	[Wait][Next]
+	As you can see, the Yoshis of[BR]
+	my viwwage awe panicking. They[BR]
+	awen't thinking stwaight.[BR]
+	[Wait][Next]
+	I'ww twy to cawm them down.[BR]
+	[Pause 5]You just find those kids![Wait][End]
+}
+
+#string:10:09A
+{
+	[Style Right]
+	Mawio, I can't teww you how[BR]
+	dangewous the jungwe is.[BR]
+	[Wait][Next]
+	It's even dangewous fow us aduwt[BR]
+	Yoshis if we awen't extwemewy[BR]
+	cawefuw.[BR]
+	[Wait][Next]
+	To imagine the boys in such a[BR]
+	pwace... Bwww...[BR]
+	[Pause 10]...Pwease, you must find them.[Wait][End]
+}
+
+#string:10:09B
+{
+	[Style Right]
+	You've found them![BR]
+	[Wait][Next]
+	[PrintRising]Oh, happiness! Oh, joy![BR]
+	[/fx][Wait][Next]
+	But...thewe awe stiww boys stuck[BR]
+	out thewe in the jungwe.[BR]
+	Pwease find them![BR]
+	[Wait][Next]
+	Five chiwdwen in aww disappeawed[BR]
+	into the jungwe.[BR]
+	[Pause 10]Save aww of them, pwease![Wait][End]
+}
+
+#string:10:09C
+{
+	[Style Right]
+	Thwee of the boys awe back![BR]
+	[Pause 10]T[Pause 3]ewwwwific!![BR]
+	[Wait][Next]
+	I'm so gwad they'we safe.[BR]
+	[Wait][Next]
+	But two awe stiww missing. [BR]
+	Pwease find them![BR]
+	[Wait][Next]
+	Evewyone is stawting to cawm[BR]
+	down now that you'we hewping.[Wait][End]
+}
+
+#string:10:09D
+{
+	[Style Right]
+	Mawio! Just one mowe wemains![BR]
+	[Pause 10]Pwease find him wight away![BR]
+	[Wait][Next]
+	You seem to be an expewt at[BR]
+	finding wost chiwdwen, Mawio![BR]
+	[Pause 10]We'we counting on you![Wait][End]
+}
+
+#string:10:09E
+{
+	[Style Right]
+	[PrintRising][Shake]Get back hewe this instant!![BR]
+	You wittwe ingwates![Wait][End]
+}
+
+#string:10:09F
+{
+	[Style Right]
+	Hey, you! Down thewe![BR]
+	[Pause 10]Wook up hewe if you heaw me![Wait][End]
+}
+
+#string:10:0A0
+{
+	[Style Right]
+	This is so embawwassing... I'm[BR]
+	stuck in this twee.[BR]
+	[Pause 10]Can you hewp me out somehow?[Wait][End]
+}
+
+#string:10:0A1
+{
+	[Style Right]
+	Come on, now! Twy hawdew!![Wait][End]
+}
+
+#string:10:0A2
+{
+	[Style Right]
+	Weww! I nevew![BR]
+	[Pause 10]You'we going to tuwn youw back[BR]
+	on someone in need?![BR]
+	[Pause 10]You hawd-heawted man![Wait][End]
+}
+
+#string:10:0A3
+{
+	[Style Right]
+	Hey, wait![BR]
+	[Pause 10]You awmost had it! You just have[BR]
+	to hit the twee a bit mowe.[BR]
+	[Pause 10]Don't quit now![Wait][End]
+}
+
+#string:10:0A4
+{
+	[Style Right]
+	Oh, phew...I'm saved.[BR]
+	[Pause 10]I feew wike one big ache.[BR]
+	[Wait][Next]
+	Thanks fow getting me out of[BR]
+	that twee. I think I'ww be OK now.[BR]
+	[Wait][Next]
+	Oh! Oh...those wittwe...[BR]
+	[Pause 10]I was chasing those naughty[BR]
+	wittwe Yoshi boys, and I feww into[BR]
+	theiw twap.[BR]
+	[Wait][Next]
+	Don't they know how dangewous it[BR]
+	is to go into the jungwe?[BR]
+	[Pause 10]I have to find them befowe they[BR]
+	get in too deep! [BR]
+	[Wait][Next]
+	As fow you, you'd bettew get[BR]
+	back to the viwwage, too. It's[BR]
+	dangewous out hewe.[BR]
+	[Wait][Next]
+	Why on eawth did you come into[BR]
+	the jungwe, anyway?[Wait][End]
+}
+
+#string:10:0A5
+{
+	[Style Right]
+	Weww! So![BR]
+	[Pause 10]You'we wooking fow those wittwe[BR]
+	wascaws, as weww.[BR]
+	[Wait][Next]
+	Then, [Pause 10]I don't see why we don't[BR]
+	just wook fow them togethew.[BR]
+	[Wait][Next]
+	They weawwy don't undewstand the[BR]
+	dangews of the jungwe, so we[BR]
+	have to find them soon...[Wait][End]
+}
+
+#string:10:0A6
+{
+	[Style Right]
+	Oh, my! How impowite![BR]
+	[Pause 10]I haven't even asked youw name.[BR]
+	[Pause 10]What is it, pway teww?[Wait][End]
+}
+
+#string:10:0A7
+{
+	[Style Right]
+	Mawio, huh?[BR]
+	[Wait][Next]
+	Hmmm. Weww, I've nevew heawd of[BR]
+	you befowe.[BR]
+	[Pause 10]You must be fwom faw away ow[BR]
+	something.[BR]
+	[Wait][Next]
+	Enjoy wovewy Wavawava Iswand![BR]
+	...That's what I'd usuawwy say, [BR]
+	to a visitow, anyway, [BR]
+	[Wait][Next]
+	but fiwst, couwd you hewp me find[BR]
+	these boys?[Wait][End]
+}
+
+#string:10:0A8
+{
+	[Style Right]
+	Yo, what's up?[BR]
+	[Pause 10]Thanks fow waking me up.[BR]
+	[Wait][Next]
+	This iswand's so nice, isn't it?[BR]
+	[Pause 10]It's the pewfect pwace fow[BR]
+	napping. Pewfect tempewatuwe.[BR]
+	[Wait][Next]
+	I'm a Bub-uwb.[BR]
+	[Pause 10]My job is to fiww this wowwd with[BR]
+	fwowews. Nice, huh?[BR]
+	[Wait][Next]
+	I want you to take this seed.[BR]
+	[Wait][Next]
+	...Ow wathew, that's what I want[BR]
+	to say to you.[BR]
+	[Pause 10]Unfowtunatewy, the seed isn't [BR]
+	quite weady yet.[BR]
+	[Wait][Next]
+	Don't wowwy, though. It'ww be[BR]
+	weady anytime now.[BR]
+	[Pause 10]Waiting in such a wawm, comfy[BR]
+	pwace can't be aww bad, wight?[BR]
+	[Wait][Next]
+	Come gwab the seed watew.[BR]
+	[Pause 10]I'm pwetty genewous, so I'ww be[BR]
+	hewe giving stuff to peopwe.[Wait][End]
+}
+
+#string:10:0A9
+{
+	[Style Right]
+	Did you come fow the seed?[BR]
+	[Pause 10]Sowwy, but it's not weady yet.[BR]
+	[Wait][Next]
+	Don't be in such a huwwy.[BR]
+	[Pause 10]Time fwies when you chase it.[BR]
+	[Wait][Next]
+	Come back aftew a whiwe. And twy[BR]
+	to wewax, OK?[Wait][End]
+}
+
+#string:10:0AA
+{
+	[Style Right]
+	Oh, hewwo. How awe you doing?[BR]
+	[Pause 10]What? [Pause 5]You want that seed?[BR]
+	[Wait][Next]
+	Aw, I compwetewy fowgot you![BR]
+	[Pause 10]I just gave it to a guy named[BR]
+	Kowowado ow something.[BR]
+	[Wait][Next]
+	Sowwy about that.[BR]
+	[Pause 10]I'm so genewous that I just have[BR]
+	to give something to evewyone.[Wait][End]
+}
+
+#string:10:0AB
+{
+	[Style Right]
+	Hey, thewe's my seed![BR]
+	[Pause 10]So you wewe abwe to twack it[BR]
+	down aftew aww?[BR]
+	[Pause 10]Oh, that's coow.[BR]
+	[Wait][Next]
+	When I thought about it watew, I[BR]
+	had a feewing it wouwd've been[BR]
+	bettew to give that seed to you.[Wait][End]
+}
+
+#string:10:0AC
+{
+	[Style Right]
+	Yo, what's up?[BR]
+	[Pause 10]I can't get ovew how pewfect the[BR]
+	tempewatuwe is awound hewe.[BR]
+	[Wait][Next]
+	We have to thank the sun that [BR]
+	it's so wawm. Thanks, bud![BR]
+	[Pause 10]So wuxuwious...[Wait][End]
+}
+
+#string:10:0AD
+{
+	[Style Right]
+	Waaaah! It's dawk! I'm scawed![Wait][End]
+}
+
+#string:10:0AE
+{
+	[Style Right]
+	Thewe was this fwowew that spun[BR]
+	awound and I thought it was way[BR]
+	coow so I got on it.[BR]
+	[Wait][Next]
+	And then I spun awound and[BR]
+	awound and then I was up in the[BR]
+	aiw and fwying and then I ended[BR]
+	up hewe![BR]
+	[Wait][Next]
+	I didn't know how I got hewe.[BR]
+	It was so dawk...and scawy...[BR]
+	and I couwdn't find a way out.[BR]
+	[Wait][Next]
+	Thanks fow coming to get me out[BR]
+	of hewe![BR]
+	[Yield][Wait][Next]
+	I can see how to get out now, so[BR]
+	I'm going stwaight home![Wait][End]
+}
+
+#string:10:0AF
+{
+	[Style Right]
+	[Wave]Buh-buh-boooo huh-hoooo![Wait][End]
+}
+
+#string:10:0B0
+{
+	[Style Right]
+	Aiigh! That was so scawy![BR]
+	[Wait][Next]
+	We wewe pwaying hide-and-seek[BR]
+	and thewe was this weiwd pwant[BR]
+	and it twapped me hewe![BR]
+	[Yield][Wait][Next]
+	Sushie, you wewe wight! This[BR]
+	jungwe's weawwy dangewous![BR]
+	[Pause 10]I'm sowwy I disobeyed you.[BR]
+	[Wait][Next]
+	Thanks fow coming to get me.[BR]
+	[Pause 10]I'm going home now.[Wait][End]
+}
+
+#string:10:0B1
+{
+	[Style Right]
+	Aiigh! That was so scawy![BR]
+	[Wait][Next]
+	We wewe pwaying hide-and-seek[BR]
+	and thewe was this weiwd pwant[BR]
+	and it twapped me hewe![BR]
+	[Yield][Wait][Next]
+	Sushie was wight... We shouwd've[BR]
+	just stayed inside the viwwage to[BR]
+	pway hide-and-seek.[BR]
+	[Pause 10]We shouwd've obeyed hew.[BR]
+	[Wait][Next]
+	Thanks fow coming to get me.[BR]
+	[Pause 10]I'm going home now.[Wait][End]
+}
+
+#string:10:0B2
+{
+	[Style Right]
+	Wuh-huh-waaaaaaa![BR]
+	[Pause 5]Sniff sniff...[BR]
+	[Wait][Next]
+	We wewe pwaying hide-and-seek.[BR]
+	[Pause 10]I had to be "it," but I couwdn't[BR]
+	find anyone at aww.[BR]
+	[Wait][Next]
+	I was wandewing awound, and[BR]
+	then I got wost.[BR]
+	[Pause 10]You wewe wight, Sushie. The[BR]
+	jungwe's weawwy scawy.[BR]
+	[Yield][Wait][Next]
+	Thanks fow coming aww the way[BR]
+	out hewe to wook fow me.[BR]
+	[Pause 10]I'ww be a good boy fwom now on[BR]
+	and wisten to you...[BR]
+	[Wait][Next]
+	Mawio, wiww you be "it" fow[BR]
+	hide-and-seek instead of me?[BR]
+	[Pause 10]I'm going home now![Wait][End]
+}
+
+#string:10:0B3
+{
+	[Style Right]
+	Wuh-huh-waaaaaaa![BR]
+	[Pause 5]Sniff sniff...[BR]
+	[Wait][Next]
+	We wewe pwaying hide-and-seek.[BR]
+	[Pause 10]I had to be "it," but I couwdn't[BR]
+	find anyone at aww.[BR]
+	[Wait][Next]
+	I was wandewing awound, and [BR]
+	then I got wost.[BR]
+	[Pause 10]This jungwe is way too scawy fow[BR]
+	kids wike us, I think.[BR]
+	[Wait][Next]
+	Maybe we shouwd have wistened to[BR]
+	Sushie's advice...[BR]
+	[Wait][Yield][Next]
+	Mawio, wiww you be "it" fow[BR]
+	hide-and-seek instead of me?[BR]
+	[Pause 10]I'm going home now.[Wait][End]
+}
+
+#string:10:0B4
+{
+	[Style Right]
+	[PrintRising][Shake]Yeeeeeeeek![BR]
+	[Pause 10]Somebody, hewp me!![Wait][End]
+}
+
+#string:10:0B5
+{
+	[Style Right]
+	[Shake]I'm so scawed...[BR]
+	[Pause 5]I wanna go home![Wait][End]
+}
+
+#string:10:0B6
+{
+	[Style Right]
+	Whuh-waaa! Awe they aww gone?[BR]
+	[Wait][Next]
+	I'm sowwy fow disobeying you and[BR]
+	going into the jungwe...[BR]
+	[Wait][Next]
+	I'ww be a good boy now.[BR]
+	[Pause 5]When you say stuff, Sushie, I'ww[BR]
+	wisten. I sweaw.[BR]
+	[Yield][Wait][Next]
+	Thanks fow saving me.[BR]
+	[Pause 10]I'm going stwaight home now![Wait][End]
+}
+
+#string:10:0B7
+{
+	[Style Right]
+	Whuh-waaa! Awe they aww gone?[BR]
+	[Pause 10]I thought those things wewe[BR]
+	going to eat me wight up![BR]
+	[Yield][Wait][Next]
+	Thanks fow saving me, Mawio![BR]
+	[Pause 10]I'ww do what you gwown-ups teww[BR]
+	me to do fwom now on.[BR]
+	[Wait][Next]
+	I don't even wanna do bad things[BR]
+	anymowe.[BR]
+	[Pause 5]I just wanna be a good boy.[BR]
+	[Wait][Next]
+	I'm going home now. Bye![Wait][End]
+}
+
+#string:10:0B8
+{
+	[Style Right]
+	[Wave]Zzzzzzz............[Wait][End]
+}
+
+#string:10:0B9
+{
+	[Style Right]
+	Ugh... [Pause 10]Mowning.[BR]
+	[Pause 15][Yield][Wait][Next]
+	Hey, it's Mawio. [Pause 5]What's the[BR]
+	mattew with you?[BR]
+	[Pause 5]You wewe wooking fow me?[BR]
+	[Pause 10]Oh? Sushie, too?[BR]
+	[Wait][Next]
+	We wewe pwaying hide-and-seek,[BR]
+	and I got weaw sweepy.[BR]
+	[Pause 5]I figuwed I'd take a nap hewe.[BR]
+	[Wait][Next]
+	Thewe's nothing to wowwy about.[BR]
+	[Pause 10]The jungwe's not so bad.[BR]
+	[Wait][Next]
+	I am stawting to get a wittwe[BR]
+	bit wonewy, though, so maybe[BR]
+	I ought to head back home.[BR]
+	[Pause 10]Bye now![Wait][End]
+}
+
+#string:10:0BA
+{
+	[Style Right]
+	Ugh... [Pause 10]Mowning.[BR]
+	[Pause 15][Yield][Wait][Next]
+	Hey, it's Mawio. [Pause 5]What's the [BR]
+	mattew with you?[BR]
+	[Pause 5]You wewe wooking fow me?[BR]
+	[Wait][Next]
+	We wewe pwaying hide-and-seek,[BR]
+	and I got weaw sweepy.[BR]
+	[Pause 5]I figuwed I'd take a nap hewe.[BR]
+	[Wait][Next]
+	Thewe's nothing to wowwy about.[BR]
+	[Pause 10]The jungwe's not so bad.[BR]
+	[Wait][Next]
+	I am stawting to get a wittwe[BR]
+	bit wonewy, though, so maybe[BR]
+	I ought to head back home.[BR]
+	[Pause 10]Bye now![Wait][End]
+}
+
+#string:10:0BB
+{
+	[Style Right]
+	[Down 8][Shake][Size 32]Gwwaahahahoho![BR]
+	[SizeReset][Wait][End]
+}
+
+#string:10:0BC
+{
+	[Style Right]
+	[Down 8][Size 32][PrintRising][Shake]Yaaaaaaawgh!![BR]
+	[SizeReset][Up 2][BR]
+	[Wait][Scroll 4]Yeeeeek![BR]
+	[Pause 10]H---E---W---P... HEWP!![Wait][End]
+}
+
+#string:10:0BD
+{
+	[Style Right]
+	Ow! Get ahowd of youwsewf![BR]
+	[Pause 10]What do you say you attack the[BR]
+	enemies instead of me, hm?[Wait][End]
+}
+
+#string:10:0BE
+{
+	[Style Right]
+	Oh, this time you came thwough.[BR]
+	[Wait][Next]
+	Awfuwwy good of you, owd chap![BR]
+	[Wait][Next]
+	Now, [Pause 10]I feew that ouw destination,[BR]
+	the vowcano, is quite neaw.[BR]
+	[Pause 10]Wet's pwess on whiwe ouw spiwits[BR]
+	awe high, eh?[Wait][End]
+}
+
+#string:10:0BF
+{
+	[Style Right]
+	Phew... [Pause 10]You saved me once mowe.[BR]
+	[Wait][Next]
+	You'we top notch, Mawio![BR]
+	[Wait][Next]
+	Now, [Pause 10]I feew that ouw destination,[BR]
+	the vowcano, is quite neaw.[BR]
+	[Pause 10]Wet's pwess on whiwe ouw spiwits[BR]
+	awe high, eh?[Wait][End]
+}
+
+#string:10:0C0
+{
+	[Style Right]
+	[PrintRising]Yow! Off me, you bwute! Aawgh![Wait][End]
+}
+
+#string:10:0C1
+{
+	[Style Right]
+	That was fwightfuw...[BR]
+	[Pause 10][Wait][Next]
+	[Pause 10]Have you no mannews, Mawio?![BR]
+	[Pause 5]Going on without me!! You boow![BR]
+	[Wait][Next]
+	[Pause 10]...Weww, not evewyone is nobwe.[BR]
+	[Pause 10]It wouwd seem that ouw goaw, the[BR]
+	vowcano, is quite neaw.[BR]
+	[Wait][Next]
+	Wet's pwess on, hm?[Wait][End]
+}
+
+#string:10:0C2
+{
+	[Style Right]
+	Ah! Mawio...[BR]
+	[Wait][Next]
+	Have a wook at this![Wait][End]
+}
+
+#string:10:0C3
+{
+	[Style Right]
+	Wooks wike the entwance to the[BR]
+	vowcano, eh, owd boy?[BR]
+	[Wait][Next]
+	Somewhewe in that vowcano awe[BR]
+	the tweasuwes I'm wooking fow![BR]
+	I know it! The secwets of an[BR]
+	ancient civiwization![BR]
+	[Wait][Next]
+	[Pause 10]And yet...[BR]
+	[Pause 10]I can't find a way in...[BR]
+	[Pause 10]Bit of a sticky wicket, hm?[Wait][End]
+}
+
+#string:10:0C4
+{
+	[Style Right]
+	But I shaww not give up![BR]
+	[Pause 10]A good expwowew nevew stops[BR]
+	gathewing infowmation.[BR]
+	[Wait][Next]
+	Wet's go back to the viwwage to[BR]
+	wook fow cwues.[BR]
+	[Wait][Next]
+	Thewe must be a way in thewe.[BR]
+	Thewe simpwy must![BR]
+	[Pause 5]Come now![Wait][End]
+}
+
+#string:10:0C5
+{
+	[Style Right]
+	[Down 8][Size 32][PrintRising][Shake]Ugh... [Pause 5]Geaawgh!![BR]
+	[SizeReset][Up 2][BR]
+	[Wait][Scroll 4]S--T--O--P! STOP IT!![Wait][End]
+}
+
+#string:10:0C6
+{
+	[Style Right]
+	...Oh ho ho ho![BR]
+	[Pause 10]Did you think I was beset by[BR]
+	enemies again, owd boy? [BR]
+	[Pause 10]Just a bit of a joke![BR]
+	[Wait][Next]
+	Expwowews must have a sense of[BR]
+	humow, don't you know.[BR]
+	[Wait][Next]
+	At any wate...[BR]
+	[Pause 10]Wet's move on, hm?[Wait][End]
+}
+
+#string:10:0C7
+{
+	[Style Right]
+	Aye aye, aww wight.[BR]
+	[Pause 10]Is evewyone weady?[Wait][End]
+}
+
+#string:10:0C8
+{
+	[Style Right]
+	Now, Wavens![BR]
+	[Pause 10]Get to wowk!![Wait][End]
+}
+
+#string:10:0C9
+{
+	[Style Right]
+	Caw caaaw.[Wait][End]
+}
+
+#string:10:0CA
+{
+	[Style Right]
+	This won't take wong.[Wait][End]
+}
+
+#string:10:0CB
+{
+	[Style Right]
+	Hmm!?[BR]
+	[Pause 10]What in bwazes...?[Wait][End]
+}
+
+#string:10:0CC
+{
+	[Style Right]
+	Caw caw caaaw![Wait][End]
+}
+
+#string:10:0CD
+{
+	[Style Right]
+	Finished![BR]
+	[Pause 5]Caw![Wait][End]
+}
+
+#string:10:0CE
+{
+	[Style Right]
+	Wogew that![BR]
+	[Pause 10]You can weach the vowcano now.[Wait][End]
+}
+
+#string:10:0CF
+{
+	[Style Right]
+	Ooh! Top notch, weawwy!![BR]
+	[Pause 10]It wouwd appeaw we can entew[BR]
+	the vowcano, deaw boy![BR]
+	[Wait][Next]
+	What wuck, eh, Mawio?[BR]
+	[Pause 5]I shan't deway anothew moment![BR]
+	[Wait][Next]
+	The ancient tweasuwes awe [BR]
+	cawwing me! Onwawd![Wait][End]
+}
+
+#string:10:0D0
+{
+	[Style Right]
+	That Koopa! What a mavewick![BR]
+	Chawging into the vowcano...[BR]
+	He's bowd, I'ww give him that![BR]
+	[Pause 10][Wait][Next]
+	Bowd and cewtifiabwy nuts...[BR]
+	But enough about that! I want[BR]
+	to give you that impowtant item[BR]
+	I was tawking about.[BR]
+	[Wait][Next]
+	Hewe, take it.[Wait][End]
+}
+
+#string:10:0D1
+{
+	[Style Right]
+	That's an Uwtwa Stone. I found[BR]
+	it a wong time ago in the depths[BR]
+	of this jungwe.[BR]
+	[Wait][Next]
+	Now that you have this stone,[BR]
+	when you find a Supew Bwock,[BR]
+	[Wait][Next]
+	you can upgwade one of youw[BR]
+	pawty membews fwom Supew Wank[BR]
+	to Uwtwa Wank.[BR]
+	[Wait][Next]
+	Stwengthening the membews of[BR]
+	youw pawty wiww be the key to[BR]
+	youw success. Twust me.[BR]
+	[Wait][Next]
+	[Pause 5]That's what a Staw Spiwit towd[BR]
+	me in a dweam.[BR]
+	[Wait][Next]
+	Use it and pwospew![BR]
+	[Pause 10]I've got to go now.[BR]
+	[Pause 10]Ovew and out.[Wait][End]
+}
+
+#string:10:0D2
+{
+	[Style Right]
+	Caw cawcaw caaaw...[Wait][End]
+}
+
+#string:10:0D3
+{
+	[Style Right]
+	Caw cawcaw.[Wait][End]
+}
+
+#string:10:0D4
+{
+	[Style Right]
+	Oh, woe is me...[BR]
+	[Pause 5]My beautifuw tweasuwe...[Wait][End]
+}
+
+#string:10:0D5
+{
+	[Style Right]
+	[Voice Star]Wisten to you![BR]
+	[Wait][Next]
+	No tweasuwe in the wowwd is mowe[BR]
+	vawuabwe than wife! Be thankfuw[BR]
+	you escaped![BR]
+	[Wait][Yield][Next]
+	To think! This iswand was put in[BR]
+	tewwibwe pewiw because of the[BR]
+	meddwing of Bowsew's men.[BR]
+	[Wait][Next]
+	I think it wiww wowk out OK. The[BR]
+	ewuption wiww subside, and Wava-[BR]
+	wava Iswand wiww be just the same[BR]
+	as it used to be.[Wait][End]
+}
+
+#string:10:0D6
+{
+	[Style Right]
+	But... Sigh...[Wait][End]
+}
+
+#string:10:0D7
+{
+	[Style Right]
+	[Voice Star]Deaw Mawio![BR]
+	[Pause 10]You have saved five of us Staw[BR]
+	Spiwits now![BR]
+	[Wait][Next]
+	Just a few mowe to go![BR]
+	[Wait][Next]
+	My name is Misstaw.[BR]
+	[Pause 15]Wet me gwant you Powew that wiww[BR]
+	hewp you awong![Wait][End]
+}
+
+#string:10:0D8
+{
+	[Style Right]
+	[Voice Star]I have to go back to Staw Haven[BR]
+	fow now, but [Pause 5]if you need me,[BR]
+	pwease caww on me at any time.[BR]
+	[Wait][Next]
+	I wiww be watching you and[BR]
+	wishing fow youw success.[BR]
+	[Pause 5]I know you'ww see the pwincess[BR]
+	soon enough, Mawio. Have faith.[BR]
+	[Wait][Next]
+	Thank you again fow saving me.[BR]
+	[Pause 10]See you soon![Wait][End]
+}
+
+#string:10:0D9
+{
+	[Style Right]
+	Oh... I was so cwose...[BR]
+	The tweasuwe...wight thewe...[BR]
+	[Wait][Next]
+	And then to get saved and[BR]
+	yewwed at by some sowt of[BR]
+	bwooming gweat stawfish...[Wait][End]
+}
+
+#string:10:0DA
+{
+	[Style Right]
+	Oh![BR]
+	[Wait][Next]
+	Wewcome![BR]
+	[Wait][Next]
+	Sowwy I'm so suwpwised, but I[BR]
+	can't even wemembew the wast[BR]
+	time someone came up hewe.[BR]
+	It's suwe been a whiwe.[BR]
+	[Wait][Next]
+	What? Oh yes! Affiwmative![BR]
+	[Pause 10]I'm the mastew of this iswand.[BR]
+	[Pause 5]Caww sign: Waphaew the Waven![BR]
+	[Wait][Next]
+	If you have any pwobwems at aww,[BR]
+	just wet me know, OK?[BR]
+	[Pause 10]Go ahead, out with it![Wait][End]
+}
+
+#string:10:0DB
+{
+	[Style Right]
+	Ah. Oh, so you'we Mawio.[BR]
+	[Pause 10]I see. Wogew that.[BR]
+	[Wait][Next]
+	You can't find a way to weach[BR]
+	the vowcano, is that it?[BR]
+	[Pause 5]Yeah, that's a pwobwem.[BR]
+	[Pause 5]Not fow me, though. I'ww hewp.[BR]
+	[Wait][Next]
+	To be honest with you, I knew[BR]
+	you'd ask something wike that.[BR]
+	I got a message fwom the Staws,[BR]
+	so I knew you wewe coming.[BR]
+	[Wait][Next]
+	I've got something exceptionaw[BR]
+	to give you that ought to hewp[BR]
+	you on youw way...[BR]
+	[Wait][Next]
+	But that's fow watew![BR]
+	[Wait][Next]
+	Wight now, wet's take cawe of[BR]
+	that vowcano pwobwem, OK?[Wait][End]
+}
+
+#string:10:0DC
+{
+	[Style Right]
+	[PrintRising][Wave][BR]
+	[Down 8]Caw caaaaaaaaaaaaaaaw!![Wait][End]
+}
+
+#string:10:0DD
+{
+	[Style Right]
+	[BR]
+	[Down 8]Cawcaaaw caw.[Wait][End]
+}
+
+#string:10:0DE
+{
+	[Style Right]
+	Excewwent wesponse time, Wavens.[BR]
+	[Pause 5]We've got wowk to do.[BR]
+	[Wait][Next]
+	I'ww bwief you onwy once, so I[BR]
+	want youw fuww attention![Wait][End]
+}
+
+#string:10:0DF
+{
+	[Style Right]
+	...and it must be done just as[BR]
+	quickwy as possibwe.[BR]
+	[Pause 10]Got it?[BR]
+	[Pause 10]I shouwd hope so![BR]
+	[Wait][Next]
+	Wet's move, Wavens![BR]
+	[Pause 10]Fowwow me![Wait][End]
+}
+
+#string:10:0E0
+{
+	[Style Right]
+	Something ewse you need?[BR]
+	[Pause 10]Don't bothew me fow no weason.[Wait][End]
+}
+
+#string:10:0E1
+{
+	[Style Right]
+	[Wave]Heave-HOOOOOOO!![BR]
+	[Pause 20][End]
+}
+
+#string:10:0E2
+{
+	[Style Right]
+	Come on, then.[Wait][End]
+}
+
+#string:10:0E3
+{
+	[Style Right]
+	You must fowwow Mastew Waphaew[BR]
+	the Waven.[BR]
+	[Pause 10]Caw![Wait][End]
+}
+
+#string:10:0E4
+{
+	[Style Right]
+	You'we Kowowado, cowwect?[BR]
+	[Wait][Next]
+	The name's Pawakawwy. I dewivew[BR]
+	wettews.[BR]
+	[Wait][Next]
+	I bewieve I have one fow you.[BR]
+	[Pause 10]Hang on a moment.[Wait][End]
+}
+
+#string:10:0E5
+{
+	[Style Right]
+	Oh...no! Confound it![BR]
+	[Pause 10]I seem to have wost it![BR]
+	[Pause 10]...I'm tewwibwy sowwy.[Wait][End]
+}
+
+#string:10:0E6
+{
+	[Style Right]
+	Anothew wettew, duwy dewivewed.[BR]
+	A postman's job is nevew done.[Wait][End]
+}
+
+#string:10:0E7
+{
+	[Style Right]
+	A wettew? Fow me? Aww the way[BR]
+	out hewe on Wavawava Iswand?[BR]
+	[Pause 15]How vewy wawe...[BR]
+	[Pause 20][Wait][Next]
+	Oh, good show![BR]
+	[Pause 15]It's a wettew fwom my wife.[BR]
+	[Wait][Next]
+	Thank you evew so, owd chap.[BR]
+	[Pause 15]This is just what I needed to[BR]
+	give me the stwength to go on.[BR]
+	[Wait][Next]
+	[Pause 10]...I know![BR]
+	[Pause 10]I'ww pass this awong as a spot of[BR]
+	thanks.[BR]
+	[Wait][Next]
+	I came acwoss it whiwe I was[BR]
+	wandewing about the jungwe[BR]
+	weseawching things.[Wait][End]
+}
+
+#string:10:0E8
+{
+	[Style Right]
+	Pawdon me fow intewwupting youw[BR]
+	wowk, but...[BR]
+	[Pause 15]You'we Kowowado, cowwect?[BR]
+	[Wait][Next]
+	The name's Pawakawwy. I dewivew[BR]
+	wettews.[BR]
+	[Wait][Next]
+	I bewieve I have one fow you.[BR]
+	[Pause 10]Hang on a moment.[Wait][End]
+}
+
+#string:10:0E9
+{
+	[Style Right]
+	Oh...no! Confound it![BR]
+	[Pause 10]I seem to have wost it![BR]
+	[Pause 10]...I'm tewwibwy sowwy.[Wait][End]
+}
+
+#string:10:0EA
+{
+	[Style Right]
+	Anothew wettew, duwy dewivewed.[BR]
+	A postman's job is nevew done.[BR]
+	[Pause 15]Awe you aww wight?[Wait][End]
+}
+
+#string:10:0EB
+{
+	[Style Right]
+	Yeeow ow ow...![BR]
+	The tweasuwes awe waiting fow[BR]
+	me ovew thewe, I know it...[BR]
+	[Pause 15]Oh, a wettew...[BR]
+	[Pause 20][Wait][Next]
+	Oh, good show![BR]
+	[Pause 15]It's a wettew fwom my wife.[BR]
+	[Wait][Next]
+	Thank you evew so, owd chap.[BR]
+	[Pause 15]This is just what I needed to[BR]
+	give me the stwength to go on.[BR]
+	[Wait][Next]
+	[Pause 10]...I know![BR]
+	[Pause 10]I'ww pass this awong as a spot of[BR]
+	thanks.[BR]
+	[Wait][Next]
+	I came acwoss it whiwe I was[BR]
+	wandewing about the jungwe[BR]
+	weseawching things.[Wait][End]
+}
+
+#string:10:0EC
+{
+	[Style Right]
+	INVADEWS DETECTED![Wait][End]
+}
+
+#string:10:0ED
+{
+	[Style Right]
+	IDENTIFIED AS...MAWIO![BR]
+	[Wait][Next]
+	AWEWT! WEPOWT TO BOSS![BR]
+	AWEWT![BR]
+	AWEWT![Wait][End]
+}
+
+#string:10:0EE
+{
+	[Style Right]
+	Hmm...[BR]
+	[Pause 10]I sense dangew hewe...[BR]
+	[Wait][Next]
+	Aww adventuwes awe dangewous,[BR]
+	though, so what of it?[BR]
+	[Pause 10]We must pwess on towawd the[BR]
+	gwowy of an unknown tweasuwe![Wait][End]
+}
+
+#string:10:0EF
+{
+	[Style Right]
+	[Size 48][Shake][PrintRising]Yaaaah!!![BR]
+	[/fx][/fx][SizeReset][BR]
+	[Wait][Next]
+	[Up 6]What's wwong with this wock?[BR]
+	[Pause 10]It sank wight into the wava![Wait][End]
+}
+
+#string:10:0F0
+{
+	[Style Right]
+	Pwease...ew...aftew you.[BR]
+	[Pause 5]Do go ahead, owd boy.[BR]
+	[Pause 20][Shake]Wathew stifwing in hewe...[BR]
+	[Yield][Wait][End]
+}
+
+#string:10:0F1
+{
+	[Style Right]
+	My finewy honed intuition tewws me[BR]
+	that gweat discovewies wie just[BR]
+	beyond hewe...[BR]
+	[Wait][Next]
+	But thewe's this mystewious bwock[BR]
+	in the way. Cuwses![BR]
+	[Pause 10]What to do...[Wait][End]
+}
+
+#string:10:0F2
+{
+	[Style Right]
+	Hmmmm...[BR]
+	[Pause 5]Thewe must be some way...[Wait][End]
+}
+
+#string:10:0F3
+{
+	[Style Right]
+	Yes! Excewwent! Now, Mawio![BR]
+	[Pause 10]No time to hang about![BR]
+	[Pause 10]Onwawd to gwowy![Wait][End]
+}
+
+#string:10:0F4
+{
+	[Style Right]
+	Hm?[BR]
+	[Pause 10]It smewws wike tweasuwe![BR]
+	[Pause 10]Tweasuwe, owd boy! Make way--[BR]
+	I'm going ahead!![Wait][End]
+}
+
+#string:10:0F5
+{
+	[InputOff][Style Right]
+	[Static 50][Shake][SizeJitter]GyaaaaaAAAaaaaaaaaahhhhhhhh![BR]
+	[Pause 60][End]
+}
+
+#string:10:0F6
+{
+	[Style Right]
+	Ew... Don't mind me, Mawio. Just[BR]
+	investigating this fwoow a bit[BR]
+	mowe cwosewy. You go on ahead.[BR]
+	[Wait][Next]
+	Oh, my aching...[Wait][End]
+}
+
+#string:10:0F7
+{
+	[Style Right]
+	Mawio![BR]
+	[Pause 5]Wai... [Pause 5]Wait one moment![Wait][End]
+}
+
+#string:10:0F8
+{
+	[Style Right]
+	Huff huff huff..[BR]
+	[Wait][Next]
+	Accowding to the infowmation I've[BR]
+	gathewed...[BR]
+	[Wait][Next]
+	the hidden tweasuwe shouwd be[BR]
+	wight awound hewe. But I need to[BR]
+	go a wittwe fawthew[PrintRising]![BR]
+	[/fx][Wait][End]
+}
+
+#string:10:0F9
+{
+	[Style Right]
+	[Size 48]Aiigh![BR]
+	[Pause 5][End]
+}
+
+#string:10:0FA
+{
+	[Style Right]
+	[Wave]Bawewy nicked me...owd boy...[BR]
+	Oh...my poow sheww...ow...[BR]
+	[/fx][Wait][End]
+}
+
+#string:10:0FB
+{
+	[Style Right]
+	Good show, Mawio![Wait][End]
+}
+
+#string:10:0FC
+{
+	[Style Right]
+	Tweasuwe, owd chap! Tweasuwe!![BR]
+	[Wait][Next]
+	I can awmost taste it![BR]
+	[Wait][Next]
+	I teww you, the moment when you[BR]
+	find the tweasuwe is without a[BR]
+	doubt the finest moment in[BR]
+	awchaeowogy.[Wait][End]
+}
+
+#string:10:0FD
+{
+	[Style Right]
+	Cwose! So vewy cwose!![BR]
+	[Pause 10]My tweasuwe-hunting senses awe[BR]
+	going simpwy mad wight now![BR]
+	[Wait][Next]
+	My intuition tewws me...[BR]
+	[Yield][End]
+}
+
+#string:10:0FE
+{
+	It's ovew hewe!![Wait][End]
+}
+
+#string:10:0FF
+{
+	[Style Right]
+	MAWIO STIWW APPWOACHING![BR]
+	[Wait][Next]
+	IDENTIFIED AS SEAWCHING FOW [BR]
+	STAW SPIWIT![BR]
+	[Wait][Next]
+	CODE WED! WEPOWT TO BOSS![BR]
+	[Wait][Next]
+	AWEWT![BR]
+	AWEWT![Wait][End]
+}
+
+#string:10:100
+{
+	[Style Right]
+	Oh... [Pause 5]Huh?[BR]
+	Thewe seems to be nothing...[BR]
+	[Wait][Next]
+	Awas...[BR]
+	Even my finewy honed intuition[BR]
+	can be wwong on occasion.[BR]
+	[Wait][Next]
+	I shaww not give up.[BR]
+	[Pause 10]Wet's head back the othew way.[BR]
+	[Pause 10]Pewhaps the tweasuwe is a bit[BR]
+	deepew down in the vowcano.[Wait][End]
+}
+
+#string:10:101
+{
+	[Style Right]
+	Success is bought with faiwuwes.[BR]
+	[Pause 10]Don't wook so down, owd boy![BR]
+	[Pause 10]Pewhaps the tweasuwe is a bit[BR]
+	deepew down in the vowcano.[Wait][End]
+}
+
+#string:10:102
+{
+	[Style Right]
+	[Shake]BWECK HYUCK HYUCK YUCK![BR]
+	[Pause 10]YOU MADE IT, MAWIO![BR]
+	[Yield][Wait][End]
+}
+
+#string:10:103
+{
+	[Style Right]
+	[Shake]YOU GUYS...BAD GUYS![BR]
+	[Pause 5]BAD GUYS COME TO STEAW STAW[BR]
+	SPIWIT![BR]
+	[Wait][Next]
+	BAD GUYS WHO COME TO STEAW[BR]
+	STAW SPIWITS GET HUWT![BR]
+	[Pause 5]WE DON'T WET IT HAPPEN! NO![BR]
+	[Yield][Wait][Next]
+	[Yield]WE TWAP STAW SPIWIT![BR]
+	[Pause 10]WE GET THIS VOWCANO![BR]
+	[Pause 10]VOWCANO IS OUWS! GOOD DEAW![BR]
+	[Wait][Next]
+	WE MAKE THINGS HOT FOW YOU![BR]
+	[Pause 10]WE BEAT YOU, MAWIO![BR]
+	[Yield][Wait][End]
+}
+
+#string:10:104
+{
+	[Style Right]
+	Mawio! You shan't fight awone![BR]
+	Kowowado to the wescue![BR]
+	[Wait][Next]
+	[PrintRising]Hii-yaaaaaaah!!!!!![Wait][End]
+}
+
+#string:10:105
+{
+	[Style Right]
+	Ow ow OW!! HOT!!!![BR]
+	[Pause 10]Oh, it buwns! Weawwy![Wait][End]
+}
+
+#string:10:106
+{
+	[Style Right]
+	So sowwy, owd chap, but that's aww[BR]
+	I can do at the moment![BR]
+	[Pause 10]Good wuck with aww this![Wait][End]
+}
+
+#string:10:107
+{
+	[Style Right]
+	Weww! That's that, then![BR]
+	[Pause 10]Now thewe's nothing between us[BR]
+	and some tweasuwe, eh?[BR]
+	[Pause 10]Wet's go![Wait][End]
+}
+
+#string:10:108
+{
+	[Style Right]
+	The tweasuwe doesn't seem to be[BR]
+	anywhewe awound hewe...[BR]
+	[Pause 10]Gad, whewe couwd it be?[Wait][End]
+}
+
+#string:10:109
+{
+	[Style Right]
+	[Voice Star]Mawio,[BR]
+	[Pause 5]this way! [Pause 10]We must huwwy!![Wait][End]
+}
+
+#string:10:10A
+{
+	[Style Right]
+	Ah ha! Tweasuwe!![BR]
+	[Pause 10]...Ew, no, it's...[BR]
+	[Wait][Next]
+	...some sowt of stawfish...???[Wait][End]
+}
+
+#string:10:10B
+{
+	[Style Right]
+	Mmmmm. This won't do.[BR]
+	[Pause 5]The adventuwe's nevew ovew untiw[BR]
+	the tweasuwe is found![Wait][End]
+}
+
+#string:10:10C
+{
+	[Style Right]
+	Ah! Yes, of couwse![BR]
+	[Pause 10]Pewhaps that howwibwe fiewy[BR]
+	monstew had it and was hiding it[BR]
+	somewhewe! Yes, that's it![BR]
+	[Wait][Next]
+	I'ww just wun back and check.[Wait][End]
+}
+
+#string:10:10D
+{
+	[Style Right]
+	[Blur dir=xy]Hm... [Pause 5]Hmm?[BR]
+	[Pause 10]What's this twembwing, then?![BR]
+	[Wait][Next]
+	...Pwobabwy nothing![BR]
+	[Pause 10]Kids with fiwewowks, no doubt.[BR]
+	[Pause 10]Now, aftew that tweasuwe![Wait][End]
+}
+
+#string:10:10E
+{
+	[Style Right]
+	[Voice Star]No! Wait![Wait][End]
+}
+
+#string:10:10F
+{
+	[Style Right]
+	[PrintRising]Yaaawgh! HOT!! So hot!![BR]
+	[Pause 20][End]
+}
+
+#string:10:110
+{
+	[Style Right]
+	Thuh... that's wava, isn't it?[BR]
+	[Pause 10]It's coming neaw! We must fwee![BR]
+	[Wait][Next]
+	N... [Pause 5]Nooo![BR]
+	[Pause 10]The tweasuwe is stiww hewe![BR]
+	[Pause 10]I just know it![Wait][End]
+}
+
+#string:10:111
+{
+	[Style Right]
+	[Voice Star]Mawio![BR]
+	[Pause 10]This vowcano is going to ewupt[BR]
+	any time now.[BR]
+	[Wait][Next]
+	It's faw too dangewous to go[BR]
+	back the way you came.[BR]
+	[Pause 10]We have to escape anothew way![Wait][End]
+}
+
+#string:10:112
+{
+	[Style Right]
+	[Voice Star]I feew a swight wind coming fwom[BR]
+	this cwacked waww...[BR]
+	[Pause 10]Thewe couwd be a woom beyond.[BR]
+	[Wait][Next]
+	Mawio,[BR]
+	[Pause 5]can you bwow up this waww?[Wait][End]
+}
+
+#string:10:113
+{
+	[Style Right]
+	Mawio!! Owd chap![BR]
+	[Pause 10]We shouwd fowget the tweasuwe![BR]
+	[Wait][Next]
+	I'm of the mind that pewhaps we[BR]
+	shouwd escape with ouw wives.[Wait][End]
+}
+
+#string:10:114
+{
+	[Style Right]
+	[Voice Star]Now! Huwwy![BR]
+	[Pause 10]We must get out of hewe![Wait][End]
+}
+
+#string:10:115
+{
+	[Style Right]
+	[Voice Star]Mawio, huwwy![BR]
+	[Pause 10]The wava is getting highew![Wait][End]
+}
+
+#string:10:116
+{
+	[Style Right]
+	Ah! I knew it![BR]
+	[Pause 10]At wast! The tweasuwe is wight[BR]
+	thewe![BR]
+	[Wait][Next]
+	So cwose... Can't wesist...[BR]
+	[Pause 10][PrintRising]By the Staws, I'ww wisk my wife[BR]
+	fow that tweasuwe!![Wait][End]
+}
+
+#string:10:117
+{
+	[Style Right]
+	My tweasuwe! Noooooooo![BR]
+	[Pause 30][End]
+}
+

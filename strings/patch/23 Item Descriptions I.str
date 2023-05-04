@@ -1,0 +1,1594 @@
+#string:23:000
+{
+	A fwowew that buwns aww enemies [BR]
+	with fiwebawws. Attack Powew: 3[End]
+}
+
+#string:23:001
+{
+	A snowman that cwushes aww[BR]
+	enemies. Attack Powew: 4[End]
+}
+
+#string:23:002
+{
+	Wightning that stwikes aww[BR]
+	enemies.  Attack Powew: 5[End]
+}
+
+#string:23:003
+{
+	Wightning that stwikes 1 enemy.[BR]
+	Attack Powew: 5[End]
+}
+
+#string:23:004
+{
+	Shooting staws that hit aww[BR]
+	enemies. Attack Powew: 6[End]
+}
+
+#string:23:005
+{
+	A dusty owd Hammew. Thwow it to[BR]
+	damage 1 enemy.[End]
+}
+
+#string:23:006
+{
+	A common pebbwe. Thwow it to[BR]
+	damage 1 enemy.[End]
+}
+
+#string:23:007
+{
+	Tuwns Mawio to stone and makes[BR]
+	him unabwe to move fow a whiwe. [End]
+}
+
+#string:23:008
+{
+	Ewectwifies Mawio bwiefwy and[BR]
+	damages enemies who touch him.  [End]
+}
+
+#string:23:009
+{
+	A weguwaw Mushwoom. Westowes[BR]
+	5 HP.[End]
+}
+
+#string:23:00A
+{
+	A twuwy supew Mushwoom.[BR]
+	Westowes 10 HP.[End]
+}
+
+#string:23:00B
+{
+	An uwtwa-fine Mushwoom. Westowes[BR]
+	50 HP.[End]
+}
+
+#string:23:00C
+{
+	A wife-giving Mushwoom. Westowes[BR]
+	10 HP when Mawio's HP hits 0.[End]
+}
+
+#string:23:00D
+{
+	A vewy dwy Mushwoom. Westowes[BR]
+	1 HP.[End]
+}
+
+#string:23:00E
+{
+	A vewy tasty tonic. Cuwes[BR]
+	poisoning and shwinking.[End]
+}
+
+#string:23:00F
+{
+	A bubbwy soda. Cuwes shwinking ow[BR]
+	poisoning and westowes 5 FP.[End]
+}
+
+#string:23:010
+{
+	A bewwy found in Fwowew Fiewds.[BR]
+	Westowes 5 FP.[End]
+}
+
+#string:23:011
+{
+	A bewwy found in Fwowew Fiewds.[BR]
+	Westowes 5 HP.[End]
+}
+
+#string:23:012
+{
+	A bewwy found in Fwowew Fiewds.[BR]
+	Westowes 3 HP and 3 FP.[End]
+}
+
+#string:23:013
+{
+	A bewwy found in Fwowew Fiewds.[BR]
+	Westowes 5 HP.[End]
+}
+
+#string:23:014
+{
+	A fwuit found in a desewt oasis.[BR]
+	Westowes 3 FP.[End]
+}
+
+#string:23:015
+{
+	A fwuit found in a desewt oasis.[BR]
+	Westowes 1 HP and 2 FP.[End]
+}
+
+#string:23:016
+{
+	Sweet honey sywup. Westowes[BR]
+	5 FP.[End]
+}
+
+#string:23:017
+{
+	Dewicious mapwe sywup. Westowes[BR]
+	10 FP.[End]
+}
+
+#string:23:018
+{
+	A highwy nutwitious snack.[BR]
+	Westowes 50 FP.[End]
+}
+
+#string:23:019
+{
+	A Whacka Bump fwom Mt. Wugged.[BR]
+	Westowes 25 HP and 25 FP.[End]
+}
+
+#string:23:01A
+{
+	A sweet, tangy appwe. Westowes[BR]
+	5 HP.[End]
+}
+
+#string:23:01B
+{
+	A speciaw nut found onwy in [BR]
+	Goomba Viwwage. Westowes 3 FP.[BR]
+	[End]
+}
+
+#string:23:01C
+{
+	A weaf found in Koopa Viwwage.[BR]
+	Westowes 3 FP.[End]
+}
+
+#string:23:01D
+{
+	Pasta fwom Dwy Dwy Outpost.[BR]
+	Westowes 3 HP and 2 FP.[End]
+}
+
+#string:23:01E
+{
+	A fwuit found deep within Dwy[BR]
+	Dwy Desewt. Westowes 15 HP.[End]
+}
+
+#string:23:01F
+{
+	A vewy wawe weaf. Westowes 5 FP.[BR]
+	[End]
+}
+
+#string:23:020
+{
+	A mix used to bake tasty cakes.[BR]
+	Westowes 1 FP.[End]
+}
+
+#string:23:021
+{
+	An egg of unknown owigin.[BR]
+	Westowes 5 HP.[End]
+}
+
+#string:23:022
+{
+	A coconut fwom Wavawava Iswand.[BR]
+	Thwow it to damage 1 enemy.[End]
+}
+
+#string:23:023
+{
+	A succuwent, wipe mewon. Westowes[BR]
+	15 HP.[End]
+}
+
+#string:23:024
+{
+	This hewb smewws kind of bad...[BR]
+	Westowes 5 FP.[End]
+}
+
+#string:23:025
+{
+	A tough potato found in the[BR]
+	Shivew Wegion. Westowes 5 HP.[End]
+}
+
+#string:23:026
+{
+	If it wowks, makes aww enemies[BR]
+	sweep fow a wittwe whiwe.[End]
+}
+
+#string:23:027
+{
+	Fwips sheww enemies and infwicts[BR]
+	2 damage points on aww enemies.[End]
+}
+
+#string:23:028
+{
+	If it wowks, pawawyzes aww[BR]
+	enemies fow a showt time.[End]
+}
+
+#string:23:029
+{
+	If it wowks, dazes and pawawyzes[BR]
+	aww enemies bwiefwy.[BR]
+	[End]
+}
+
+#string:23:02A
+{
+	Makes a scawy spiwit appeaw and[BR]
+	chase some enemies away.[End]
+}
+
+#string:23:02B
+{
+	Who knows what it does... Take a[BR]
+	chance to find out![End]
+}
+
+#string:23:02C
+{
+	Makes Mawio twanspawent and[BR]
+	invuwnewabwe fow a showt time. [End]
+}
+
+#string:23:02D
+{
+	A hot soup cooked by Tayce T.[BR]
+	Westowes 4 HP and 4 FP.[End]
+}
+
+#string:23:02E
+{
+	An appwe pie baked by Tayce T.[BR]
+	Westowes 5 HP and 15 FP.[End]
+}
+
+#string:23:02F
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 5 HP and 5 FP.[End]
+}
+
+#string:23:030
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 5 HP and 10 FP.[End]
+}
+
+#string:23:031
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 5 HP and 50 FP.[End]
+}
+
+#string:23:032
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 10 HP and 5 FP.[End]
+}
+
+#string:23:033
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 10 HP and 10 FP.[End]
+}
+
+#string:23:034
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 10 HP and 50 FP.[BR]
+	[End]
+}
+
+#string:23:035
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 50 HP and 5 FP.[End]
+}
+
+#string:23:036
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 50 HP and 10 FP.[BR]
+	[End]
+}
+
+#string:23:037
+{
+	A dessewt made by Tayce T.[BR]
+	Westowes 50 HP and 50 FP.[End]
+}
+
+#string:23:038
+{
+	Speciaw pasta made by Tayce T.[BR]
+	Westowes 7 HP and 7 FP.[BR]
+	[End]
+}
+
+#string:23:039
+{
+	A snack made by Tayce T.[BR]
+	Westowes 6 HP and 2 FP.[End]
+}
+
+#string:23:03A
+{
+	A snack made by Tayce T.[BR]
+	Westowes 15 HP and 5 FP.[End]
+}
+
+#string:23:03B
+{
+	A dish cooked by Tayce T.[BR]
+	Westowes 30 HP and 10 FP.[BR]
+	[End]
+}
+
+#string:23:03C
+{
+	A cake baked by Tayce T.[BR]
+	Westowes 10 HP and 10 FP.[End]
+}
+
+#string:23:03D
+{
+	A yummy cake baked by Tayce T.[BR]
+	Westowes 30 HP and 20 FP.[End]
+}
+
+#string:23:03E
+{
+	Bowing food cooked by Tayce T.[BR]
+	Westowes 10 HP and 10 FP.[End]
+}
+
+#string:23:03F
+{
+	Tasty food cooked by Tayce T.[BR]
+	Westowes 20 HP and 20 FP.[End]
+}
+
+#string:23:040
+{
+	Amazing food cooked by Tayce T.[BR]
+	Westowes 40 HP and 40 FP.[End]
+}
+
+#string:23:041
+{
+	A smoothie made by Tayce T.[BR]
+	Westowes 20 FP.[End]
+}
+
+#string:23:042
+{
+	A juice bwend made by Tayce T.[BR]
+	Westowes 40 FP.[End]
+}
+
+#string:23:043
+{
+	A huge cookie baked by Tayce T.[BR]
+	Westowes 20 FP.[End]
+}
+
+#string:23:044
+{
+	A tasty cake baked by Tayce T.[BR]
+	Westowes 15 FP.[End]
+}
+
+#string:23:045
+{
+	This doesn't wook vewy good![BR]
+	Westowes 1 HP and 1 FP.[End]
+}
+
+#string:23:046
+{
+	Tea bwewed by Tayce T.[BR]
+	Westowes 7 FP.[End]
+}
+
+#string:23:047
+{
+	Spaghetti cooked by Tayce T.[BR]
+	Westowes 6 HP and 4 FP.[End]
+}
+
+#string:23:048
+{
+	An egg Bomb made by Tayce T.[BR]
+	Thwow it to damage 1 enemy.[End]
+}
+
+#string:23:049
+{
+	Food cooked by Tayce T.[BR]
+	Westowes 10 HP.[End]
+}
+
+#string:23:04A
+{
+	A sweet candy made by Tayce T.[BR]
+	Westowes 20 FP.[End]
+}
+
+#string:23:04B
+{
+	A tawt wowwipop made by Tayce T.[BR]
+	Westowes 15 FP.[End]
+}
+
+#string:23:04C
+{
+	A hot wowwipop made by Tayce T.[BR]
+	Westowes 20 FP but uses 1 HP.[BR]
+	[End]
+}
+
+#string:23:04D
+{
+	A tangy candy made by Tayce T.[BR]
+	Westowes 20 FP.[End]
+}
+
+#string:23:04E
+{
+	A sweet candy made by Tayce T.[BR]
+	Westowes 3 HP and 15 FP.[End]
+}
+
+#string:23:04F
+{
+	A tangy candy made by Tayce T.[BR]
+	Westowes 5 HP and 15 FP.[End]
+}
+
+#string:23:050
+{
+	A big wowwipop made by Tayce T.[BR]
+	Westowes 64 FP.[End]
+}
+
+#string:23:051
+{
+	This ewectwifies Mawio, tuwns him [BR]
+	twanspawent, ow makes him sweep.[End]
+}
+
+#string:23:052
+{
+	Makes Mawio ewectwic, sweepy,[BR]
+	ow twanspawent. Westowes 15 FP.[End]
+}
+
+#string:23:053
+{
+	A side dish made by Tayce T.[BR]
+	Westowes 15 HP.[End]
+}
+
+#string:23:054
+{
+	A side dish made by Tayce T.[BR]
+	Westowes 10 HP.[End]
+}
+
+#string:23:055
+{
+	A nut cake baked by Tayce T.[BR]
+	Westowes 10 FP.[End]
+}
+
+#string:23:056
+{
+	Food cooked by Tayce T.[BR]
+	Westowes 8 HP and 8 FP.[End]
+}
+
+#string:23:057
+{
+	A cookie baked by Tayce T.[BR]
+	Westowes 15 HP and 15 FP.[End]
+}
+
+#string:23:058
+{
+	Mawio stomps on a singwe enemy[BR]
+	using a wot of attack powew.[End]
+}
+
+#string:23:059
+{
+	Mawio stomps on a singwe enemy[BR]
+	using tons of attack powew.[End]
+}
+
+#string:23:05A
+{
+	When chawged, Mawio's Jump[BR]
+	powew goes up by 2.[End]
+}
+
+#string:23:05B
+{
+	When supewchawged, Mawio's Jump[BR]
+	powew goes up by 3.[End]
+}
+
+#string:23:05C
+{
+	If it wowks, the enemy Mawio[BR]
+	jumps on fawws asweep fow a bit.[End]
+}
+
+#string:23:05D
+{
+	If it wowks, the enemy Mawio[BR]
+	jumps on becomes dizzy.[End]
+}
+
+#string:23:05E
+{
+	Jumps on aww enemies in a wow if[BR]
+	action command is timed wight.[End]
+}
+
+#string:23:05F
+{
+	If it wowks, the enemy shwinks.[BR]
+	Its attack powew decweases.[End]
+}
+
+#string:23:060
+{
+	Disabwes an enemy's defense[BR]
+	powew and causes some damage.[End]
+}
+
+#string:23:061
+{
+	Jumps on one enemy continuouswy [BR]
+	untiw you miss an action command.[End]
+}
+
+#string:23:062
+{
+	Hammews an enemy using wots of[BR]
+	attack powew.[End]
+}
+
+#string:23:063
+{
+	Hammews an enemy with a huge[BR]
+	amount of attack powew.[End]
+}
+
+#string:23:064
+{
+	When chawged, Mawio's Hammew[BR]
+	powew goes up by 2.[End]
+}
+
+#string:23:065
+{
+	When supewchawged, Mawio's[BR]
+	Hammew powew goes up by 3.[End]
+}
+
+#string:23:066
+{
+	Hits one enemy with the Hammew,[BR]
+	no mattew whewe the enemy is. [End]
+}
+
+#string:23:067
+{
+	If it wowks, the enemy shwinks.[BR]
+	Its attack powew decweases.[End]
+}
+
+#string:23:068
+{
+	If Mawio hits an enemy, it[BR]
+	smashes into the ones behind it.[End]
+}
+
+#string:23:069
+{
+	Disabwes an enemy's defense[BR]
+	powew and injuwes it.[End]
+}
+
+#string:23:06A
+{
+	Swightwy damages aww enemies on[BR]
+	the gwound ow ceiwing.[End]
+}
+
+#string:23:06B
+{
+	Gweatwy damages aww enemies on[BR]
+	the gwound ow ceiwing.[End]
+}
+
+#string:23:06C
+{
+	Sevewewy damages aww enemies on[BR]
+	the gwound ow ceiwing.[End]
+}
+
+#string:23:06D
+{
+	Duwing battwe, wets you use two[BR]
+	items duwing one tuwn.[End]
+}
+
+#string:23:06E
+{
+	Duwing battwe, wets you use thwee[BR]
+	items duwing one tuwn.[End]
+}
+
+#string:23:06F
+{
+	Wets Mawio's pawty membews use[BR]
+	the Focus command, as weww.[End]
+}
+
+#string:23:070
+{
+	Changes youw pawty membew and[BR]
+	attacks with it on that tuwn.[End]
+}
+
+#string:23:071
+{
+	Incweases maximum HP by 5.[End]
+}
+
+#string:23:072
+{
+	Incweases maximum FP by 5.[End]
+}
+
+#string:23:073
+{
+	Incweases Mawio's Jump and[BR]
+	Hammew attack powews by 1.[End]
+}
+
+#string:23:074
+{
+	Decweases the damage that[BR]
+	Mawio takes by 1.[End]
+}
+
+#string:23:075
+{
+	If you do the action command,[BR]
+	decweases Mawio's damage by 1.[End]
+}
+
+#string:23:076
+{
+	Incweases attack powew by 1.[BR]
+	Decweases defense powew by 1.[End]
+}
+
+#string:23:077
+{
+	Decweases attack powew by 1.[BR]
+	Incweases defense powew by 1.[End]
+}
+
+#string:23:078
+{
+	Decweases Mawio's attack powew [BR]
+	by 1. Westowes 1 HP pew tuwn.[End]
+}
+
+#string:23:079
+{
+	Westowes HP automaticawwy duwing[BR]
+	battwe at a swow wate.[End]
+}
+
+#string:23:07A
+{
+	Westowes FP automaticawwy duwing[BR]
+	battwe at a swow wate.[End]
+}
+
+#string:23:07B
+{
+	Duwing battwe, saves 1 FP evewy[BR]
+	time you attack. [End]
+}
+
+#string:23:07C
+{
+	Aftew beating an enemy, makes[BR]
+	mowe heawts appeaw than usuaw.[End]
+}
+
+#string:23:07D
+{
+	Aftew beating an enemy, makes [BR]
+	mowe fwowews appeaw than usuaw.[End]
+}
+
+#string:23:07E
+{
+	When using Focus, chawges Staw[BR]
+	Enewgy mowe than usuaw.[End]
+}
+
+#string:23:07F
+{
+	Wets Mawio jump on a spiked[BR]
+	enemy without taking damage.[End]
+}
+
+#string:23:080
+{
+	Makes the action command wowk[BR]
+	mowe fwequentwy.[End]
+}
+
+#string:23:081
+{
+	Makes enemies faiw to attack[BR]
+	Mawio evewy once in a whiwe.[End]
+}
+
+#string:23:082
+{
+	Sometimes makes enemies faiw to[BR]
+	attack Mawio.[End]
+}
+
+#string:23:083
+{
+	When Mawio's in Dangew, enemies[BR]
+	sometimes faiw to attack.[End]
+}
+
+#string:23:084
+{
+	When Mawio's in Dangew, his[BR]
+	attack powew incweases by 2.[End]
+}
+
+#string:23:085
+{
+	When Mawio's in Dangew, he[BR]
+	weceives onwy hawf the damage.[End]
+}
+
+#string:23:086
+{
+	When Mawio's in Pewiw, his attack[BR]
+	powew goes up by 4.  [End]
+}
+
+#string:23:087
+{
+	Wets Mawio destwoy a weakew[BR]
+	enemy with a Fiwst Stwike.  [End]
+}
+
+#string:23:088
+{
+	Wets Mawio destwoy a weakew [BR]
+	enemy in the fiewd by hitting it.[End]
+}
+
+#string:23:089
+{
+	Wets Mawio destwoy a weakew[BR]
+	enemy with a spinning move.[End]
+}
+
+#string:23:08A
+{
+	Dewivews a bwow that makes an[BR]
+	enemy dizzy and unabwe to move. [End]
+}
+
+#string:23:08B
+{
+	Incweases the distance Mawio[BR]
+	can Spin Dash.[End]
+}
+
+#string:23:08C
+{
+	Pwotects Mawio fwom poisoning[BR]
+	and dizziness duwing attack.[End]
+}
+
+#string:23:08D
+{
+	Changes the sound effects when[BR]
+	Mawio's attacking.[End]
+}
+
+#string:23:08E
+{
+	Changes the sound effects when[BR]
+	Mawio's attacking.[End]
+}
+
+#string:23:08F
+{
+	Changes the sound effects when[BR]
+	Mawio's attacking.[End]
+}
+
+#string:23:090
+{
+	Changes the sound effects when[BR]
+	Mawio's attacking.[End]
+}
+
+#string:23:091
+{
+	Changes the sound effects when[BR]
+	Mawio's attacking.[End]
+}
+
+#string:23:092
+{
+	Changes the sound effects when[BR]
+	Mawio's attacking.[End]
+}
+
+#string:23:093
+{
+	If the action command wowks,[BR]
+	attack powew +1. If not, it's 0.[End]
+}
+
+#string:23:094
+{
+	Makes Mawio unabwe to wun. His[BR]
+	pace becomes vewy swow.[End]
+}
+
+#string:23:095
+{
+	Incweases attack powew against[BR]
+	fiwe enemies by 2.  [End]
+}
+
+#string:23:096
+{
+	The mowe damage Mawio takes,[BR]
+	the mowe coins he weceives.[End]
+}
+
+#string:23:097
+{
+	Makes the damage Mawio takes[BR]
+	fwom fiwe attacks go down by 1.[End]
+}
+
+#string:23:098
+{
+	Keeps you fwom being hit by a[BR]
+	Fiwst Stwike.[End]
+}
+
+#string:23:099
+{
+	In battwe, makes most enemies[BR]
+	who touch Mawio take damage.  [End]
+}
+
+#string:23:09A
+{
+	Aftew a battwe, wets Mawio get[BR]
+	twice as many coins as usuaw.[End]
+}
+
+#string:23:09B
+{
+	Makes the action command wowk[BR]
+	evewy time Mawio attacks.[End]
+}
+
+#string:23:09C
+{
+	Wets Mawio eawn Staw Points[BR]
+	even if he escapes fwom battwe. [End]
+}
+
+#string:23:09D
+{
+	Wefunds some coins if you use an[BR]
+	item in battwe.[End]
+}
+
+#string:23:09E
+{
+	A sound and icon awewt you to a[BR]
+	neawby hidden panew.[End]
+}
+
+#string:23:09F
+{
+	Makes it possibwe to see youw[BR]
+	enemy's HP.[End]
+}
+
+#string:23:0A0
+{
+	Jump and stomp on an enemy.[End]
+}
+
+#string:23:0A1
+{
+	Jump and stomp on an enemy.[End]
+}
+
+#string:23:0A2
+{
+	Jump and stomp on an enemy.[End]
+}
+
+#string:23:0A3
+{
+	Smack enemies with the Hammew.[End]
+}
+
+#string:23:0A4
+{
+	Smack enemies with the Hammew.[End]
+}
+
+#string:23:0A5
+{
+	Smack enemies with the Hammew.[End]
+}
+
+#string:23:0A6
+{
+	A staw-shaped pendant. Wets[BR]
+	you use the action command.[End]
+}
+
+#string:23:0A7
+{
+	Opens a wocked doow in the[BR]
+	Koopa Bwos. Fowtwess.[End]
+}
+
+#string:23:0A8
+{
+	Opens a wocked doow in Dwy Dwy[BR]
+	Wuins.[End]
+}
+
+#string:23:0A9
+{
+	Opens a wocked doow in Tubba[BR]
+	Bwubba's Castwe.[End]
+}
+
+#string:23:0AA
+{
+	Opens a wocked doow in the[BR]
+	Cwystaw Pawace.[End]
+}
+
+#string:23:0AB
+{
+	Opens a wocked doow in Bowsew's[BR]
+	Castwe.[End]
+}
+
+#string:23:0AC
+{
+	Opens a wocked doow in Pwincess[BR]
+	Peach's Castwe.[End]
+}
+
+#string:23:0AD
+{
+	Opens a wocked doow in the Odd[BR]
+	House.[End]
+}
+
+#string:23:0AE
+{
+	An adowabwe doww that wooks [BR]
+	exactwy wike Pwincess Peach.[End]
+}
+
+#string:23:0AF
+{
+	Koopew's bwue sheww.[End]
+}
+
+#string:23:0B0
+{
+	The cwosew you get to Dwy Dwy [BR]
+	Wuins, the fastew it fwashes.[End]
+}
+
+#string:23:0B1
+{
+	A stwange awtifact found in Dwy[BR]
+	Dwy Wuins.[End]
+}
+
+#string:23:0B2
+{
+	A spawkwing gowd pot. Moustafa[BR]
+	was wooking fow this.[End]
+}
+
+#string:23:0B3
+{
+	A cwescent-shaped stone found[BR]
+	in Dwy Dwy Wuins.[End]
+}
+
+#string:23:0B4
+{
+	A twiangwe-shaped stone found[BR]
+	in Dwy Dwy Wuins.[End]
+}
+
+#string:23:0B5
+{
+	A staw-shaped stone found in[BR]
+	Dwy Dwy Wuins.[End]
+}
+
+#string:23:0B6
+{
+	A wecowd of upbeat music. How[BR]
+	can you pway this?[End]
+}
+
+#string:23:0B7
+{
+	A vewy heavy weight. How can[BR]
+	you use this?[End]
+}
+
+#string:23:0B8
+{
+	A powtwait of an owd mawe Boo.[End]
+}
+
+#string:23:0B9
+{
+	A key found in Tubba Bwubba's[BR]
+	woom.[End]
+}
+
+#string:23:0BA
+{
+	A key to the stowewoom in a[BR]
+	Toad Town shop.[End]
+}
+
+#string:23:0BB
+{
+	A vewy weww designed toy twain.[BR]
+	Couwd this be mowe than a toy?[End]
+}
+
+#string:23:0BC
+{
+	Tayce T.'s fwying pan. Wetuwn it[BR]
+	to hew.[End]
+}
+
+#string:23:0BD
+{
+	The schowaw Wuss T.'s dictionawy.[BR]
+	Wetuwn it to him.[End]
+}
+
+#string:23:0BE
+{
+	You can't wead this. Show it to [BR]
+	someone who is vewy smawt.[End]
+}
+
+#string:23:0BF
+{
+	A bag fuww of wettews. Wetuwn it[BR]
+	to the post office.[End]
+}
+
+#string:23:0C0
+{
+	A seed. Have it pwanted in the[BR]
+	Fwowew Gawden in Toad Town.[End]
+}
+
+#string:23:0C1
+{
+	A seed. Have it pwanted in the[BR]
+	Fwowew Gawden in Toad Town.[End]
+}
+
+#string:23:0C2
+{
+	A seed. Have it pwanted in the[BR]
+	Fwowew Gawden in Toad Town.[End]
+}
+
+#string:23:0C3
+{
+	A seed. Have it pwanted in the[BR]
+	Fwowew Gawden in Toad Town.[End]
+}
+
+#string:23:0C4
+{
+	A gwittewing bewwy made of[BR]
+	cwystaw.[End]
+}
+
+#string:23:0C5
+{
+	A magicaw stone. Watew spwings[BR]
+	fwom it.[End]
+}
+
+#string:23:0C6
+{
+	A bean. It's twitching as if to[BR]
+	say, "Pwant me this instant!"[End]
+}
+
+#string:23:0C7
+{
+	Absowutewy powwutant fwee. This[BR]
+	smewws wike vewy good soiw.[End]
+}
+
+#string:23:0C8
+{
+	Vewy cowd watew. It gwittews in[BR]
+	the sun.[End]
+}
+
+#string:23:0C9
+{
+	A gowgeous cwystaw baww. Give it[BR]
+	to Mewwuvwee.[End]
+}
+
+#string:23:0CA
+{
+	The cawcuwatow fwom Wowf's[BR]
+	Badge Shop. Wetuwn it to him.[End]
+}
+
+#string:23:0CB
+{
+	A book Gouwmet Guy dwopped.[BR]
+	Show it to a good cook.[End]
+}
+
+#string:23:0CC
+{
+	The jade statue of a Waven that[BR]
+	Yoshi's Viwwage Weadew gave you.[End]
+}
+
+#string:23:0CD
+{
+	A tweasuwe found inside Mt.[BR]
+	Wavawava.[End]
+}
+
+#string:23:0CE
+{
+	A key to the wawehouse in Shivew[BR]
+	City.[End]
+}
+
+#string:23:0CF
+{
+	An owdinawy bucket that the[BR]
+	Shivew City Mayow gave you.[End]
+}
+
+#string:23:0D0
+{
+	An owdinawy scawf fwom Mewwe in[BR]
+	Stawbown Vawwey.[End]
+}
+
+#string:23:0D1
+{
+	A stone. It opens the path to[BR]
+	the Cwystaw Pawace.[End]
+}
+
+#string:23:0D2
+{
+	A big wed key.[End]
+}
+
+#string:23:0D3
+{
+	A big bwue key.[End]
+}
+
+#string:23:0D4
+{
+	A fabuwous pawasow given to quiz[BR]
+	show pawticipants.[End]
+}
+
+#string:23:0D5
+{
+	A key to the pwison in Bowsew's[BR]
+	Castwe.[End]
+}
+
+#string:23:0D6
+{
+	Show it to a composew somewhewe[BR]
+	in the wowwd.[End]
+}
+
+#string:23:0D7
+{
+	Give it to the Mastew Poet in[BR]
+	Toad Town.[End]
+}
+
+#string:23:0D8
+{
+	Snow white sugaw.[End]
+}
+
+#string:23:0D9
+{
+	As sawty as sawt gets.[End]
+}
+
+#string:23:0DA
+{
+	Newwy waid eggs.[End]
+}
+
+#string:23:0DB
+{
+	Vewy wich and fwesh cweam.[End]
+}
+
+#string:23:0DC
+{
+	Bwight wed stwawbewwies. They[BR]
+	wook fwesh and juicy.[End]
+}
+
+#string:23:0DD
+{
+	The best buttew avaiwabwe. It[BR]
+	wooks fweshwy chuwned.[End]
+}
+
+#string:23:0DE
+{
+	Detewgent to wash utensiws.[End]
+}
+
+#string:23:0DF
+{
+	Owdinawy watew.[End]
+}
+
+#string:23:0E0
+{
+	The best fwouw avaiwabwe to bake[BR]
+	the finest woyaw cakes.[End]
+}
+
+#string:23:0E1
+{
+	Miwk, fwesh fwom the cow![End]
+}
+
+#string:23:0E2
+{
+	Pwoof of Mawio's stwength, won[BR]
+	by defeating Chan at the Dojo.[End]
+}
+
+#string:23:0E3
+{
+	Pwoof of Mawio's stwength, won[BR]
+	by defeating Wee at the Dojo.[End]
+}
+
+#string:23:0E4
+{
+	Pwoof of Mawio's stwength, fow[BR]
+	besting The Mastew at the Dojo.[End]
+}
+
+#string:23:0E5
+{
+	Pwoof of Mawio's stwength, fow[BR]
+	besting The Mastew at the Dojo.[End]
+}
+
+#string:23:0E6
+{
+	Pwoof of Mawio's stwength. Now[BR]
+	Mawio is the stwongest.[End]
+}
+
+#string:23:0E7
+{
+	A stone. Use it to uwtwa-wank[BR]
+	one of youw pawty membews.[End]
+}
+
+#string:23:0E8
+{
+	A cawd Koopa Koot gave you. Use[BR]
+	it to pway in the Pwaywoom.[End]
+}
+
+#string:23:0E9
+{
+	A cawd Koopa Koot gave you. Use[BR]
+	it to pway in the Pwaywoom.[End]
+}
+
+#string:23:0EA
+{
+	A wettew to Kowowado.[End]
+}
+
+#string:23:0EB
+{
+	A wettew to Mewwon in Toad Town.[BR]
+	[End]
+}
+
+#string:23:0EC
+{
+	A wettew to Goompa in Goomba[BR]
+	Viwwage.[End]
+}
+
+#string:23:0ED
+{
+	A wettew to Mowt T. in Koopa[BR]
+	Viwwage.[End]
+}
+
+#string:23:0EE
+{
+	A wettew to Wuss T. in Toad[BR]
+	Town.[End]
+}
+
+#string:23:0EF
+{
+	A wettew to Mayow Penguin in[BR]
+	Shivew City.[End]
+}
+
+#string:23:0F0
+{
+	A wettew to Mewwow at Shooting[BR]
+	Staw Summit.[End]
+}
+
+#string:23:0F1
+{
+	A wettew to Fice T. neaw the[BR]
+	entwance to Fowevew Fowest.[End]
+}
+
+#string:23:0F2
+{
+	A wettew to the twavewing[BR]
+	Nomadimouse on the woad.[End]
+}
+
+#string:23:0F3
+{
+	A wettew to Minh T. in Toad[BR]
+	Town.[End]
+}
+
+#string:23:0F4
+{
+	A wettew to Goompapa in Goomba[BR]
+	Viwwage.[End]
+}
+
+#string:23:0F5
+{
+	A wettew to Igow in Boo's Shop.[End]
+}
+
+#string:23:0F6
+{
+	A wettew to Fwanky in Boo's[BR]
+	Mansion.[End]
+}
+
+#string:23:0F7
+{
+	A wettew to Muss T. neaw[BR]
+	Pwincess Peach's Castwe.[End]
+}
+
+#string:23:0F8
+{
+	A wettew to Koovew in Koopa[BR]
+	Viwwage.[End]
+}
+
+#string:23:0F9
+{
+	A wettew to Fishmaew at the Toad[BR]
+	Town Powt.[End]
+}
+
+#string:23:0FA
+{
+	A wettew to Koovew in Koopa[BR]
+	Viwwage.[End]
+}
+
+#string:23:0FB
+{
+	A wettew to Mw. E. in Dwy Dwy[BR]
+	Outpost.[End]
+}
+
+#string:23:0FC
+{
+	A wettew to Miss T. neaw the[BR]
+	Toad Town Dojo.[End]
+}
+
+#string:23:0FD
+{
+	A wettew to Wittwe Mousew in the[BR]
+	Dwy Dwy Outpost shop.[End]
+}
+
+#string:23:0FE
+{
+	A wettew to Dane T. neaw Toad[BR]
+	Town Station.[End]
+}
+
+#string:23:0FF
+{
+	A wettew to the Wed Yoshi Kid in[BR]
+	Yoshi's Viwwage.[End]
+}
+
+#string:23:100
+{
+	A wettew to Dane T. neaw Toad[BR]
+	Town Station.[End]
+}
+
+#string:23:101
+{
+	A wettew to Fwost T. in Stawbown[BR]
+	Vawwey.[End]
+}
+
+#string:23:102
+{
+	A wettew to Goompapa in Goomba[BR]
+	Viwwage.[End]
+}
+
+#string:23:103
+{
+	Kowowado's stwange book. Dewivew[BR]
+	this to Koopa Koot.[End]
+}
+
+#string:23:104
+{
+	A tape wetuwned by Goompa.[BR]
+	Dewivew it to Koopa Koot.[End]
+}
+
+#string:23:105
+{
+	Wuigi's autogwaph. Koopa Koot[BR]
+	wants this.[End]
+}
+
+#string:23:106
+{
+	A wawwet Koopa Koot dwopped.[BR]
+	Wetuwn it to him.[End]
+}
+
+#string:23:107
+{
+	An autogwaph fwom Mewwuvwee.[BR]
+	Koopa Koot wants this.[End]
+}
+
+#string:23:108
+{
+	Is this a pictuwe of a young[BR]
+	Koopa Koot? He wants this.[End]
+}
+
+#string:23:109
+{
+	Gwasses Koopa Koot dwopped.[BR]
+	Dewivew them to him.[End]
+}
+
+#string:23:10A
+{
+	A package weceived fwom a Boo.[BR]
+	Dewivew it to Koopa Koot.[End]
+}
+
+#string:23:10B
+{
+	A jaw at Wittwe Mousew's Shop.[BR]
+	A cowwectow's item, pewhaps?[End]
+}
+
